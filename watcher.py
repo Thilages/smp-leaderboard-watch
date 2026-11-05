@@ -12,14 +12,16 @@ Every check:
   2. compare it with the previous copy (data/latest.json)
   3. append any differences to data/changes.json
   4. save the new copy as data/latest.json
-Then it commits data/ to the repo (only when something changed, plus an
-hourly heartbeat), so the commit history doubles as an update feed.
+Then it commits data/ to the repo: within a minute of any change, and a
+heartbeat every 2 minutes otherwise (so the files always show a fresh
+checkedAt time). Change commits are titled with the money moves.
 
 Env:
   RUN_MINUTES   how long to watch before exiting (default 340, job max is 360)
   POLL_SECONDS  seconds between checks (default 30)
   CHAIN         "yes" = start the next run when this one ends (default yes)
   NO_GIT        "1" = never commit/push (local testing)
+  HEARTBEAT_SECONDS  push the latest check time at least this often (default 120)
 """
 import json
 import os
@@ -48,7 +50,7 @@ POLL_SECONDS = float(os.environ.get("POLL_SECONDS", "30") or 30)
 CHAIN = (os.environ.get("CHAIN", "yes") or "yes").lower() in ("yes", "true", "1")
 NO_GIT = os.environ.get("NO_GIT") == "1"
 PUSH_MIN_GAP = 60          # at most one data commit per minute
-HEARTBEAT_EVERY = 3600     # commit status.json at least hourly
+HEARTBEAT_EVERY = float(os.environ.get("HEARTBEAT_SECONDS", "120") or 120)
 
 IST = timezone(timedelta(hours=5, minutes=30))
 TEAM_NAMES = {
@@ -181,12 +183,15 @@ def write_json(path, obj, one_per_line=False):
     os.replace(tmp, path)
 
 
-def save_latest(payload, at, at_ist, check_no):
+def save_latest(payload, at, at_ist, check_no, last_change=None):
     players = payload.get("players", [])
     ranks = ranked(players)
     write_json(LATEST, {
-        "fetchedAt": at,
-        "fetchedAtIST": at_ist,
+        "checkedAt": at,
+        "checkedAtIST": at_ist,
+        "check": check_no,
+        "lastChangeAt": (last_change or {}).get("at"),
+        "lastChangeAtIST": (last_change or {}).get("atIST"),
         "source": API_URL,
         "teams": team_totals(players),
         "board": sorted(({"rank": ranks[p["id"]], "name": p.get("name"), "money": p.get("money"),
@@ -422,13 +427,12 @@ def main():
                             log(f"  {c['player']}: ${c['from']} -> ${c['to']} ({c['delta']:+d}) rank {c['rankFrom']}->{c['rankTo']} {' '.join(c.get('flags', []))}")
                         else:
                             log(f"  {c['type']}: {c.get('player', '')} {json.dumps(c.get('fields', ''))[:150]}")
-                if new or prev is None:
-                    save_latest(payload, at, at_ist, status["totalChecks"])
+                save_latest(payload, at, at_ist, status["totalChecks"],
+                            {"at": status.get("lastChangeAt"), "atIST": status.get("lastChangeAtIST")})
                 prev = payload
                 status.update({"state": "watching", "lastCheckAt": at, "lastCheckAtIST": at_ist,
                                "players": len(payload.get("players", [])), "browserMode": br.mode})
-                if status["checksThisRun"] % 20 == 1 or new:
-                    log(f"check #{status['checksThisRun']} ok, {len(new)} change(s)")
+                log(f"check #{status['checksThisRun']} ok, {len(new)} change(s)")
 
             now = time.time()
             if force_push or (pending and now - last_push >= PUSH_MIN_GAP):
@@ -438,7 +442,7 @@ def main():
                     pending, last_push, last_beat, force_push = [], now, now, False
             elif now - last_beat >= HEARTBEAT_EVERY:
                 write_json(STATUS, status)
-                push(commit_message([], now_pair()[1]))
+                push(f"{now_pair()[1][11:16]} IST: checked, no change ({status['checksThisRun']} checks this run)")
                 last_beat = now
 
             next_tick += POLL_SECONDS
