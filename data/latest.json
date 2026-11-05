@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T18:42:47Z",
-  "checkedAtIST": "2026-11-06 00:12:47",
-  "check": 1484,
+  "checkedAt": "2026-11-05T18:45:47Z",
+  "checkedAtIST": "2026-11-06 00:15:47",
+  "check": 1489,
   "lastChangeAt": "2026-11-05T17:31:57Z",
   "lastChangeAtIST": "2026-11-05 23:01:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -295,7 +295,7 @@
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
         "money": 160,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/eldeathly",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -303,7 +303,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 1078
+        "playtime": 1287
       },
       {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
@@ -421,7 +421,7 @@
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 108,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
@@ -429,7 +429,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 599
+        "playtime": 644
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
@@ -569,7 +569,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 1080
+        "playtime": 1235
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
@@ -687,7 +687,7 @@
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
         "name": "ItzRealMe",
         "money": 70,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/itzrealmemc",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -695,7 +695,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1040
+        "playtime": 1249
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
