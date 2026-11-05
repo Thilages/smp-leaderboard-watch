@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T07:58:13Z",
-  "checkedAtIST": "2026-11-05 13:28:13",
-  "check": 206,
+  "checkedAt": "2026-11-05T08:00:13Z",
+  "checkedAtIST": "2026-11-05 13:30:13",
+  "check": 210,
   "lastChangeAt": "2026-11-05T07:40:13Z",
   "lastChangeAtIST": "2026-11-05 13:10:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -463,7 +463,7 @@
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 104,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/fymada",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -471,7 +471,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 341
+        "playtime": 587
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
