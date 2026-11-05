@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T19:43:17Z",
-  "checkedAtIST": "2026-11-06 01:13:17",
-  "check": 1604,
-  "lastChangeAt": "2026-11-05T19:41:47Z",
-  "lastChangeAtIST": "2026-11-06 01:11:47",
+  "checkedAt": "2026-11-05T19:44:17Z",
+  "checkedAtIST": "2026-11-06 01:14:17",
+  "check": 1605,
+  "lastChangeAt": "2026-11-05T19:44:17Z",
+  "lastChangeAtIST": "2026-11-06 01:14:17",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -19,15 +19,15 @@
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
+      "team": "PURPLE_TEAM",
+      "name": "Purple Aces",
       "money": 640,
       "players": 6
     },
     {
-      "team": "PURPLE_TEAM",
-      "name": "Purple Aces",
-      "money": 635,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 640,
       "players": 6
     },
     {
@@ -53,7 +53,7 @@
     {
       "rank": 2,
       "name": "InProper",
-      "money": 205,
+      "money": 210,
       "team": "Purple Aces"
     },
     {
@@ -280,7 +280,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 205,
+        "money": 210,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
@@ -589,7 +589,7 @@
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
         "name": "sweatgod",
         "money": 89,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sweatgod",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -597,7 +597,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 812
+        "playtime": 858
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
