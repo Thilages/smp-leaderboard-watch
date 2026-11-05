@@ -14,5 +14,6 @@
 {"at": "2026-11-05T16:00:27Z", "atIST": "2026-11-05 21:30:27", "type": "left", "player": "Pro4D", "id": "1aa35b87-00ae-4139-821f-38434dd9da25", "team": "Blue Diamonds", "money": 100},
 {"at": "2026-11-05T16:16:57Z", "atIST": "2026-11-05 21:46:57", "type": "left", "player": "bumpyJake", "id": "1acee0f7-624d-492b-86a9-fb2834cc4aee", "team": "Green Clubs", "money": 100},
 {"at": "2026-11-05T16:54:27Z", "atIST": "2026-11-05 22:24:27", "player": "ElDeathly", "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf", "team": "Yellow Spades", "type": "money", "from": 140, "to": 170, "delta": 30, "rankFrom": 4, "rankTo": 3, "also": {"kills": {"from": 1, "to": 2}}},
-{"at": "2026-11-05T16:54:27Z", "atIST": "2026-11-05 22:24:27", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 70, "to": 40, "delta": -30, "rankFrom": 31, "rankTo": 36, "flags": ["rank_jump"], "also": {"deaths": {"from": 1, "to": 2}}}
+{"at": "2026-11-05T16:54:27Z", "atIST": "2026-11-05 22:24:27", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 70, "to": 40, "delta": -30, "rankFrom": 31, "rankTo": 36, "flags": ["rank_jump"], "also": {"deaths": {"from": 1, "to": 2}}},
+{"at": "2026-11-05T17:09:57Z", "atIST": "2026-11-05 22:39:57", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 100, "to": 70, "delta": -30, "rankFrom": 22, "rankTo": 30, "flags": ["rank_jump"]}
 ]

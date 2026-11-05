@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T17:08:57Z",
-  "checkedAtIST": "2026-11-05 22:38:57",
-  "check": 1297,
-  "lastChangeAt": "2026-11-05T16:54:27Z",
-  "lastChangeAtIST": "2026-11-05 22:24:27",
+  "checkedAt": "2026-11-05T17:09:57Z",
+  "checkedAtIST": "2026-11-05 22:39:57",
+  "check": 1299,
+  "lastChangeAt": "2026-11-05T17:09:57Z",
+  "lastChangeAtIST": "2026-11-05 22:39:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -19,15 +19,15 @@
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 650,
-      "players": 6
-    },
-    {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
       "money": 630,
+      "players": 6
+    },
+    {
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 620,
       "players": 6
     },
     {
@@ -172,57 +172,57 @@
     },
     {
       "rank": 22,
-      "name": "McSolsy",
-      "money": 100,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 23,
       "name": "Bormethius",
       "money": 100,
       "team": "Yellow Spades"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "kantje",
       "money": 100,
       "team": "Purple Aces"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "AiroKun",
       "money": 90,
       "team": "Red Jokers"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "sweatgod",
       "money": 89,
       "team": "Green Clubs"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "SB737",
       "money": 80,
       "team": "Red Jokers"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "tingzmc",
       "money": 75,
       "team": "Green Clubs"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "WyLL_",
       "money": 75,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "ClownPierce",
       "money": 70,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 30,
+      "name": "McSolsy",
+      "money": 70,
+      "team": "Yellow Spades"
     },
     {
       "rank": 31,
@@ -505,7 +505,7 @@
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
         "name": "saparata",
         "money": 104,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/saps",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -513,7 +513,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 528
+        "playtime": 603
       },
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
@@ -556,20 +556,6 @@
         "kills": 0,
         "deaths": 0,
         "playtime": 637
-      },
-      {
-        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
-        "name": "McSolsy",
-        "money": 100,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sols",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 1080
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
@@ -682,6 +668,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 652
+      },
+      {
+        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
+        "name": "McSolsy",
+        "money": 70,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sols",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 1080
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
