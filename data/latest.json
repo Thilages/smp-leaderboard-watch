@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T14:53:27Z",
-  "checkedAtIST": "2026-11-05 20:23:27",
-  "check": 1029,
-  "lastChangeAt": "2026-11-05T14:53:27Z",
-  "lastChangeAtIST": "2026-11-05 20:23:27",
+  "checkedAt": "2026-11-05T14:55:57Z",
+  "checkedAtIST": "2026-11-05 20:25:57",
+  "check": 1034,
+  "lastChangeAt": "2026-11-05T14:55:57Z",
+  "lastChangeAtIST": "2026-11-05 20:25:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -519,7 +519,7 @@
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 104,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -638,7 +638,7 @@
         "captain": true,
         "tier": "S_TIER",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 2,
         "playtime": 565
       },
       {
