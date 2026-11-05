@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T21:09:47Z",
-  "checkedAtIST": "2026-11-06 02:39:47",
-  "check": 1775,
+  "checkedAt": "2026-11-05T21:12:17Z",
+  "checkedAtIST": "2026-11-06 02:42:17",
+  "check": 1780,
   "lastChangeAt": "2026-11-05T21:00:17Z",
   "lastChangeAtIST": "2026-11-06 02:30:17",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -317,7 +317,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 1351
+        "playtime": 1353
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -401,7 +401,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 705
+        "playtime": 716
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -485,7 +485,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1255
+        "playtime": 1269
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -499,7 +499,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 915
+        "playtime": 926
       },
       {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
@@ -513,7 +513,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 1303
+        "playtime": 1314
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
@@ -527,7 +527,7 @@
         "tier": "A_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 932
+        "playtime": 941
       },
       {
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
@@ -541,7 +541,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 928
+        "playtime": 936
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
@@ -555,7 +555,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 919
+        "playtime": 928
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
@@ -597,7 +597,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 889
+        "playtime": 898
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
@@ -611,7 +611,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1066
+        "playtime": 1080
       },
       {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
@@ -653,7 +653,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1320
+        "playtime": 1327
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
@@ -667,7 +667,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 857
+        "playtime": 868
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
