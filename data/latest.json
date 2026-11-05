@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T16:00:27Z",
-  "checkedAtIST": "2026-11-05 21:30:27",
-  "check": 1162,
+  "checkedAt": "2026-11-05T16:02:57Z",
+  "checkedAtIST": "2026-11-05 21:32:57",
+  "check": 1167,
   "lastChangeAt": "2026-11-05T16:00:27Z",
   "lastChangeAtIST": "2026-11-05 21:30:27",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -567,7 +567,7 @@
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 100,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -575,7 +575,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 1075
+        "playtime": 1080
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
@@ -679,7 +679,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 75,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -687,7 +687,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 636
+        "playtime": 683
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
