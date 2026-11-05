@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T20:59:47Z",
-  "checkedAtIST": "2026-11-06 02:29:47",
-  "check": 1755,
-  "lastChangeAt": "2026-11-05T20:23:17Z",
-  "lastChangeAtIST": "2026-11-06 01:53:17",
+  "checkedAt": "2026-11-05T21:00:17Z",
+  "checkedAtIST": "2026-11-06 02:30:17",
+  "check": 1756,
+  "lastChangeAt": "2026-11-05T21:00:17Z",
+  "lastChangeAtIST": "2026-11-06 02:30:17",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -281,7 +281,7 @@
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
         "money": 235,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -295,7 +295,7 @@
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 169,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/ronin",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -351,7 +351,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 146,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -379,7 +379,7 @@
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 138,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -421,7 +421,7 @@
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 118,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/bogur",
         "vip": false,
         "team": "PINK_TEAM",
@@ -812,8 +812,7 @@
     ],
     "eventAvailable": true,
     "eventFinished": false,
-    "currentEvent": null,
-    "nextEvent": {
+    "currentEvent": {
       "id": "d5ecf6a8-a4fd-4574-bdd7-044aebc8f46d",
       "name": "Gladiators",
       "start": "2026-11-05T21:00:00.000Z",
@@ -821,7 +820,15 @@
       "firstEvent": false,
       "endedAt": null
     },
-    "isLive": false,
+    "nextEvent": {
+      "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
+      "name": "Capture The Flag",
+      "start": "2026-11-06T21:00:00.000Z",
+      "shouldLock": false,
+      "firstEvent": false,
+      "endedAt": null
+    },
+    "isLive": true,
     "pollingInterval": 30000,
     "eventName": "Season 7"
   }
