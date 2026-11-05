@@ -1,5 +1,6 @@
 [
 {"at": "2026-11-05T06:23:43Z", "atIST": "2026-11-05 11:53:43", "player": "ghostiefruit", "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b", "team": "Pink Hearts", "type": "money", "from": 108, "to": 128, "delta": 20, "rankFrom": 11, "rankTo": 6, "flags": ["rank_jump"]},
 {"at": "2026-11-05T07:40:13Z", "atIST": "2026-11-05 13:10:13", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "money", "from": 60, "to": 100, "delta": 40, "rankFrom": 35, "rankTo": 25, "flags": ["rank_jump"], "also": {"kills": {"from": 0, "to": 1}}},
-{"at": "2026-11-05T07:40:13Z", "atIST": "2026-11-05 13:10:13", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "money", "from": 100, "to": 60, "delta": -40, "rankFrom": 20, "rankTo": 35, "flags": ["rank_jump"], "also": {"deaths": {"from": 0, "to": 1}}}
+{"at": "2026-11-05T07:40:13Z", "atIST": "2026-11-05 13:10:13", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "money", "from": 100, "to": 60, "delta": -40, "rankFrom": 20, "rankTo": 35, "flags": ["rank_jump"], "also": {"deaths": {"from": 0, "to": 1}}},
+{"at": "2026-11-05T08:48:13Z", "atIST": "2026-11-05 14:18:13", "player": "5uppps", "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 0, "to": 1}}}
 ]
