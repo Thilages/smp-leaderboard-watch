@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T10:34:43Z",
-  "checkedAtIST": "2026-11-05 16:04:43",
-  "check": 516,
+  "checkedAt": "2026-11-05T10:36:43Z",
+  "checkedAtIST": "2026-11-05 16:06:43",
+  "check": 520,
   "lastChangeAt": "2026-11-05T08:48:13Z",
   "lastChangeAtIST": "2026-11-05 14:18:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -715,7 +715,7 @@
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
         "money": 70,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -723,7 +723,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 3,
-        "playtime": 492
+        "playtime": 609
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
