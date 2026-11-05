@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T20:16:47Z",
-  "checkedAtIST": "2026-11-06 01:46:47",
-  "check": 1670,
-  "lastChangeAt": "2026-11-05T20:00:17Z",
-  "lastChangeAtIST": "2026-11-06 01:30:17",
+  "checkedAt": "2026-11-05T20:19:17Z",
+  "checkedAtIST": "2026-11-06 01:49:17",
+  "check": 1675,
+  "lastChangeAt": "2026-11-05T20:19:17Z",
+  "lastChangeAtIST": "2026-11-06 01:49:17",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 685,
+      "money": 690,
       "players": 6
     },
     {
@@ -58,15 +58,15 @@
     },
     {
       "rank": 3,
-      "name": "ElDeathly",
-      "money": 164,
-      "team": "Yellow Spades"
+      "name": "TryH4rdd",
+      "money": 169,
+      "team": "Purple Aces"
     },
     {
       "rank": 4,
-      "name": "TryH4rdd",
+      "name": "ElDeathly",
       "money": 164,
-      "team": "Purple Aces"
+      "team": "Yellow Spades"
     },
     {
       "rank": 5,
@@ -292,6 +292,20 @@
         "playtime": 773
       },
       {
+        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
+        "name": "TryH4rdd",
+        "money": 169,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/ronin",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 740
+      },
+      {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
         "money": 164,
@@ -304,20 +318,6 @@
         "kills": 2,
         "deaths": 0,
         "playtime": 1351
-      },
-      {
-        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
-        "name": "TryH4rdd",
-        "money": 164,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/ronin",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 740
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
