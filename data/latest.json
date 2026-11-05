@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T23:33:56Z",
-  "checkedAtIST": "2026-11-06 05:03:56",
-  "check": 1823,
+  "checkedAt": "2026-11-05T23:36:26Z",
+  "checkedAtIST": "2026-11-06 05:06:26",
+  "check": 1828,
   "lastChangeAt": "2026-11-05T23:24:26Z",
   "lastChangeAtIST": "2026-11-06 04:54:26",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -393,7 +393,7 @@
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 150,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -401,7 +401,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 1070
+        "playtime": 1092
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
@@ -603,7 +603,7 @@
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 105,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/sb737",
         "vip": false,
         "team": "RED_TEAM",
@@ -611,7 +611,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 926
+        "playtime": 948
       },
       {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
@@ -729,7 +729,7 @@
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
         "name": "Bormethius",
         "money": 84,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bormethius",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -737,7 +737,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1183
+        "playtime": 1204
       },
       {
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
