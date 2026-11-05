@@ -1,17 +1,17 @@
 {
-  "runStartedAt": "2026-11-05T05:58:08Z",
-  "runStartedAtIST": "2026-11-05 11:28:08",
-  "runId": "41977287018",
+  "runStartedAt": "2026-11-05T06:04:34Z",
+  "runStartedAtIST": "2026-11-05 11:34:34",
+  "runId": "41977974976",
   "pollSeconds": 30.0,
-  "checksThisRun": 8,
+  "checksThisRun": 6,
   "errorsThisRun": 0,
-  "state": "stopped",
-  "totalChecks": 8,
+  "state": "handing over",
+  "totalChecks": 14,
   "totalChanges": 0,
-  "lastCheckAt": "2026-11-05T06:01:50Z",
-  "lastCheckAtIST": "2026-11-05 11:31:50",
+  "lastCheckAt": "2026-11-05T06:07:10Z",
+  "lastCheckAtIST": "2026-11-05 11:37:10",
   "players": 36,
   "browserMode": "headless",
-  "runEndedAt": "2026-11-05T06:02:20Z",
-  "runEndedAtIST": "2026-11-05 11:32:20"
+  "runEndedAt": "2026-11-05T06:07:40Z",
+  "runEndedAtIST": "2026-11-05 11:37:40"
 }
