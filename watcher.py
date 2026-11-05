@@ -353,6 +353,8 @@ def main():
     prev_doc = read_json(LATEST, None)
     prev = prev_doc.get("payload") if isinstance(prev_doc, dict) else None
     changes = read_json(CHANGES, [])
+    if not os.path.exists(CHANGES):
+        write_json(CHANGES, changes, one_per_line=True)
     status = read_json(STATUS, {})
     started_at, started_ist = now_pair()
     status.update({
