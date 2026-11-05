@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T17:30:57Z",
-  "checkedAtIST": "2026-11-05 23:00:57",
-  "check": 1341,
-  "lastChangeAt": "2026-11-05T17:26:27Z",
-  "lastChangeAtIST": "2026-11-05 22:56:27",
+  "checkedAt": "2026-11-05T17:31:57Z",
+  "checkedAtIST": "2026-11-05 23:01:57",
+  "check": 1343,
+  "lastChangeAt": "2026-11-05T17:31:57Z",
+  "lastChangeAtIST": "2026-11-05 23:01:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -59,7 +59,7 @@
     {
       "rank": 3,
       "name": "ElDeathly",
-      "money": 170,
+      "money": 160,
       "team": "Yellow Spades"
     },
     {
@@ -226,27 +226,27 @@
     },
     {
       "rank": 31,
+      "name": "ItzRealMe",
+      "money": 70,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 32,
       "name": "Only_A_Squid",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "sidefall",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Greninja",
       "money": 60,
       "team": "Red Jokers"
-    },
-    {
-      "rank": 34,
-      "name": "ItzRealMe",
-      "money": 60,
-      "team": "Yellow Spades"
     },
     {
       "rank": 35,
@@ -294,7 +294,7 @@
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
-        "money": 170,
+        "money": 160,
         "online": true,
         "streamLink": "https://www.twitch.tv/eldeathly",
         "vip": false,
@@ -421,7 +421,7 @@
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 108,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
@@ -684,6 +684,20 @@
         "playtime": 652
       },
       {
+        "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
+        "name": "ItzRealMe",
+        "money": 70,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/itzrealmemc",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1040
+      },
+      {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 70,
@@ -724,20 +738,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 775
-      },
-      {
-        "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
-        "name": "ItzRealMe",
-        "money": 60,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/itzrealmemc",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1040
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
