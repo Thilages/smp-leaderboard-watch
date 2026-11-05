@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T19:56:47Z",
-  "checkedAtIST": "2026-11-06 01:26:47",
-  "check": 1630,
+  "checkedAt": "2026-11-05T19:58:47Z",
+  "checkedAtIST": "2026-11-06 01:28:47",
+  "check": 1634,
   "lastChangeAt": "2026-11-05T19:56:47Z",
   "lastChangeAtIST": "2026-11-06 01:26:47",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -589,7 +589,7 @@
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
         "name": "sweatgod",
         "money": 89,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/sweatgod",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -603,7 +603,7 @@
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
         "name": "Bormethius",
         "money": 84,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bormethius",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -611,7 +611,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 950
+        "playtime": 1066
       },
       {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
