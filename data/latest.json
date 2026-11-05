@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T16:52:57Z",
-  "checkedAtIST": "2026-11-05 22:22:57",
-  "check": 1266,
-  "lastChangeAt": "2026-11-05T16:16:57Z",
-  "lastChangeAtIST": "2026-11-05 21:46:57",
+  "checkedAt": "2026-11-05T16:54:27Z",
+  "checkedAtIST": "2026-11-05 22:24:27",
+  "check": 1269,
+  "lastChangeAt": "2026-11-05T16:54:27Z",
+  "lastChangeAtIST": "2026-11-05 22:24:27",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -19,15 +19,15 @@
       "players": 6
     },
     {
-      "team": "BLUE_TEAM",
-      "name": "Blue Diamonds",
-      "money": 630,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 650,
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 620,
+      "team": "BLUE_TEAM",
+      "name": "Blue Diamonds",
+      "money": 630,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 470,
+      "money": 440,
       "players": 6
     }
   ],
@@ -58,15 +58,15 @@
     },
     {
       "rank": 3,
-      "name": "TryH4rdd",
-      "money": 160,
-      "team": "Purple Aces"
+      "name": "ElDeathly",
+      "money": 170,
+      "team": "Yellow Spades"
     },
     {
       "rank": 4,
-      "name": "ElDeathly",
-      "money": 140,
-      "team": "Yellow Spades"
+      "name": "TryH4rdd",
+      "money": 160,
+      "team": "Purple Aces"
     },
     {
       "rank": 5,
@@ -226,39 +226,39 @@
     },
     {
       "rank": 31,
-      "name": "_Brinkz",
-      "money": 70,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 32,
       "name": "Only_A_Squid",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "sidefall",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Greninja",
       "money": 60,
       "team": "Red Jokers"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "ItzRealMe",
       "money": 60,
       "team": "Yellow Spades"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "ConixD",
       "money": 60,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 36,
+      "name": "_Brinkz",
+      "money": 40,
+      "team": "Red Jokers"
     }
   ],
   "payload": {
@@ -292,6 +292,20 @@
         "playtime": 762
       },
       {
+        "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
+        "name": "ElDeathly",
+        "money": 170,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/eldeathly",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 1078
+      },
+      {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 160,
@@ -304,20 +318,6 @@
         "kills": 2,
         "deaths": 0,
         "playtime": 740
-      },
-      {
-        "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
-        "name": "ElDeathly",
-        "money": 140,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/eldeathly",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 1,
-        "deaths": 0,
-        "playtime": 1078
       },
       {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
@@ -684,20 +684,6 @@
         "playtime": 552
       },
       {
-        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
-        "name": "_Brinkz",
-        "money": 70,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/brinkzlive",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 639
-      },
-      {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 70,
@@ -766,6 +752,20 @@
         "kills": 0,
         "deaths": 2,
         "playtime": 782
+      },
+      {
+        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
+        "name": "_Brinkz",
+        "money": 40,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/brinkzlive",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 639
       }
     ],
     "events": [
