@@ -58,5 +58,6 @@
 {"at": "2026-11-05T19:41:47Z", "atIST": "2026-11-06 01:11:47", "player": "Infume", "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791", "team": "Pink Hearts", "type": "money", "from": 112, "to": 152, "delta": 40, "rankFrom": 13, "rankTo": 5, "flags": ["rank_jump"], "also": {"kills": {"from": 0, "to": 1}}},
 {"at": "2026-11-05T19:41:47Z", "atIST": "2026-11-06 01:11:47", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "money", "from": 113, "to": 73, "delta": -40, "rankFrom": 11, "rankTo": 30, "flags": ["rank_jump"], "also": {"deaths": {"from": 0, "to": 1}}},
 {"at": "2026-11-05T19:44:17Z", "atIST": "2026-11-06 01:14:17", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 205, "to": 210, "delta": 5, "rankFrom": 2, "rankTo": 2},
-{"at": "2026-11-05T19:45:47Z", "atIST": "2026-11-06 01:15:47", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 210, "to": 215, "delta": 5, "rankFrom": 2, "rankTo": 2}
+{"at": "2026-11-05T19:45:47Z", "atIST": "2026-11-06 01:15:47", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 210, "to": 215, "delta": 5, "rankFrom": 2, "rankTo": 2},
+{"at": "2026-11-05T19:46:47Z", "atIST": "2026-11-06 01:16:47", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 215, "to": 225, "delta": 10, "rankFrom": 2, "rankTo": 2}
 ]

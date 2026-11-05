@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T19:45:47Z",
-  "checkedAtIST": "2026-11-06 01:15:47",
-  "check": 1608,
-  "lastChangeAt": "2026-11-05T19:45:47Z",
-  "lastChangeAtIST": "2026-11-06 01:15:47",
+  "checkedAt": "2026-11-05T19:46:47Z",
+  "checkedAtIST": "2026-11-06 01:16:47",
+  "check": 1610,
+  "lastChangeAt": "2026-11-05T19:46:47Z",
+  "lastChangeAtIST": "2026-11-06 01:16:47",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 645,
+      "money": 655,
       "players": 6
     },
     {
@@ -53,7 +53,7 @@
     {
       "rank": 2,
       "name": "InProper",
-      "money": 215,
+      "money": 225,
       "team": "Purple Aces"
     },
     {
@@ -280,7 +280,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 215,
+        "money": 225,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
