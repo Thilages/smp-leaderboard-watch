@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T08:02:43Z",
-  "checkedAtIST": "2026-11-05 13:32:43",
-  "check": 215,
+  "checkedAt": "2026-11-05T08:04:43Z",
+  "checkedAtIST": "2026-11-05 13:34:43",
+  "check": 219,
   "lastChangeAt": "2026-11-05T07:40:13Z",
   "lastChangeAtIST": "2026-11-05 13:10:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -267,7 +267,7 @@
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
         "money": 229,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
@@ -275,7 +275,7 @@
         "tier": "S_TIER",
         "kills": 3,
         "deaths": 0,
-        "playtime": 448
+        "playtime": 644
       },
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
@@ -547,7 +547,7 @@
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
         "name": "leekleek",
         "money": 100,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/leekleek",
         "vip": false,
         "team": "YELLOW_TEAM",
