@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T16:16:27Z",
-  "checkedAtIST": "2026-11-05 21:46:27",
-  "check": 1193,
-  "lastChangeAt": "2026-11-05T16:00:27Z",
-  "lastChangeAtIST": "2026-11-05 21:30:27",
+  "checkedAt": "2026-11-05T16:16:57Z",
+  "checkedAtIST": "2026-11-05 21:46:57",
+  "check": 1194,
+  "lastChangeAt": "2026-11-05T16:16:57Z",
+  "lastChangeAtIST": "2026-11-05 21:46:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -11,12 +11,6 @@
       "name": "Pink Hearts",
       "money": 795,
       "players": 6
-    },
-    {
-      "team": "GREEN_TEAM",
-      "name": "Green Clubs",
-      "money": 680,
-      "players": 7
     },
     {
       "team": "PURPLE_TEAM",
@@ -34,6 +28,12 @@
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
       "money": 620,
+      "players": 6
+    },
+    {
+      "team": "GREEN_TEAM",
+      "name": "Green Clubs",
+      "money": 580,
       "players": 6
     },
     {
@@ -184,84 +184,78 @@
     },
     {
       "rank": 24,
-      "name": "bumpyJake",
-      "money": 100,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 25,
       "name": "kantje",
       "money": 100,
       "team": "Purple Aces"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "AiroKun",
       "money": 90,
       "team": "Red Jokers"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "sweatgod",
       "money": 89,
       "team": "Green Clubs"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "SB737",
       "money": 80,
       "team": "Red Jokers"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "tingzmc",
       "money": 75,
       "team": "Green Clubs"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "WyLL_",
       "money": 75,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ClownPierce",
       "money": 70,
       "team": "Red Jokers"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "_Brinkz",
       "money": 70,
       "team": "Red Jokers"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Only_A_Squid",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "sidefall",
       "money": 70,
       "team": "Purple Aces"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Greninja",
       "money": 60,
       "team": "Red Jokers"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "ItzRealMe",
       "money": 60,
       "team": "Yellow Spades"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "ConixD",
       "money": 60,
       "team": "Purple Aces"
@@ -592,20 +586,6 @@
         "playtime": 803
       },
       {
-        "id": "1acee0f7-624d-492b-86a9-fb2834cc4aee",
-        "name": "bumpyJake",
-        "money": 100,
-        "online": true,
-        "streamLink": null,
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": null,
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 286
-      },
-      {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
         "name": "kantje",
         "money": 100,
@@ -679,7 +659,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 75,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
