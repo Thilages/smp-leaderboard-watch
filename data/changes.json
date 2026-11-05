@@ -18,5 +18,6 @@
 {"at": "2026-11-05T17:09:57Z", "atIST": "2026-11-05 22:39:57", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 100, "to": 70, "delta": -30, "rankFrom": 22, "rankTo": 30, "flags": ["rank_jump"]},
 {"at": "2026-11-05T17:26:27Z", "atIST": "2026-11-05 22:56:27", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 70, "to": 100, "delta": 30, "rankFrom": 30, "rankTo": 22, "flags": ["rank_jump"]},
 {"at": "2026-11-05T17:31:57Z", "atIST": "2026-11-05 23:01:57", "player": "ElDeathly", "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf", "team": "Yellow Spades", "type": "money", "from": 170, "to": 160, "delta": -10, "rankFrom": 3, "rankTo": 3},
-{"at": "2026-11-05T17:31:57Z", "atIST": "2026-11-05 23:01:57", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "money", "from": 60, "to": 70, "delta": 10, "rankFrom": 34, "rankTo": 31}
+{"at": "2026-11-05T17:31:57Z", "atIST": "2026-11-05 23:01:57", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "money", "from": 60, "to": 70, "delta": 10, "rankFrom": 34, "rankTo": 31},
+{"at": "2026-11-05T19:03:47Z", "atIST": "2026-11-06 00:33:47", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 90, "to": 95, "delta": 5, "rankFrom": 25, "rankTo": 25}
 ]
