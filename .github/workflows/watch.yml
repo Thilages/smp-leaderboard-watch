@@ -1,0 +1,48 @@
+name: SMP leaderboard watch
+
+on:
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "How many minutes this run watches (max 340)"
+        required: false
+        default: "340"
+      chain:
+        description: "Start the next run automatically when this one ends (yes/no)"
+        required: false
+        default: "yes"
+  schedule:
+    # Backup starter. If a watcher is already running, this one waits in the
+    # queue and takes over the moment the current run ends.
+    - cron: "7 * * * *"
+
+# Only one watcher at a time. A new run waits instead of running in parallel.
+concurrency:
+  group: smp-watcher
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit data/*.json
+  actions: write    # queue the next run at the end
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright (uses the runner's own Chrome)
+        run: pip install --quiet playwright
+
+      - name: Watch the leaderboard every 30 s
+        env:
+          RUN_MINUTES: ${{ github.event.inputs.minutes || '340' }}
+          CHAIN: ${{ github.event.inputs.chain || 'yes' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKFLOW_FILE: watch.yml
+        run: xvfb-run -a python watcher.py
