@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05T15:14:27Z",
-  "checkedAtIST": "2026-11-05 20:44:27",
-  "check": 1070,
+  "checkedAt": "2026-11-05T15:16:57Z",
+  "checkedAtIST": "2026-11-05 20:46:57",
+  "check": 1075,
   "lastChangeAt": "2026-11-05T14:55:57Z",
   "lastChangeAtIST": "2026-11-05 20:25:57",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -317,7 +317,7 @@
         "tier": "A_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 464
+        "playtime": 1078
       },
       {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
@@ -331,7 +331,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 604
+        "playtime": 664
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
@@ -359,7 +359,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 682
+        "playtime": 969
       },
       {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
@@ -387,7 +387,7 @@
         "tier": "A_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 602
+        "playtime": 628
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
@@ -477,7 +477,7 @@
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 104,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/fymada",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -485,7 +485,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 587
+        "playtime": 605
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
@@ -499,7 +499,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 603
+        "playtime": 659
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
@@ -519,7 +519,7 @@
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 104,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -527,7 +527,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 604
+        "playtime": 623
       },
       {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
@@ -555,13 +555,13 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 601
+        "playtime": 637
       },
       {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 100,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -569,13 +569,13 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 342
+        "playtime": 1041
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
         "name": "Bormethius",
         "money": 100,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bormethius",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -583,13 +583,13 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 767
+        "playtime": 803
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 100,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/only_a_squid",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -597,13 +597,13 @@
         "tier": "B_TIER",
         "kills": 1,
         "deaths": 1,
-        "playtime": 949
+        "playtime": 1072
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
         "name": "kantje",
         "money": 100,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/kantje",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -611,7 +611,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 387
+        "playtime": 583
       },
       {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
@@ -639,7 +639,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 565
+        "playtime": 592
       },
       {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
@@ -653,7 +653,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 289
+        "playtime": 526
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
@@ -681,13 +681,13 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 626
+        "playtime": 636
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 70,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
@@ -695,7 +695,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 378
+        "playtime": 552
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
@@ -715,7 +715,7 @@
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
         "money": 70,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -723,7 +723,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 3,
-        "playtime": 698
+        "playtime": 836
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
@@ -751,7 +751,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 447
+        "playtime": 1040
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
