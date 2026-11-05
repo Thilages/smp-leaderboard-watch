@@ -74,5 +74,6 @@
 {"at": "2026-11-05T20:00:17Z", "atIST": "2026-11-06 01:30:17", "player": "scotteh", "id": "60fa1bd7-54ed-4a86-aead-7409023e805e", "team": "Pink Hearts", "type": "money", "from": 142, "to": 146, "delta": 4, "rankFrom": 6, "rankTo": 6},
 {"at": "2026-11-05T20:00:17Z", "atIST": "2026-11-06 01:30:17", "player": "ghostiefruit", "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b", "team": "Pink Hearts", "type": "money", "from": 142, "to": 146, "delta": 4, "rankFrom": 7, "rankTo": 7},
 {"at": "2026-11-05T20:00:17Z", "atIST": "2026-11-06 01:30:17", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "money", "from": 117, "to": 121, "delta": 4, "rankFrom": 11, "rankTo": 11},
-{"at": "2026-11-05T20:19:17Z", "atIST": "2026-11-06 01:49:17", "player": "TryH4rdd", "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170", "team": "Purple Aces", "type": "money", "from": 164, "to": 169, "delta": 5, "rankFrom": 4, "rankTo": 3}
+{"at": "2026-11-05T20:19:17Z", "atIST": "2026-11-06 01:49:17", "player": "TryH4rdd", "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170", "team": "Purple Aces", "type": "money", "from": 164, "to": 169, "delta": 5, "rankFrom": 4, "rankTo": 3},
+{"at": "2026-11-05T20:20:47Z", "atIST": "2026-11-06 01:50:47", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "money", "from": 44, "to": 49, "delta": 5, "rankFrom": 35, "rankTo": 35}
 ]
