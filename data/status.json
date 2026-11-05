@@ -1,0 +1,17 @@
+{
+  "runStartedAt": "2026-11-05T05:58:08Z",
+  "runStartedAtIST": "2026-11-05 11:28:08",
+  "runId": "41977287018",
+  "pollSeconds": 30.0,
+  "checksThisRun": 8,
+  "errorsThisRun": 0,
+  "state": "stopped",
+  "totalChecks": 8,
+  "totalChanges": 0,
+  "lastCheckAt": "2026-11-05T06:01:50Z",
+  "lastCheckAtIST": "2026-11-05 11:31:50",
+  "players": 36,
+  "browserMode": "headless",
+  "runEndedAt": "2026-11-05T06:02:20Z",
+  "runEndedAtIST": "2026-11-05 11:32:20"
+}
