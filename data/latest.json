@@ -1,27 +1,27 @@
 {
-  "checkedAt": "2026-11-05T19:24:17Z",
-  "checkedAtIST": "2026-11-06 00:54:17",
-  "check": 1566,
-  "lastChangeAt": "2026-11-05T19:24:17Z",
-  "lastChangeAtIST": "2026-11-06 00:54:17",
+  "checkedAt": "2026-11-05T19:25:17Z",
+  "checkedAtIST": "2026-11-06 00:55:17",
+  "check": 1568,
+  "lastChangeAt": "2026-11-05T19:25:17Z",
+  "lastChangeAtIST": "2026-11-06 00:55:17",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 860,
-      "players": 6
-    },
-    {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 660,
+      "money": 880,
       "players": 6
     },
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
       "money": 660,
+      "players": 6
+    },
+    {
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 640,
       "players": 6
     },
     {
@@ -70,33 +70,33 @@
     },
     {
       "rank": 5,
-      "name": "ghostiefruit",
+      "name": "scotteh",
       "money": 142,
       "team": "Pink Hearts"
     },
     {
       "rank": 6,
+      "name": "ghostiefruit",
+      "money": 142,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 7,
       "name": "unixn",
       "money": 134,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Evbo_",
       "money": 134,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "JudeLow",
       "money": 129,
       "team": "Green Clubs"
-    },
-    {
-      "rank": 9,
-      "name": "scotteh",
-      "money": 122,
-      "team": "Pink Hearts"
     },
     {
       "rank": 10,
@@ -148,57 +148,57 @@
     },
     {
       "rank": 18,
-      "name": "Bormethius",
-      "money": 104,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 19,
       "name": "LuigiToan",
       "money": 104,
       "team": "Green Clubs"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "5uppps",
       "money": 104,
       "team": "Green Clubs"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Fymada",
       "money": 104,
       "team": "Green Clubs"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "saparata",
       "money": 104,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Aramori",
       "money": 104,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ChuckkNasty",
       "money": 100,
       "team": "Red Jokers"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "kantje",
       "money": 100,
       "team": "Purple Aces"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "sweatgod",
       "money": 89,
       "team": "Green Clubs"
+    },
+    {
+      "rank": 26,
+      "name": "Bormethius",
+      "money": 84,
+      "team": "Yellow Spades"
     },
     {
       "rank": 27,
@@ -320,6 +320,20 @@
         "playtime": 740
       },
       {
+        "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
+        "name": "scotteh",
+        "money": 142,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/scotteh",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": true,
+        "tier": "C_TIER",
+        "kills": 1,
+        "deaths": 0,
+        "playtime": 722
+      },
+      {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 142,
@@ -376,20 +390,6 @@
         "playtime": 452
       },
       {
-        "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
-        "name": "scotteh",
-        "money": 122,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/scotteh",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": true,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 722
-      },
-      {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 117,
@@ -435,7 +435,7 @@
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 110,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/airokun",
         "vip": false,
         "team": "RED_TEAM",
@@ -443,7 +443,7 @@
         "tier": "S_TIER",
         "kills": 3,
         "deaths": 3,
-        "playtime": 588
+        "playtime": 743
       },
       {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
@@ -500,20 +500,6 @@
         "kills": 0,
         "deaths": 0,
         "playtime": 1235
-      },
-      {
-        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
-        "name": "Bormethius",
-        "money": 104,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bormethius",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": true,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 950
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
@@ -628,6 +614,20 @@
         "playtime": 812
       },
       {
+        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
+        "name": "Bormethius",
+        "money": 84,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bormethius",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": true,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 950
+      },
+      {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 80,
@@ -687,7 +687,7 @@
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 70,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
@@ -695,7 +695,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 652
+        "playtime": 785
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
