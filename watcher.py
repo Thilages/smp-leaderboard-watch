@@ -368,6 +368,7 @@ def main():
     deadline = time.time() + RUN_MINUTES * 60
     pending, last_push, last_beat = [], 0.0, time.time()
     healthy = False
+    force_push = False
     with sync_playwright() as pw:
         br = Browser(pw)
         if not br.ensure():
@@ -405,6 +406,9 @@ def main():
                 new = diff(prev, payload, at, at_ist)
                 if prev is None:
                     log(f"baseline saved: {len(payload.get('players', []))} players")
+                    force_push = True
+                    if not os.path.exists(CHANGES):
+                        write_json(CHANGES, changes, one_per_line=True)
                 if new:
                     changes.extend(new)
                     pending.extend(new)
@@ -425,10 +429,11 @@ def main():
                     log(f"check #{status['checksThisRun']} ok, {len(new)} change(s)")
 
             now = time.time()
-            if pending and now - last_push >= PUSH_MIN_GAP:
+            if force_push or (pending and now - last_push >= PUSH_MIN_GAP):
                 write_json(STATUS, status)
-                if push(commit_message(pending, now_pair()[1])):
-                    pending, last_push, last_beat = [], now, now
+                msg = commit_message(pending, now_pair()[1]) if pending else f"{now_pair()[1][11:16]} IST: baseline"
+                if push(msg):
+                    pending, last_push, last_beat, force_push = [], now, now, False
             elif now - last_beat >= HEARTBEAT_EVERY:
                 write_json(STATUS, status)
                 push(commit_message([], now_pair()[1]))
