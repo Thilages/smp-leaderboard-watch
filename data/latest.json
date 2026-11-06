@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-11-06T21:29:39Z",
-  "checkedAtIST": "2026-11-07 02:59:39",
-  "check": 4432,
-  "lastChangeAt": "2026-11-06T21:29:39Z",
-  "lastChangeAtIST": "2026-11-07 02:59:39",
+  "checkedAt": "2026-11-06T21:31:39Z",
+  "checkedAtIST": "2026-11-07 03:01:39",
+  "check": 4436,
+  "lastChangeAt": "2026-11-06T21:31:39Z",
+  "lastChangeAtIST": "2026-11-07 03:01:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1210,
+      "money": 1230,
       "players": 6
     },
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 1020,
+      "money": 1000,
       "players": 6
     },
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "Flowtives",
-      "money": 348,
+      "money": 368,
       "team": "Pink Hearts"
     },
     {
@@ -214,33 +214,33 @@
     },
     {
       "rank": 29,
-      "name": "ConixD",
-      "money": 92,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 30,
       "name": "BryTheGuyy",
       "money": 88,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "tingzmc",
       "money": 87,
       "team": "Green Clubs"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "RoyalPear_",
       "money": 85,
       "team": "Yellow Spades"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Pinityy",
       "money": 79,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 33,
+      "name": "ConixD",
+      "money": 72,
+      "team": "Purple Aces"
     },
     {
       "rank": 34,
@@ -266,14 +266,14 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 348,
+        "money": 368,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
         "captain": false,
         "tier": "S_TIER",
-        "kills": 6,
+        "kills": 7,
         "deaths": 0,
         "playtime": 1555
       },
@@ -656,20 +656,6 @@
         "playtime": 1447
       },
       {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 92,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 3,
-        "playtime": 1564
-      },
-      {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 88,
@@ -724,6 +710,20 @@
         "kills": 0,
         "deaths": 0,
         "playtime": 133
+      },
+      {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 72,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 4,
+        "playtime": 1564
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
