@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T17:58:39Z",
-  "checkedAtIST": "2026-11-06 23:28:39",
-  "check": 4014,
-  "lastChangeAt": "2026-11-06T17:49:09Z",
-  "lastChangeAtIST": "2026-11-06 23:19:09",
+  "checkedAt": "2026-11-06T18:00:09Z",
+  "checkedAtIST": "2026-11-06 23:30:09",
+  "check": 4017,
+  "lastChangeAt": "2026-11-06T18:00:09Z",
+  "lastChangeAtIST": "2026-11-06 23:30:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1120,
+      "money": 1150,
       "players": 6
     },
     {
@@ -21,7 +21,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 835,
+      "money": 805,
       "players": 6
     },
     {
@@ -46,15 +46,15 @@
   "board": [
     {
       "rank": 1,
-      "name": "InProper",
-      "money": 316,
-      "team": "Purple Aces"
+      "name": "Flowtives",
+      "money": 329,
+      "team": "Pink Hearts"
     },
     {
       "rank": 2,
-      "name": "Flowtives",
-      "money": 299,
-      "team": "Pink Hearts"
+      "name": "InProper",
+      "money": 316,
+      "team": "Purple Aces"
     },
     {
       "rank": 3,
@@ -184,57 +184,57 @@
     },
     {
       "rank": 24,
-      "name": "tingzmc",
-      "money": 108,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 25,
       "name": "SB737",
       "money": 105,
       "team": "Red Jokers"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "RoyalPear_",
       "money": 105,
       "team": "Yellow Spades"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aramori",
       "money": 101,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "leekleek",
       "money": 100,
       "team": "Yellow Spades"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "ClownPierce",
       "money": 95,
       "team": "Red Jokers"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "WyLL_",
       "money": 93,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ConixD",
       "money": 91,
       "team": "Purple Aces"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "ItzRealMe",
       "money": 79,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 32,
+      "name": "tingzmc",
+      "money": 78,
+      "team": "Green Clubs"
     },
     {
       "rank": 33,
@@ -264,6 +264,20 @@
   "payload": {
     "players": [
       {
+        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
+        "name": "Flowtives",
+        "money": 329,
+        "online": true,
+        "streamLink": "https://twitch.tv/flowtives",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 6,
+        "deaths": 0,
+        "playtime": 1367
+      },
+      {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
         "money": 316,
@@ -276,20 +290,6 @@
         "kills": 5,
         "deaths": 1,
         "playtime": 1527
-      },
-      {
-        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
-        "name": "Flowtives",
-        "money": 299,
-        "online": true,
-        "streamLink": "https://twitch.tv/flowtives",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 5,
-        "deaths": 0,
-        "playtime": 1367
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -586,20 +586,6 @@
         "playtime": 2450
       },
       {
-        "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
-        "name": "tingzmc",
-        "money": 108,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/tingz",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1550
-      },
-      {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 105,
@@ -710,6 +696,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1694
+      },
+      {
+        "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
+        "name": "tingzmc",
+        "money": 78,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/tingz",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1550
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
