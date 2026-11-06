@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T21:48:39Z",
-  "checkedAtIST": "2026-11-07 03:18:39",
-  "check": 4470,
-  "lastChangeAt": "2026-11-06T21:48:39Z",
-  "lastChangeAtIST": "2026-11-07 03:18:39",
+  "checkedAt": "2026-11-06T21:50:09Z",
+  "checkedAtIST": "2026-11-07 03:20:09",
+  "check": 4473,
+  "lastChangeAt": "2026-11-06T21:49:09Z",
+  "lastChangeAtIST": "2026-11-07 03:19:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
-      "money": 775,
+      "money": 805,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 640,
+      "money": 610,
       "players": 6
     }
   ],
@@ -208,33 +208,33 @@
     },
     {
       "rank": 28,
+      "name": "Bormethius",
+      "money": 107,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 29,
       "name": "notbogur",
       "money": 99,
       "team": "Pink Hearts"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Pinityy",
       "money": 92,
       "team": "Yellow Spades"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "BryTheGuyy",
       "money": 88,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "tingzmc",
       "money": 87,
       "team": "Green Clubs"
-    },
-    {
-      "rank": 32,
-      "name": "Bormethius",
-      "money": 77,
-      "team": "Yellow Spades"
     },
     {
       "rank": 33,
@@ -257,7 +257,7 @@
     {
       "rank": 36,
       "name": "_Brinkz",
-      "money": 39,
+      "money": 9,
       "team": "Red Jokers"
     }
   ],
@@ -457,7 +457,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1575
+        "playtime": 1837
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
@@ -642,6 +642,20 @@
         "playtime": 861
       },
       {
+        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
+        "name": "Bormethius",
+        "money": 107,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bormethius",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": true,
+        "tier": "F_TIER",
+        "kills": 1,
+        "deaths": 2,
+        "playtime": 1661
+      },
+      {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 99,
@@ -698,20 +712,6 @@
         "playtime": 1550
       },
       {
-        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
-        "name": "Bormethius",
-        "money": 77,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bormethius",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": true,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1661
-      },
-      {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
         "name": "ConixD",
         "money": 72,
@@ -756,7 +756,7 @@
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
         "name": "_Brinkz",
-        "money": 39,
+        "money": 9,
         "online": true,
         "streamLink": "https://www.twitch.tv/brinkzlive",
         "vip": false,
@@ -764,7 +764,7 @@
         "captain": false,
         "tier": "C_TIER",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "playtime": 1881
       }
     ],
