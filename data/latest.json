@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:13:39Z",
-  "checkedAtIST": "2026-11-07 00:43:39",
-  "check": 4163,
-  "lastChangeAt": "2026-11-06T19:13:39Z",
-  "lastChangeAtIST": "2026-11-07 00:43:39",
+  "checkedAt": "2026-11-06T19:16:09Z",
+  "checkedAtIST": "2026-11-07 00:46:09",
+  "check": 4168,
+  "lastChangeAt": "2026-11-06T19:16:09Z",
+  "lastChangeAtIST": "2026-11-07 00:46:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 985,
+      "money": 1010,
       "players": 6
     },
     {
@@ -53,7 +53,7 @@
     {
       "rank": 2,
       "name": "InProper",
-      "money": 316,
+      "money": 321,
       "team": "Purple Aces"
     },
     {
@@ -65,7 +65,7 @@
     {
       "rank": 4,
       "name": "TryH4rdd",
-      "money": 210,
+      "money": 214,
       "team": "Purple Aces"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 10,
       "name": "kantje",
-      "money": 151,
+      "money": 155,
       "team": "Purple Aces"
     },
     {
       "rank": 11,
       "name": "Only_A_Squid",
-      "money": 146,
+      "money": 150,
       "team": "Purple Aces"
     },
     {
@@ -214,15 +214,15 @@
     },
     {
       "rank": 29,
-      "name": "notbogur",
+      "name": "ConixD",
       "money": 95,
-      "team": "Pink Hearts"
+      "team": "Purple Aces"
     },
     {
       "rank": 30,
-      "name": "ConixD",
-      "money": 91,
-      "team": "Purple Aces"
+      "name": "notbogur",
+      "money": 95,
+      "team": "Pink Hearts"
     },
     {
       "rank": 31,
@@ -239,7 +239,7 @@
     {
       "rank": 33,
       "name": "sidefall",
-      "money": 71,
+      "money": 75,
       "team": "Purple Aces"
     },
     {
@@ -280,7 +280,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 316,
+        "money": 321,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
@@ -308,7 +308,7 @@
       {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
-        "money": 210,
+        "money": 214,
         "online": true,
         "streamLink": "https://www.twitch.tv/ronin",
         "vip": false,
@@ -392,7 +392,7 @@
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
         "name": "kantje",
-        "money": 151,
+        "money": 155,
         "online": true,
         "streamLink": "https://www.twitch.tv/kantje",
         "vip": false,
@@ -406,7 +406,7 @@
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
-        "money": 146,
+        "money": 150,
         "online": true,
         "streamLink": "https://www.twitch.tv/only_a_squid",
         "vip": false,
@@ -656,6 +656,20 @@
         "playtime": 1484
       },
       {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 95,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1564
+      },
+      {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 95,
@@ -668,20 +682,6 @@
         "kills": 0,
         "deaths": 4,
         "playtime": 1241
-      },
-      {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 91,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1564
       },
       {
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
@@ -714,7 +714,7 @@
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
-        "money": 71,
+        "money": 75,
         "online": true,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
