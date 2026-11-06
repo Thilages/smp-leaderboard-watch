@@ -114,5 +114,6 @@
 {"at": "2026-11-06T00:34:26Z", "atIST": "2026-11-06 06:04:26", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 162, "to": 132, "delta": -30, "rankFrom": 8, "rankTo": 16, "flags": ["rank_jump"], "also": {"deaths": {"from": 0, "to": 1}}},
 {"at": "2026-11-06T00:50:26Z", "atIST": "2026-11-06 06:20:26", "player": "Flowtives", "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9", "team": "Pink Hearts", "type": "money", "from": 279, "to": 299, "delta": 20, "rankFrom": 2, "rankTo": 2, "also": {"kills": {"from": 4, "to": 5}}},
 {"at": "2026-11-06T00:50:26Z", "atIST": "2026-11-06 06:20:26", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 84, "to": 64, "delta": -20, "rankFrom": 34, "rankTo": 36, "also": {"deaths": {"from": 1, "to": 2}}},
-{"at": "2026-11-06T01:20:26Z", "atIST": "2026-11-06 06:50:26", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Gladiators", "to": null}}}
+{"at": "2026-11-06T01:20:26Z", "atIST": "2026-11-06 06:50:26", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Gladiators", "to": null}}},
+{"at": "2026-11-06T01:31:26Z", "atIST": "2026-11-06 07:01:26", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "money", "from": 150, "to": 120, "delta": -30, "rankFrom": 8, "rankTo": 20, "flags": ["rank_jump"]}
 ]
