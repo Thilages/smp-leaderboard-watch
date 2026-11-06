@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-11-06T22:14:24Z",
-  "checkedAtIST": "2026-11-07 03:44:24",
-  "check": 4520,
-  "lastChangeAt": "2026-11-06T22:07:24Z",
-  "lastChangeAtIST": "2026-11-07 03:37:24",
+  "checkedAt": "2026-11-06T22:15:54Z",
+  "checkedAtIST": "2026-11-07 03:45:54",
+  "check": 4523,
+  "lastChangeAt": "2026-11-06T22:15:54Z",
+  "lastChangeAtIST": "2026-11-07 03:45:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1230,
+      "money": 1270,
       "players": 6
     },
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 1040,
+      "money": 1000,
       "players": 6
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "rank": 3,
-      "name": "TryH4rdd",
-      "money": 227,
-      "team": "Purple Aces"
+      "name": "Infume",
+      "money": 261,
+      "team": "Pink Hearts"
     },
     {
       "rank": 4,
@@ -70,27 +70,27 @@
     },
     {
       "rank": 5,
-      "name": "Infume",
-      "money": 221,
-      "team": "Pink Hearts"
-    },
-    {
-      "rank": 6,
       "name": "leekleek",
       "money": 213,
       "team": "Yellow Spades"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "InfamousJJ",
       "money": 208,
       "team": "Pink Hearts"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "sweatgod",
       "money": 188,
       "team": "Green Clubs"
+    },
+    {
+      "rank": 8,
+      "name": "TryH4rdd",
+      "money": 187,
+      "team": "Purple Aces"
     },
     {
       "rank": 9,
@@ -292,18 +292,18 @@
         "playtime": 1644
       },
       {
-        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
-        "name": "TryH4rdd",
-        "money": 227,
+        "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
+        "name": "Infume",
+        "money": 261,
         "online": true,
-        "streamLink": "https://www.twitch.tv/ronin",
+        "streamLink": "https://twitch.tv/infume",
         "vip": false,
-        "team": "PURPLE_TEAM",
+        "team": "PINK_TEAM",
         "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
+        "tier": "B_TIER",
+        "kills": 3,
         "deaths": 0,
-        "playtime": 1716
+        "playtime": 1415
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -318,20 +318,6 @@
         "kills": 2,
         "deaths": 3,
         "playtime": 2132
-      },
-      {
-        "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
-        "name": "Infume",
-        "money": 221,
-        "online": true,
-        "streamLink": "https://twitch.tv/infume",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1415
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -374,6 +360,20 @@
         "kills": 2,
         "deaths": 2,
         "playtime": 1755
+      },
+      {
+        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
+        "name": "TryH4rdd",
+        "money": 187,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/ronin",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 1,
+        "playtime": 1716
       },
       {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
@@ -659,7 +659,7 @@
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
         "name": "tingzmc",
         "money": 100,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/tingz",
         "vip": false,
         "team": "GREEN_TEAM",
