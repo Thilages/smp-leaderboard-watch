@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T21:27:09Z",
-  "checkedAtIST": "2026-11-07 02:57:09",
-  "check": 4428,
-  "lastChangeAt": "2026-11-06T21:22:39Z",
-  "lastChangeAtIST": "2026-11-07 02:52:39",
+  "checkedAt": "2026-11-06T21:29:39Z",
+  "checkedAtIST": "2026-11-07 02:59:39",
+  "check": 4432,
+  "lastChangeAt": "2026-11-06T21:29:39Z",
+  "lastChangeAtIST": "2026-11-07 02:59:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 945,
+      "money": 1020,
       "players": 6
     },
     {
@@ -53,20 +53,20 @@
     {
       "rank": 2,
       "name": "InProper",
-      "money": 321,
+      "money": 334,
       "team": "Purple Aces"
     },
     {
       "rank": 3,
-      "name": "Infume",
-      "money": 221,
-      "team": "Pink Hearts"
+      "name": "TryH4rdd",
+      "money": 227,
+      "team": "Purple Aces"
     },
     {
       "rank": 4,
-      "name": "TryH4rdd",
-      "money": 214,
-      "team": "Purple Aces"
+      "name": "Infume",
+      "money": 221,
+      "team": "Pink Hearts"
     },
     {
       "rank": 5,
@@ -100,21 +100,21 @@
     },
     {
       "rank": 10,
+      "name": "Only_A_Squid",
+      "money": 162,
+      "team": "Purple Aces"
+    },
+    {
+      "rank": 11,
       "name": "Greninja",
       "money": 150,
       "team": "Red Jokers"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "leekleek",
       "money": 150,
       "team": "Yellow Spades"
-    },
-    {
-      "rank": 12,
-      "name": "Only_A_Squid",
-      "money": 150,
-      "team": "Purple Aces"
     },
     {
       "rank": 13,
@@ -124,51 +124,51 @@
     },
     {
       "rank": 14,
+      "name": "kantje",
+      "money": 147,
+      "team": "Purple Aces"
+    },
+    {
+      "rank": 15,
       "name": "ghostiefruit",
       "money": 147,
       "team": "Pink Hearts"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "5uppps",
       "money": 146,
       "team": "Green Clubs"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "saparata",
       "money": 146,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "LuigiToan",
       "money": 145,
       "team": "Green Clubs"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "AiroKun",
       "money": 144,
       "team": "Red Jokers"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "unixn",
       "money": 142,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Evbo_",
       "money": 136,
       "team": "Blue Diamonds"
-    },
-    {
-      "rank": 21,
-      "name": "kantje",
-      "money": 135,
-      "team": "Purple Aces"
     },
     {
       "rank": 22,
@@ -214,27 +214,27 @@
     },
     {
       "rank": 29,
+      "name": "ConixD",
+      "money": 92,
+      "team": "Purple Aces"
+    },
+    {
+      "rank": 30,
       "name": "BryTheGuyy",
       "money": 88,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "tingzmc",
       "money": 87,
       "team": "Green Clubs"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "RoyalPear_",
       "money": 85,
       "team": "Yellow Spades"
-    },
-    {
-      "rank": 32,
-      "name": "ConixD",
-      "money": 80,
-      "team": "Purple Aces"
     },
     {
       "rank": 33,
@@ -251,7 +251,7 @@
     {
       "rank": 35,
       "name": "sidefall",
-      "money": 45,
+      "money": 58,
       "team": "Purple Aces"
     },
     {
@@ -280,7 +280,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 321,
+        "money": 334,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
@@ -290,6 +290,20 @@
         "kills": 5,
         "deaths": 1,
         "playtime": 1527
+      },
+      {
+        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
+        "name": "TryH4rdd",
+        "money": 227,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/ronin",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 1716
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -304,20 +318,6 @@
         "kills": 2,
         "deaths": 0,
         "playtime": 1377
-      },
-      {
-        "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
-        "name": "TryH4rdd",
-        "money": 214,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/ronin",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1716
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -390,6 +390,20 @@
         "playtime": 2105
       },
       {
+        "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
+        "name": "Only_A_Squid",
+        "money": 162,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/only_a_squid",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 1,
+        "deaths": 1,
+        "playtime": 2460
+      },
+      {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 150,
@@ -418,20 +432,6 @@
         "playtime": 1693
       },
       {
-        "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
-        "name": "Only_A_Squid",
-        "money": 150,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/only_a_squid",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 1,
-        "deaths": 1,
-        "playtime": 2460
-      },
-      {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 147,
@@ -444,6 +444,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1528
+      },
+      {
+        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
+        "name": "kantje",
+        "money": 147,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/kantje",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1575
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
@@ -544,20 +558,6 @@
         "playtime": 1791
       },
       {
-        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
-        "name": "kantje",
-        "money": 135,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/kantje",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1575
-      },
-      {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 129,
@@ -656,6 +656,20 @@
         "playtime": 1447
       },
       {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 92,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 3,
+        "playtime": 1564
+      },
+      {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 88,
@@ -698,20 +712,6 @@
         "playtime": 1957
       },
       {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 80,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 3,
-        "playtime": 1564
-      },
-      {
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
         "name": "Pinityy",
         "money": 79,
@@ -742,7 +742,7 @@
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
-        "money": 45,
+        "money": 58,
         "online": true,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
