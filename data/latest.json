@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T23:35:54Z",
-  "checkedAtIST": "2026-11-07 05:05:54",
-  "check": 4682,
+  "checkedAt": "2026-11-06T23:38:24Z",
+  "checkedAtIST": "2026-11-07 05:08:24",
+  "check": 4687,
   "lastChangeAt": "2026-11-06T23:31:24Z",
   "lastChangeAtIST": "2026-11-07 05:01:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -519,7 +519,7 @@
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
         "name": "ChuckkNasty",
         "money": 139,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@ChuckNasty",
         "vip": false,
         "team": "RED_TEAM",
@@ -527,7 +527,7 @@
         "tier": "F_TIER",
         "kills": 1,
         "deaths": 1,
-        "playtime": 861
+        "playtime": 1017
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
