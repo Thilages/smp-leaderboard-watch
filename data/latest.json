@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T08:14:15Z",
-  "checkedAtIST": "2026-11-06 13:44:15",
-  "check": 2855,
-  "lastChangeAt": "2026-11-06T07:42:15Z",
-  "lastChangeAtIST": "2026-11-06 13:12:15",
+  "checkedAt": "2026-11-06T08:15:45Z",
+  "checkedAtIST": "2026-11-06 13:45:45",
+  "check": 2858,
+  "lastChangeAt": "2026-11-06T08:15:45Z",
+  "lastChangeAtIST": "2026-11-06 13:45:45",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "InProper",
-      "money": 347,
+      "money": 407,
       "team": "Purple Aces"
     },
     {
@@ -166,92 +166,92 @@
     },
     {
       "rank": 21,
-      "name": "Only_A_Squid",
-      "money": 115,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 22,
       "name": "unixn",
       "money": 110,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "McSolsy",
       "money": 108,
       "team": "Yellow Spades"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "tingzmc",
       "money": 108,
       "team": "Green Clubs"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "SB737",
       "money": 105,
       "team": "Red Jokers"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "RoyalPear_",
       "money": 105,
       "team": "Yellow Spades"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aramori",
       "money": 101,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "leekleek",
       "money": 100,
       "team": "Yellow Spades"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "ClownPierce",
       "money": 95,
       "team": "Red Jokers"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "WyLL_",
       "money": 93,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ConixD",
       "money": 91,
       "team": "Purple Aces"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "ItzRealMe",
       "money": 79,
       "team": "Yellow Spades"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "_Brinkz",
       "money": 65,
       "team": "Red Jokers"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Bormethius",
       "money": 64,
       "team": "Yellow Spades"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "sidefall",
       "money": 61,
+      "team": "Purple Aces"
+    },
+    {
+      "rank": 35,
+      "name": "Only_A_Squid",
+      "money": 55,
       "team": "Purple Aces"
     },
     {
@@ -266,7 +266,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 347,
+        "money": 407,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
@@ -544,20 +544,6 @@
         "playtime": 1229
       },
       {
-        "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
-        "name": "Only_A_Squid",
-        "money": 115,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/only_a_squid",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 1,
-        "deaths": 1,
-        "playtime": 1370
-      },
-      {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 110,
@@ -752,6 +738,20 @@
         "kills": 0,
         "deaths": 5,
         "playtime": 1475
+      },
+      {
+        "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
+        "name": "Only_A_Squid",
+        "money": 55,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/only_a_squid",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 1,
+        "deaths": 1,
+        "playtime": 1370
       },
       {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
