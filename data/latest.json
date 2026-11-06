@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T03:07:26Z",
-  "checkedAtIST": "2026-11-06 08:37:26",
-  "check": 2247,
+  "checkedAt": "2026-11-06T03:09:56Z",
+  "checkedAtIST": "2026-11-06 08:39:56",
+  "check": 2252,
   "lastChangeAt": "2026-11-06T02:17:56Z",
   "lastChangeAtIST": "2026-11-06 07:47:56",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -701,7 +701,7 @@
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 86,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/brytheguy",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -709,7 +709,7 @@
         "tier": "A_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1050
+        "playtime": 1068
       },
       {
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
