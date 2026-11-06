@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T22:01:09Z",
-  "checkedAtIST": "2026-11-07 03:31:09",
-  "check": 4495,
+  "checkedAt": "2026-11-06T22:03:09Z",
+  "checkedAtIST": "2026-11-07 03:33:09",
+  "check": 4499,
   "lastChangeAt": "2026-11-06T22:01:09Z",
   "lastChangeAtIST": "2026-11-07 03:31:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -289,7 +289,7 @@
         "tier": "S_TIER",
         "kills": 7,
         "deaths": 0,
-        "playtime": 1555
+        "playtime": 1643
       },
       {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
@@ -317,7 +317,7 @@
         "tier": "B_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 1377
+        "playtime": 1413
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -359,7 +359,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 1391
+        "playtime": 1426
       },
       {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
@@ -373,7 +373,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 1739
+        "playtime": 1775
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
@@ -513,7 +513,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1371
+        "playtime": 1407
       },
       {
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
