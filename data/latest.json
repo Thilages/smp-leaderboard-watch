@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T01:19:56Z",
-  "checkedAtIST": "2026-11-06 06:49:56",
-  "check": 2034,
-  "lastChangeAt": "2026-11-06T00:50:26Z",
-  "lastChangeAtIST": "2026-11-06 06:20:26",
+  "checkedAt": "2026-11-06T01:20:26Z",
+  "checkedAtIST": "2026-11-06 06:50:26",
+  "check": 2035,
+  "lastChangeAt": "2026-11-06T01:20:26Z",
+  "lastChangeAtIST": "2026-11-06 06:50:26",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -770,14 +770,6 @@
     ],
     "events": [
       {
-        "id": "d5ecf6a8-a4fd-4574-bdd7-044aebc8f46d",
-        "name": "Gladiators",
-        "start": "2026-11-05T21:00:00.000Z",
-        "shouldLock": false,
-        "firstEvent": false,
-        "endedAt": null
-      },
-      {
         "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
         "name": "Capture The Flag",
         "start": "2026-11-06T21:00:00.000Z",
@@ -808,18 +800,19 @@
         "shouldLock": false,
         "firstEvent": true,
         "endedAt": "2026-11-05T02:06:44.744Z"
+      },
+      {
+        "id": "d5ecf6a8-a4fd-4574-bdd7-044aebc8f46d",
+        "name": "Gladiators",
+        "start": "2026-11-05T21:00:00.000Z",
+        "shouldLock": false,
+        "firstEvent": false,
+        "endedAt": "2026-11-06T01:20:15.831Z"
       }
     ],
     "eventAvailable": true,
     "eventFinished": false,
-    "currentEvent": {
-      "id": "d5ecf6a8-a4fd-4574-bdd7-044aebc8f46d",
-      "name": "Gladiators",
-      "start": "2026-11-05T21:00:00.000Z",
-      "shouldLock": false,
-      "firstEvent": false,
-      "endedAt": null
-    },
+    "currentEvent": null,
     "nextEvent": {
       "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
       "name": "Capture The Flag",
@@ -828,7 +821,7 @@
       "firstEvent": false,
       "endedAt": null
     },
-    "isLive": true,
+    "isLive": false,
     "pollingInterval": 30000,
     "eventName": "Season 7"
   }
