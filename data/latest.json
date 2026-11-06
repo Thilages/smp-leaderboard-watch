@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T22:34:24Z",
-  "checkedAtIST": "2026-11-07 04:04:24",
-  "check": 4560,
-  "lastChangeAt": "2026-11-06T22:34:24Z",
-  "lastChangeAtIST": "2026-11-07 04:04:24",
+  "checkedAt": "2026-11-06T22:35:25Z",
+  "checkedAtIST": "2026-11-07 04:05:25",
+  "check": 4562,
+  "lastChangeAt": "2026-11-06T22:34:54Z",
+  "lastChangeAtIST": "2026-11-07 04:04:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1270,
+      "money": 1345,
       "players": 6
     },
     {
@@ -53,13 +53,13 @@
     {
       "rank": 2,
       "name": "Flowtives",
-      "money": 368,
+      "money": 381,
       "team": "Pink Hearts"
     },
     {
       "rank": 3,
       "name": "Infume",
-      "money": 261,
+      "money": 274,
       "team": "Pink Hearts"
     },
     {
@@ -70,15 +70,15 @@
     },
     {
       "rank": 5,
-      "name": "leekleek",
-      "money": 213,
-      "team": "Yellow Spades"
+      "name": "InfamousJJ",
+      "money": 220,
+      "team": "Pink Hearts"
     },
     {
       "rank": 6,
-      "name": "InfamousJJ",
-      "money": 208,
-      "team": "Pink Hearts"
+      "name": "leekleek",
+      "money": 213,
+      "team": "Yellow Spades"
     },
     {
       "rank": 7,
@@ -95,7 +95,7 @@
     {
       "rank": 9,
       "name": "scotteh",
-      "money": 187,
+      "money": 200,
       "team": "Pink Hearts"
     },
     {
@@ -136,33 +136,33 @@
     },
     {
       "rank": 16,
+      "name": "ghostiefruit",
+      "money": 159,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 17,
       "name": "saparata",
       "money": 158,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "unixn",
       "money": 154,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Greninja",
       "money": 150,
       "team": "Red Jokers"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Evbo_",
       "money": 149,
       "team": "Blue Diamonds"
-    },
-    {
-      "rank": 20,
-      "name": "ghostiefruit",
-      "money": 147,
-      "team": "Pink Hearts"
     },
     {
       "rank": 21,
@@ -196,39 +196,39 @@
     },
     {
       "rank": 26,
+      "name": "notbogur",
+      "money": 111,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 27,
       "name": "SB737",
       "money": 109,
       "team": "Red Jokers"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "ChuckkNasty",
       "money": 109,
       "team": "Red Jokers"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Bormethius",
       "money": 107,
       "team": "Yellow Spades"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "AiroKun",
       "money": 104,
       "team": "Red Jokers"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "BryTheGuyy",
       "money": 100,
       "team": "Blue Diamonds"
-    },
-    {
-      "rank": 31,
-      "name": "notbogur",
-      "money": 99,
-      "team": "Pink Hearts"
     },
     {
       "rank": 32,
@@ -280,7 +280,7 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 368,
+        "money": 381,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
@@ -294,7 +294,7 @@
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
-        "money": 261,
+        "money": 274,
         "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
@@ -320,6 +320,20 @@
         "playtime": 2132
       },
       {
+        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
+        "name": "InfamousJJ",
+        "money": 220,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/infamousjjlive",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 1426
+      },
+      {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
         "name": "leekleek",
         "money": 213,
@@ -332,20 +346,6 @@
         "kills": 3,
         "deaths": 0,
         "playtime": 1693
-      },
-      {
-        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
-        "name": "InfamousJJ",
-        "money": 208,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/infamousjjlive",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1426
       },
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
@@ -378,7 +378,7 @@
       {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
         "name": "scotteh",
-        "money": 187,
+        "money": 200,
         "online": true,
         "streamLink": "https://www.twitch.tv/scotteh",
         "vip": false,
@@ -474,6 +474,20 @@
         "playtime": 1837
       },
       {
+        "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
+        "name": "ghostiefruit",
+        "money": 159,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/ghostiefruit",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1434
+      },
+      {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
         "name": "saparata",
         "money": 158,
@@ -528,20 +542,6 @@
         "kills": 1,
         "deaths": 2,
         "playtime": 1848
-      },
-      {
-        "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
-        "name": "ghostiefruit",
-        "money": 147,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/ghostiefruit",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1434
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -614,6 +614,20 @@
         "playtime": 1836
       },
       {
+        "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
+        "name": "notbogur",
+        "money": 111,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bogur",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 4,
+        "playtime": 1486
+      },
+      {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 109,
@@ -682,20 +696,6 @@
         "kills": 1,
         "deaths": 3,
         "playtime": 1592
-      },
-      {
-        "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
-        "name": "notbogur",
-        "money": 99,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bogur",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 4,
-        "playtime": 1486
       },
       {
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
