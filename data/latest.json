@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T21:52:09Z",
-  "checkedAtIST": "2026-11-07 03:22:09",
-  "check": 4477,
-  "lastChangeAt": "2026-11-06T21:49:09Z",
-  "lastChangeAtIST": "2026-11-07 03:19:09",
+  "checkedAt": "2026-11-06T21:53:09Z",
+  "checkedAtIST": "2026-11-07 03:23:09",
+  "check": 4479,
+  "lastChangeAt": "2026-11-06T21:53:09Z",
+  "lastChangeAtIST": "2026-11-07 03:23:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
-      "money": 805,
+      "money": 825,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 610,
+      "money": 590,
       "players": 6
     }
   ],
@@ -70,21 +70,21 @@
     },
     {
       "rank": 5,
+      "name": "leekleek",
+      "money": 213,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 6,
       "name": "JudeLow",
       "money": 210,
       "team": "Green Clubs"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "InfamousJJ",
       "money": 208,
       "team": "Pink Hearts"
-    },
-    {
-      "rank": 7,
-      "name": "leekleek",
-      "money": 193,
-      "team": "Yellow Spades"
     },
     {
       "rank": 8,
@@ -172,33 +172,33 @@
     },
     {
       "rank": 22,
-      "name": "SB737",
-      "money": 129,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 23,
       "name": "WyLL_",
       "money": 126,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "McSolsy",
       "money": 120,
       "team": "Yellow Spades"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "RoyalPear_",
       "money": 117,
       "team": "Yellow Spades"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Aramori",
       "money": 117,
       "team": "Blue Diamonds"
+    },
+    {
+      "rank": 26,
+      "name": "SB737",
+      "money": 109,
+      "team": "Red Jokers"
     },
     {
       "rank": 27,
@@ -320,6 +320,20 @@
         "playtime": 1377
       },
       {
+        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
+        "name": "leekleek",
+        "money": 213,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/leekleek",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 3,
+        "deaths": 0,
+        "playtime": 1693
+      },
+      {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
         "money": 210,
@@ -348,20 +362,6 @@
         "playtime": 1391
       },
       {
-        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
-        "name": "leekleek",
-        "money": 193,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/leekleek",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 3,
-        "deaths": 0,
-        "playtime": 1693
-      },
-      {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
         "name": "scotteh",
         "money": 187,
@@ -385,7 +385,7 @@
         "team": "YELLOW_TEAM",
         "captain": false,
         "tier": "A_TIER",
-        "kills": 2,
+        "kills": 3,
         "deaths": 0,
         "playtime": 2105
       },
@@ -558,20 +558,6 @@
         "playtime": 1791
       },
       {
-        "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
-        "name": "SB737",
-        "money": 129,
-        "online": true,
-        "streamLink": "https://twitch.tv/sb737",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1368
-      },
-      {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 126,
@@ -626,6 +612,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1510
+      },
+      {
+        "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
+        "name": "SB737",
+        "money": 109,
+        "online": true,
+        "streamLink": "https://twitch.tv/sb737",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1368
       },
       {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
