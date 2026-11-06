@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T22:35:25Z",
-  "checkedAtIST": "2026-11-07 04:05:25",
-  "check": 4562,
+  "checkedAt": "2026-11-06T22:37:54Z",
+  "checkedAtIST": "2026-11-07 04:07:54",
+  "check": 4567,
   "lastChangeAt": "2026-11-06T22:34:54Z",
   "lastChangeAtIST": "2026-11-07 04:04:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -289,7 +289,7 @@
         "tier": "S_TIER",
         "kills": 7,
         "deaths": 0,
-        "playtime": 1644
+        "playtime": 1678
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -303,7 +303,7 @@
         "tier": "B_TIER",
         "kills": 3,
         "deaths": 0,
-        "playtime": 1415
+        "playtime": 1448
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -331,7 +331,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 1426
+        "playtime": 1462
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -387,7 +387,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 1777
+        "playtime": 1810
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
@@ -485,7 +485,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1434
+        "playtime": 1442
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
@@ -499,7 +499,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 1567
+        "playtime": 1580
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
@@ -513,7 +513,7 @@
         "tier": "S_TIER",
         "kills": 1,
         "deaths": 1,
-        "playtime": 1873
+        "playtime": 1885
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
@@ -541,7 +541,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 1848
+        "playtime": 1861
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -555,7 +555,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 2116
+        "playtime": 2129
       },
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
@@ -569,7 +569,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1756
+        "playtime": 1769
       },
       {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
@@ -625,7 +625,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 4,
-        "playtime": 1486
+        "playtime": 1518
       },
       {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
@@ -687,7 +687,7 @@
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 100,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/brytheguy",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -695,7 +695,7 @@
         "tier": "A_TIER",
         "kills": 1,
         "deaths": 3,
-        "playtime": 1592
+        "playtime": 1604
       },
       {
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
