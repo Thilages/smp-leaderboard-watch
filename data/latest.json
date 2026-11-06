@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:36:39Z",
-  "checkedAtIST": "2026-11-07 01:06:39",
-  "check": 4208,
-  "lastChangeAt": "2026-11-06T19:34:39Z",
-  "lastChangeAtIST": "2026-11-07 01:04:39",
+  "checkedAt": "2026-11-06T19:37:09Z",
+  "checkedAtIST": "2026-11-07 01:07:09",
+  "check": 4209,
+  "lastChangeAt": "2026-11-06T19:37:09Z",
+  "lastChangeAtIST": "2026-11-07 01:07:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 965,
+      "money": 945,
       "players": 6
     },
     {
@@ -25,15 +25,15 @@
       "players": 6
     },
     {
-      "team": "BLUE_TEAM",
-      "name": "Blue Diamonds",
-      "money": 655,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 670,
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 650,
+      "team": "BLUE_TEAM",
+      "name": "Blue Diamonds",
+      "money": 655,
       "players": 6
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "rank": 10,
-      "name": "kantje",
-      "money": 155,
-      "team": "Purple Aces"
+      "name": "leekleek",
+      "money": 150,
+      "team": "Yellow Spades"
     },
     {
       "rank": 11,
@@ -142,9 +142,9 @@
     },
     {
       "rank": 17,
-      "name": "leekleek",
-      "money": 130,
-      "team": "Yellow Spades"
+      "name": "kantje",
+      "money": 135,
+      "team": "Purple Aces"
     },
     {
       "rank": 18,
@@ -390,18 +390,18 @@
         "playtime": 2105
       },
       {
-        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
-        "name": "kantje",
-        "money": 155,
+        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
+        "name": "leekleek",
+        "money": 150,
         "online": true,
-        "streamLink": "https://www.twitch.tv/kantje",
+        "streamLink": "https://www.twitch.tv/leekleek",
         "vip": false,
-        "team": "PURPLE_TEAM",
+        "team": "YELLOW_TEAM",
         "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
+        "tier": "B_TIER",
+        "kills": 2,
         "deaths": 0,
-        "playtime": 1575
+        "playtime": 1693
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
@@ -488,18 +488,18 @@
         "playtime": 1597
       },
       {
-        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
-        "name": "leekleek",
-        "money": 130,
+        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
+        "name": "kantje",
+        "money": 135,
         "online": true,
-        "streamLink": "https://www.twitch.tv/leekleek",
+        "streamLink": "https://www.twitch.tv/kantje",
         "vip": false,
-        "team": "YELLOW_TEAM",
+        "team": "PURPLE_TEAM",
         "captain": false,
-        "tier": "B_TIER",
-        "kills": 1,
-        "deaths": 0,
-        "playtime": 1693
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1575
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
