@@ -153,5 +153,6 @@
 {"at": "2026-11-06T16:43:39Z", "atIST": "2026-11-06 22:13:39", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 0, "to": 1}}},
 {"at": "2026-11-06T16:46:39Z", "atIST": "2026-11-06 22:16:39", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 1, "to": 2}}},
 {"at": "2026-11-06T16:47:09Z", "atIST": "2026-11-06 22:17:09", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 202, "to": 172, "delta": -30, "rankFrom": 4, "rankTo": 5, "also": {"deaths": {"from": 2, "to": 3}}},
-{"at": "2026-11-06T16:47:09Z", "atIST": "2026-11-06 22:17:09", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "money", "from": 138, "to": 168, "delta": 30, "rankFrom": 14, "rankTo": 7, "flags": ["rank_jump"], "also": {"kills": {"from": 0, "to": 1}}}
+{"at": "2026-11-06T16:47:09Z", "atIST": "2026-11-06 22:17:09", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "money", "from": 138, "to": 168, "delta": 30, "rankFrom": 14, "rankTo": 7, "flags": ["rank_jump"], "also": {"kills": {"from": 0, "to": 1}}},
+{"at": "2026-11-06T16:49:09Z", "atIST": "2026-11-06 22:19:09", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 1, "to": 2}}}
 ]
