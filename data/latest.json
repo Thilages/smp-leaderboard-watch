@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T18:47:09Z",
-  "checkedAtIST": "2026-11-07 00:17:09",
-  "check": 4110,
-  "lastChangeAt": "2026-11-06T18:09:09Z",
-  "lastChangeAtIST": "2026-11-06 23:39:09",
+  "checkedAt": "2026-11-06T18:48:39Z",
+  "checkedAtIST": "2026-11-07 00:18:39",
+  "check": 4113,
+  "lastChangeAt": "2026-11-06T18:48:39Z",
+  "lastChangeAtIST": "2026-11-07 00:18:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -226,7 +226,7 @@
     },
     {
       "rank": 31,
-      "name": "ItzRealMe",
+      "name": "Pinityy",
       "money": 79,
       "team": "Yellow Spades"
     },
@@ -659,7 +659,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 93,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -667,7 +667,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1885
+        "playtime": 1901
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
@@ -684,18 +684,18 @@
         "playtime": 1564
       },
       {
-        "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
-        "name": "ItzRealMe",
+        "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
+        "name": "Pinityy",
         "money": 79,
         "online": true,
-        "streamLink": "https://www.twitch.tv/itzrealmemc",
+        "streamLink": null,
         "vip": false,
         "team": "YELLOW_TEAM",
         "captain": false,
         "tier": "S_TIER",
         "kills": 0,
-        "deaths": 1,
-        "playtime": 1730
+        "deaths": 0,
+        "playtime": 0
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
