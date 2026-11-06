@@ -243,5 +243,11 @@
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "ChuckkNasty", "id": "8605661e-2890-4584-8f63-13ae37569d63", "team": "Red Jokers", "type": "money", "from": 125, "to": 129, "delta": 4, "rankFrom": 22, "rankTo": 21},
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 95, "to": 99, "delta": 4, "rankFrom": 28, "rankTo": 27},
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 35, "to": 39, "delta": 4, "rankFrom": 36, "rankTo": 36},
-{"at": "2026-11-06T21:00:09Z", "atIST": "2026-11-07 02:30:09", "type": "event", "fields": {"isLive": {"from": false, "to": true}, "currentEvent": {"from": null, "to": "Capture The Flag"}}}
+{"at": "2026-11-06T21:00:09Z", "atIST": "2026-11-07 02:30:09", "type": "event", "fields": {"isLive": {"from": false, "to": true}, "currentEvent": {"from": null, "to": "Capture The Flag"}}},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "money", "from": 129, "to": 142, "delta": 13, "rankFrom": 22, "rankTo": 19},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 113, "to": 126, "delta": 13, "rankFrom": 24, "rankTo": 24},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "money", "from": 75, "to": 88, "delta": 13, "rankFrom": 33, "rankTo": 29},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "saparata", "id": "296d434f-e781-4d44-9b66-469eab9d9bfe", "team": "Blue Diamonds", "type": "money", "from": 134, "to": 146, "delta": 12, "rankFrom": 19, "rankTo": 16},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "money", "from": 124, "to": 136, "delta": 12, "rankFrom": 23, "rankTo": 20},
+{"at": "2026-11-06T21:22:39Z", "atIST": "2026-11-07 02:52:39", "player": "Aramori", "id": "04d109cf-1fea-4ce5-84ba-767f07c65087", "team": "Blue Diamonds", "type": "money", "from": 105, "to": 117, "delta": 12, "rankFrom": 26, "rankTo": 25}
 ]
