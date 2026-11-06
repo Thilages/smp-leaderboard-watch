@@ -168,5 +168,7 @@
 {"at": "2026-11-06T18:08:39Z", "atIST": "2026-11-06 23:38:39", "player": "notbogur", "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783", "team": "Pink Hearts", "type": "stats", "fields": {"deaths": {"from": 1, "to": 2}}},
 {"at": "2026-11-06T18:09:09Z", "atIST": "2026-11-06 23:39:09", "player": "notbogur", "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783", "team": "Pink Hearts", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}},
 {"at": "2026-11-06T18:48:39Z", "atIST": "2026-11-07 00:18:39", "player": "Pinityy", "id": "b23fa084-3209-478f-934c-f7a617bb0d18", "team": "Yellow Spades", "type": "joined", "money": 79, "rank": 31},
-{"at": "2026-11-06T18:48:39Z", "atIST": "2026-11-07 00:18:39", "type": "left", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "money": 79}
+{"at": "2026-11-06T18:48:39Z", "atIST": "2026-11-07 00:18:39", "type": "left", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "money": 79},
+{"at": "2026-11-06T19:03:39Z", "atIST": "2026-11-07 00:33:39", "player": "saparata", "id": "296d434f-e781-4d44-9b66-469eab9d9bfe", "team": "Blue Diamonds", "type": "money", "from": 120, "to": 125, "delta": 5, "rankFrom": 21, "rankTo": 20},
+{"at": "2026-11-06T19:03:39Z", "atIST": "2026-11-07 00:33:39", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 93, "to": 98, "delta": 5, "rankFrom": 29, "rankTo": 28}
 ]

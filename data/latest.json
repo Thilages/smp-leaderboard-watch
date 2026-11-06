@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:02:09Z",
-  "checkedAtIST": "2026-11-07 00:32:09",
-  "check": 4140,
-  "lastChangeAt": "2026-11-06T18:48:39Z",
-  "lastChangeAtIST": "2026-11-07 00:18:39",
+  "checkedAt": "2026-11-06T19:03:39Z",
+  "checkedAtIST": "2026-11-07 00:33:39",
+  "check": 4143,
+  "lastChangeAt": "2026-11-06T19:03:39Z",
+  "lastChangeAtIST": "2026-11-07 00:33:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -39,7 +39,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 590,
+      "money": 600,
       "players": 6
     }
   ],
@@ -160,13 +160,13 @@
     },
     {
       "rank": 20,
-      "name": "Evbo_",
-      "money": 120,
+      "name": "saparata",
+      "money": 125,
       "team": "Blue Diamonds"
     },
     {
       "rank": 21,
-      "name": "saparata",
+      "name": "Evbo_",
       "money": 120,
       "team": "Blue Diamonds"
     },
@@ -208,15 +208,15 @@
     },
     {
       "rank": 28,
-      "name": "ClownPierce",
-      "money": 95,
-      "team": "Red Jokers"
+      "name": "WyLL_",
+      "money": 98,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 29,
-      "name": "WyLL_",
-      "money": 93,
-      "team": "Blue Diamonds"
+      "name": "ClownPierce",
+      "money": 95,
+      "team": "Red Jokers"
     },
     {
       "rank": 30,
@@ -530,6 +530,20 @@
         "playtime": 705
       },
       {
+        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
+        "name": "saparata",
+        "money": 125,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/saps",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 1269
+      },
+      {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 120,
@@ -542,20 +556,6 @@
         "kills": 1,
         "deaths": 2,
         "playtime": 1550
-      },
-      {
-        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
-        "name": "saparata",
-        "money": 120,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/saps",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 1269
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
@@ -642,6 +642,20 @@
         "playtime": 1693
       },
       {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 98,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1901
+      },
+      {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 95,
@@ -654,20 +668,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1484
-      },
-      {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 93,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1901
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
