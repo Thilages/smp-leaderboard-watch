@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T21:31:39Z",
-  "checkedAtIST": "2026-11-07 03:01:39",
-  "check": 4436,
-  "lastChangeAt": "2026-11-06T21:31:39Z",
-  "lastChangeAtIST": "2026-11-07 03:01:39",
+  "checkedAt": "2026-11-06T21:33:39Z",
+  "checkedAtIST": "2026-11-07 03:03:39",
+  "check": 4440,
+  "lastChangeAt": "2026-11-06T21:33:39Z",
+  "lastChangeAtIST": "2026-11-07 03:03:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -31,15 +31,15 @@
       "players": 6
     },
     {
-      "team": "RED_TEAM",
-      "name": "Red Jokers",
-      "money": 690,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 725,
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 650,
+      "team": "RED_TEAM",
+      "name": "Red Jokers",
+      "money": 690,
       "players": 6
     }
   ],
@@ -88,33 +88,33 @@
     },
     {
       "rank": 8,
+      "name": "ElDeathly",
+      "money": 176,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 9,
       "name": "sweatgod",
       "money": 175,
       "team": "Green Clubs"
     },
     {
-      "rank": 9,
-      "name": "ElDeathly",
-      "money": 164,
+      "rank": 10,
+      "name": "leekleek",
+      "money": 163,
       "team": "Yellow Spades"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Only_A_Squid",
       "money": 162,
       "team": "Purple Aces"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Greninja",
       "money": 150,
       "team": "Red Jokers"
-    },
-    {
-      "rank": 12,
-      "name": "leekleek",
-      "money": 150,
-      "team": "Yellow Spades"
     },
     {
       "rank": 13,
@@ -190,15 +190,15 @@
     },
     {
       "rank": 25,
-      "name": "Aramori",
-      "money": 117,
-      "team": "Blue Diamonds"
+      "name": "McSolsy",
+      "money": 120,
+      "team": "Yellow Spades"
     },
     {
       "rank": 26,
-      "name": "McSolsy",
-      "money": 108,
-      "team": "Yellow Spades"
+      "name": "Aramori",
+      "money": 117,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 27,
@@ -214,39 +214,39 @@
     },
     {
       "rank": 29,
+      "name": "RoyalPear_",
+      "money": 97,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 30,
+      "name": "Pinityy",
+      "money": 92,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 31,
       "name": "BryTheGuyy",
       "money": 88,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "name": "tingzmc",
       "money": 87,
       "team": "Green Clubs"
     },
     {
-      "rank": 31,
-      "name": "RoyalPear_",
-      "money": 85,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 32,
-      "name": "Pinityy",
-      "money": 79,
-      "team": "Yellow Spades"
-    },
-    {
       "rank": 33,
-      "name": "ConixD",
-      "money": 72,
-      "team": "Purple Aces"
+      "name": "Bormethius",
+      "money": 77,
+      "team": "Yellow Spades"
     },
     {
       "rank": 34,
-      "name": "Bormethius",
-      "money": 64,
-      "team": "Yellow Spades"
+      "name": "ConixD",
+      "money": 72,
+      "team": "Purple Aces"
     },
     {
       "rank": 35,
@@ -362,6 +362,20 @@
         "playtime": 1739
       },
       {
+        "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
+        "name": "ElDeathly",
+        "money": 176,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/eldeathly",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 2105
+      },
+      {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
         "name": "sweatgod",
         "money": 175,
@@ -376,18 +390,18 @@
         "playtime": 1609
       },
       {
-        "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
-        "name": "ElDeathly",
-        "money": 164,
+        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
+        "name": "leekleek",
+        "money": 163,
         "online": true,
-        "streamLink": "https://www.twitch.tv/eldeathly",
+        "streamLink": "https://www.twitch.tv/leekleek",
         "vip": false,
         "team": "YELLOW_TEAM",
         "captain": false,
-        "tier": "A_TIER",
+        "tier": "B_TIER",
         "kills": 2,
         "deaths": 0,
-        "playtime": 2105
+        "playtime": 1693
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
@@ -416,20 +430,6 @@
         "kills": 2,
         "deaths": 1,
         "playtime": 1821
-      },
-      {
-        "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
-        "name": "leekleek",
-        "money": 150,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/leekleek",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1693
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
@@ -600,6 +600,20 @@
         "playtime": 1901
       },
       {
+        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
+        "name": "McSolsy",
+        "money": 120,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sols",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 2462
+      },
+      {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 117,
@@ -612,20 +626,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1510
-      },
-      {
-        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
-        "name": "McSolsy",
-        "money": 108,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sols",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 2462
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
@@ -656,6 +656,34 @@
         "playtime": 1447
       },
       {
+        "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
+        "name": "RoyalPear_",
+        "money": 97,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@RoyalPear",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1957
+      },
+      {
+        "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
+        "name": "Pinityy",
+        "money": 92,
+        "online": true,
+        "streamLink": null,
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 133
+      },
+      {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 88,
@@ -684,32 +712,18 @@
         "playtime": 1550
       },
       {
-        "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
-        "name": "RoyalPear_",
-        "money": 85,
+        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
+        "name": "Bormethius",
+        "money": 77,
         "online": true,
-        "streamLink": "https://www.youtube.com/@RoyalPear",
+        "streamLink": "https://www.twitch.tv/bormethius",
         "vip": false,
         "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
+        "captain": true,
+        "tier": "F_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 1957
-      },
-      {
-        "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
-        "name": "Pinityy",
-        "money": 79,
-        "online": true,
-        "streamLink": null,
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 133
+        "playtime": 1661
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
@@ -724,20 +738,6 @@
         "kills": 0,
         "deaths": 4,
         "playtime": 1564
-      },
-      {
-        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
-        "name": "Bormethius",
-        "money": 64,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bormethius",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": true,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1661
       },
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
