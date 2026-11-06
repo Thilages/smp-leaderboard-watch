@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T18:50:39Z",
-  "checkedAtIST": "2026-11-07 00:20:39",
-  "check": 4117,
+  "checkedAt": "2026-11-06T18:53:09Z",
+  "checkedAtIST": "2026-11-07 00:23:09",
+  "check": 4122,
   "lastChangeAt": "2026-11-06T18:48:39Z",
   "lastChangeAtIST": "2026-11-07 00:18:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -687,7 +687,7 @@
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
         "name": "Pinityy",
         "money": 79,
-        "online": false,
+        "online": true,
         "streamLink": null,
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -751,7 +751,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 5,
-        "playtime": 1628
+        "playtime": 1641
       },
       {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
