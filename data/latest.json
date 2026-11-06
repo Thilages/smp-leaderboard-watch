@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-05T23:58:56Z",
-  "checkedAtIST": "2026-11-06 05:28:56",
-  "check": 1873,
-  "lastChangeAt": "2026-11-05T23:24:26Z",
-  "lastChangeAtIST": "2026-11-06 04:54:26",
+  "checkedAt": "2026-11-06T00:00:56Z",
+  "checkedAtIST": "2026-11-06 05:30:56",
+  "check": 1877,
+  "lastChangeAt": "2026-11-06T00:00:56Z",
+  "lastChangeAtIST": "2026-11-06 05:30:56",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,19 +27,19 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 720,
+      "money": 680,
+      "players": 6
+    },
+    {
+      "team": "RED_TEAM",
+      "name": "Red Jokers",
+      "money": 650,
       "players": 6
     },
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
       "money": 640,
-      "players": 6
-    },
-    {
-      "team": "RED_TEAM",
-      "name": "Red Jokers",
-      "money": 610,
       "players": 6
     }
   ],
@@ -94,57 +94,57 @@
     },
     {
       "rank": 9,
-      "name": "unixn",
-      "money": 150,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 10,
       "name": "Evbo_",
       "money": 150,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "kantje",
       "money": 146,
       "team": "Purple Aces"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "5uppps",
       "money": 138,
       "team": "Green Clubs"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Fymada",
       "money": 138,
       "team": "Green Clubs"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "InfamousJJ",
       "money": 138,
       "team": "Pink Hearts"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "LuigiToan",
       "money": 137,
       "team": "Green Clubs"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "AiroKun",
       "money": 135,
       "team": "Red Jokers"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "notbogur",
       "money": 135,
       "team": "Pink Hearts"
+    },
+    {
+      "rank": 17,
+      "name": "Greninja",
+      "money": 125,
+      "team": "Red Jokers"
     },
     {
       "rank": 18,
@@ -184,63 +184,63 @@
     },
     {
       "rank": 24,
+      "name": "unixn",
+      "money": 110,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 25,
       "name": "tingzmc",
       "money": 108,
       "team": "Green Clubs"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "SB737",
       "money": 105,
       "team": "Red Jokers"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "RoyalPear_",
       "money": 105,
       "team": "Yellow Spades"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "leekleek",
       "money": 104,
       "team": "Yellow Spades"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "McSolsy",
       "money": 104,
       "team": "Yellow Spades"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "ClownPierce",
       "money": 95,
       "team": "Red Jokers"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "WyLL_",
       "money": 93,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "sidefall",
       "money": 91,
       "team": "Purple Aces"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "BryTheGuyy",
       "money": 86,
       "team": "Blue Diamonds"
-    },
-    {
-      "rank": 33,
-      "name": "Greninja",
-      "money": 85,
-      "team": "Red Jokers"
     },
     {
       "rank": 34,
@@ -376,24 +376,10 @@
         "playtime": 818
       },
       {
-        "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
-        "name": "unixn",
-        "money": 150,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/unixn",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 1,
-        "deaths": 0,
-        "playtime": 1087
-      },
-      {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 150,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -415,7 +401,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 1012
+        "playtime": 1058
       },
       {
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
@@ -502,6 +488,20 @@
         "playtime": 850
       },
       {
+        "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
+        "name": "Greninja",
+        "money": 125,
+        "online": true,
+        "streamLink": "https://twitch.tv/greninja",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 1,
+        "deaths": 1,
+        "playtime": 1059
+      },
+      {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
         "name": "ChuckkNasty",
         "money": 125,
@@ -584,6 +584,20 @@
         "kills": 0,
         "deaths": 2,
         "playtime": 971
+      },
+      {
+        "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
+        "name": "unixn",
+        "money": 110,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/unixn",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 1,
+        "deaths": 1,
+        "playtime": 1087
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
@@ -701,7 +715,7 @@
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 86,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/brytheguy",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -710,20 +724,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1046
-      },
-      {
-        "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
-        "name": "Greninja",
-        "money": 85,
-        "online": true,
-        "streamLink": "https://twitch.tv/greninja",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1059
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
