@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T20:50:09Z",
-  "checkedAtIST": "2026-11-07 02:20:09",
-  "check": 4354,
+  "checkedAt": "2026-11-06T20:52:39Z",
+  "checkedAtIST": "2026-11-07 02:22:39",
+  "check": 4359,
   "lastChangeAt": "2026-11-06T20:25:39Z",
   "lastChangeAtIST": "2026-11-07 01:55:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -337,7 +337,7 @@
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 208,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/infamousjjlive",
         "vip": false,
         "team": "PINK_TEAM",
@@ -393,7 +393,7 @@
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 150,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/greninja",
         "vip": false,
         "team": "RED_TEAM",
@@ -401,7 +401,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 1,
-        "playtime": 1689
+        "playtime": 1821
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -491,7 +491,7 @@
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 144,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/airokun",
         "vip": false,
         "team": "RED_TEAM",
@@ -499,7 +499,7 @@
         "tier": "S_TIER",
         "kills": 3,
         "deaths": 3,
-        "playtime": 1608
+        "playtime": 1658
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
@@ -533,7 +533,7 @@
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 129,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/sb737",
         "vip": false,
         "team": "RED_TEAM",
@@ -541,13 +541,13 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1253
+        "playtime": 1368
       },
       {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
         "name": "ChuckkNasty",
         "money": 129,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@ChuckNasty",
         "vip": false,
         "team": "RED_TEAM",
@@ -555,7 +555,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 705
+        "playtime": 861
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
@@ -631,7 +631,7 @@
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 99,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
@@ -639,7 +639,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1555
+        "playtime": 1615
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
@@ -757,7 +757,7 @@
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
         "name": "_Brinkz",
         "money": 39,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/brinkzlive",
         "vip": false,
         "team": "RED_TEAM",
@@ -765,7 +765,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 3,
-        "playtime": 1749
+        "playtime": 1881
       }
     ],
     "events": [
