@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T23:18:24Z",
-  "checkedAtIST": "2026-11-07 04:48:24",
-  "check": 4647,
-  "lastChangeAt": "2026-11-06T23:18:24Z",
-  "lastChangeAtIST": "2026-11-07 04:48:24",
+  "checkedAt": "2026-11-06T23:19:25Z",
+  "checkedAtIST": "2026-11-07 04:49:25",
+  "check": 4649,
+  "lastChangeAt": "2026-11-06T23:18:54Z",
+  "lastChangeAtIST": "2026-11-07 04:48:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1080,
+      "money": 1155,
       "players": 6
     },
     {
@@ -65,13 +65,13 @@
     {
       "rank": 4,
       "name": "JudeLow",
-      "money": 235,
+      "money": 248,
       "team": "Green Clubs"
     },
     {
       "rank": 5,
       "name": "sweatgod",
-      "money": 221,
+      "money": 233,
       "team": "Green Clubs"
     },
     {
@@ -100,33 +100,33 @@
     },
     {
       "rank": 10,
+      "name": "Fymada",
+      "money": 184,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 11,
+      "name": "5uppps",
+      "money": 183,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 12,
+      "name": "LuigiToan",
+      "money": 182,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 13,
       "name": "ElDeathly",
       "money": 176,
       "team": "Yellow Spades"
     },
     {
-      "rank": 11,
+      "rank": 14,
       "name": "Only_A_Squid",
       "money": 174,
       "team": "Purple Aces"
-    },
-    {
-      "rank": 12,
-      "name": "Fymada",
-      "money": 172,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 13,
-      "name": "5uppps",
-      "money": 170,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 14,
-      "name": "LuigiToan",
-      "money": 169,
-      "team": "Green Clubs"
     },
     {
       "rank": 15,
@@ -172,27 +172,27 @@
     },
     {
       "rank": 22,
+      "name": "tingzmc",
+      "money": 125,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 23,
       "name": "AiroKun",
       "money": 124,
       "team": "Red Jokers"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "McSolsy",
       "money": 120,
       "team": "Yellow Spades"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "RoyalPear_",
       "money": 117,
       "team": "Yellow Spades"
-    },
-    {
-      "rank": 25,
-      "name": "tingzmc",
-      "money": 113,
-      "team": "Green Clubs"
     },
     {
       "rank": 26,
@@ -308,7 +308,7 @@
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
-        "money": 235,
+        "money": 248,
         "online": true,
         "streamLink": "https://www.twitch.tv/jude_low",
         "vip": false,
@@ -322,7 +322,7 @@
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
         "name": "sweatgod",
-        "money": 221,
+        "money": 233,
         "online": true,
         "streamLink": "https://www.twitch.tv/sweatgod",
         "vip": false,
@@ -390,6 +390,48 @@
         "playtime": 1810
       },
       {
+        "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
+        "name": "Fymada",
+        "money": 184,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/fymada",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1840
+      },
+      {
+        "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
+        "name": "5uppps",
+        "money": 183,
+        "online": true,
+        "streamLink": "https://twitch.tv/5up",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1707
+      },
+      {
+        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
+        "name": "LuigiToan",
+        "money": 182,
+        "online": true,
+        "streamLink": "https://twitch.tv/toan",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 2,
+        "playtime": 1905
+      },
+      {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
         "money": 176,
@@ -416,48 +458,6 @@
         "kills": 1,
         "deaths": 1,
         "playtime": 2460
-      },
-      {
-        "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
-        "name": "Fymada",
-        "money": 172,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/fymada",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1840
-      },
-      {
-        "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
-        "name": "5uppps",
-        "money": 170,
-        "online": true,
-        "streamLink": "https://twitch.tv/5up",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1707
-      },
-      {
-        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
-        "name": "LuigiToan",
-        "money": 169,
-        "online": true,
-        "streamLink": "https://twitch.tv/toan",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 2,
-        "playtime": 1905
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
@@ -558,6 +558,20 @@
         "playtime": 133
       },
       {
+        "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
+        "name": "tingzmc",
+        "money": 125,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/tingz",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1860
+      },
+      {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 124,
@@ -598,20 +612,6 @@
         "kills": 1,
         "deaths": 2,
         "playtime": 1957
-      },
-      {
-        "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
-        "name": "tingzmc",
-        "money": 113,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/tingz",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1860
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
