@@ -263,5 +263,7 @@
 {"at": "2026-11-06T21:33:39Z", "atIST": "2026-11-07 03:03:39", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 64, "to": 77, "delta": 13, "rankFrom": 34, "rankTo": 33},
 {"at": "2026-11-06T21:33:39Z", "atIST": "2026-11-07 03:03:39", "player": "ElDeathly", "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf", "team": "Yellow Spades", "type": "money", "from": 164, "to": 176, "delta": 12, "rankFrom": 9, "rankTo": 8},
 {"at": "2026-11-06T21:33:39Z", "atIST": "2026-11-07 03:03:39", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 108, "to": 120, "delta": 12, "rankFrom": 26, "rankTo": 25},
-{"at": "2026-11-06T21:33:39Z", "atIST": "2026-11-07 03:03:39", "player": "RoyalPear_", "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105", "team": "Yellow Spades", "type": "money", "from": 85, "to": 97, "delta": 12, "rankFrom": 31, "rankTo": 29}
+{"at": "2026-11-06T21:33:39Z", "atIST": "2026-11-07 03:03:39", "player": "RoyalPear_", "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105", "team": "Yellow Spades", "type": "money", "from": 85, "to": 97, "delta": 12, "rankFrom": 31, "rankTo": 29},
+{"at": "2026-11-06T21:45:09Z", "atIST": "2026-11-07 03:15:09", "player": "RoyalPear_", "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105", "team": "Yellow Spades", "type": "money", "from": 97, "to": 117, "delta": 20, "rankFrom": 29, "rankTo": 25, "also": {"kills": {"from": 0, "to": 1}}},
+{"at": "2026-11-06T21:45:09Z", "atIST": "2026-11-07 03:15:09", "player": "ChuckkNasty", "id": "8605661e-2890-4584-8f63-13ae37569d63", "team": "Red Jokers", "type": "money", "from": 129, "to": 109, "delta": -20, "rankFrom": 23, "rankTo": 27, "also": {"deaths": {"from": 0, "to": 1}}}
 ]

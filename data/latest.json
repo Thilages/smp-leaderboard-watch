@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T21:44:39Z",
-  "checkedAtIST": "2026-11-07 03:14:39",
-  "check": 4462,
-  "lastChangeAt": "2026-11-06T21:33:39Z",
-  "lastChangeAtIST": "2026-11-07 03:03:39",
+  "checkedAt": "2026-11-06T21:45:09Z",
+  "checkedAtIST": "2026-11-07 03:15:09",
+  "check": 4463,
+  "lastChangeAt": "2026-11-06T21:45:09Z",
+  "lastChangeAtIST": "2026-11-07 03:15:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -33,13 +33,13 @@
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
-      "money": 725,
+      "money": 745,
       "players": 6
     },
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 690,
+      "money": 670,
       "players": 6
     }
   ],
@@ -178,20 +178,20 @@
     },
     {
       "rank": 23,
-      "name": "ChuckkNasty",
-      "money": 129,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 24,
       "name": "WyLL_",
       "money": 126,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "McSolsy",
       "money": 120,
+      "team": "Yellow Spades"
+    },
+    {
+      "rank": 25,
+      "name": "RoyalPear_",
+      "money": 117,
       "team": "Yellow Spades"
     },
     {
@@ -202,21 +202,21 @@
     },
     {
       "rank": 27,
+      "name": "ChuckkNasty",
+      "money": 109,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 28,
       "name": "ClownPierce",
       "money": 99,
       "team": "Red Jokers"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "notbogur",
       "money": 99,
       "team": "Pink Hearts"
-    },
-    {
-      "rank": 29,
-      "name": "RoyalPear_",
-      "money": 97,
-      "team": "Yellow Spades"
     },
     {
       "rank": 30,
@@ -572,20 +572,6 @@
         "playtime": 1368
       },
       {
-        "id": "8605661e-2890-4584-8f63-13ae37569d63",
-        "name": "ChuckkNasty",
-        "money": 129,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@ChuckNasty",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 861
-      },
-      {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 126,
@@ -614,6 +600,20 @@
         "playtime": 2462
       },
       {
+        "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
+        "name": "RoyalPear_",
+        "money": 117,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@RoyalPear",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 1,
+        "deaths": 2,
+        "playtime": 1957
+      },
+      {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 117,
@@ -626,6 +626,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1510
+      },
+      {
+        "id": "8605661e-2890-4584-8f63-13ae37569d63",
+        "name": "ChuckkNasty",
+        "money": 109,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@ChuckNasty",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 861
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
@@ -654,20 +668,6 @@
         "kills": 0,
         "deaths": 4,
         "playtime": 1447
-      },
-      {
-        "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
-        "name": "RoyalPear_",
-        "money": 97,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@RoyalPear",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1957
       },
       {
         "id": "b23fa084-3209-478f-934c-f7a617bb0d18",
