@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:16:09Z",
-  "checkedAtIST": "2026-11-07 00:46:09",
-  "check": 4168,
-  "lastChangeAt": "2026-11-06T19:16:09Z",
-  "lastChangeAtIST": "2026-11-07 00:46:09",
+  "checkedAt": "2026-11-06T19:17:39Z",
+  "checkedAtIST": "2026-11-07 00:47:39",
+  "check": 4171,
+  "lastChangeAt": "2026-11-06T19:17:39Z",
+  "lastChangeAtIST": "2026-11-07 00:47:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 1010,
+      "money": 1015,
       "players": 6
     },
     {
@@ -208,15 +208,15 @@
     },
     {
       "rank": 28,
-      "name": "ClownPierce",
-      "money": 95,
-      "team": "Red Jokers"
+      "name": "ConixD",
+      "money": 100,
+      "team": "Purple Aces"
     },
     {
       "rank": 29,
-      "name": "ConixD",
+      "name": "ClownPierce",
       "money": 95,
-      "team": "Purple Aces"
+      "team": "Red Jokers"
     },
     {
       "rank": 30,
@@ -351,7 +351,7 @@
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 173,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/infamousjjlive",
         "vip": false,
         "team": "PINK_TEAM",
@@ -359,7 +359,7 @@
         "tier": "A_TIER",
         "kills": 1,
         "deaths": 0,
-        "playtime": 1213
+        "playtime": 1267
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
@@ -642,6 +642,20 @@
         "playtime": 1693
       },
       {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 100,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1564
+      },
+      {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 95,
@@ -654,20 +668,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1484
-      },
-      {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 95,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1564
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
