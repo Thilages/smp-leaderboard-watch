@@ -146,5 +146,7 @@
 {"at": "2026-11-06T08:17:15Z", "atIST": "2026-11-06 13:47:15", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 407, "to": 348, "delta": -59, "rankFrom": 1, "rankTo": 1, "flags": ["big_move"]},
 {"at": "2026-11-06T08:17:15Z", "atIST": "2026-11-06 13:47:15", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "money", "from": 55, "to": 114, "delta": 59, "rankFrom": 35, "rankTo": 21, "flags": ["big_move", "rank_jump"]},
 {"at": "2026-11-06T08:17:45Z", "atIST": "2026-11-06 13:47:45", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 348, "to": 346, "delta": -2, "rankFrom": 1, "rankTo": 1},
-{"at": "2026-11-06T08:17:45Z", "atIST": "2026-11-06 13:47:45", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "money", "from": 114, "to": 116, "delta": 2, "rankFrom": 21, "rankTo": 21}
+{"at": "2026-11-06T08:17:45Z", "atIST": "2026-11-06 13:47:45", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "money", "from": 114, "to": 116, "delta": 2, "rankFrom": 21, "rankTo": 21},
+{"at": "2026-11-06T08:38:15Z", "atIST": "2026-11-06 14:08:15", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 346, "to": 316, "delta": -30, "rankFrom": 1, "rankTo": 1},
+{"at": "2026-11-06T08:38:15Z", "atIST": "2026-11-06 14:08:15", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "money", "from": 116, "to": 146, "delta": 30, "rankFrom": 21, "rankTo": 9, "flags": ["rank_jump"]}
 ]
