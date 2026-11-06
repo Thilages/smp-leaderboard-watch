@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:07:39Z",
-  "checkedAtIST": "2026-11-07 00:37:39",
-  "check": 4151,
-  "lastChangeAt": "2026-11-06T19:07:39Z",
-  "lastChangeAtIST": "2026-11-07 00:37:39",
+  "checkedAt": "2026-11-06T19:09:09Z",
+  "checkedAtIST": "2026-11-07 00:39:09",
+  "check": 4154,
+  "lastChangeAt": "2026-11-06T19:09:09Z",
+  "lastChangeAtIST": "2026-11-07 00:39:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,13 +15,13 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 980,
+      "money": 985,
       "players": 6
     },
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 805,
+      "money": 810,
       "players": 6
     },
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 6,
-      "name": "InfamousJJ",
-      "money": 173,
-      "team": "Pink Hearts"
+      "name": "JudeLow",
+      "money": 177,
+      "team": "Green Clubs"
     },
     {
       "rank": 7,
-      "name": "JudeLow",
-      "money": 172,
-      "team": "Green Clubs"
+      "name": "InfamousJJ",
+      "money": 173,
+      "team": "Pink Hearts"
     },
     {
       "rank": 8,
@@ -94,13 +94,13 @@
     },
     {
       "rank": 9,
-      "name": "Only_A_Squid",
-      "money": 146,
+      "name": "kantje",
+      "money": 151,
       "team": "Purple Aces"
     },
     {
       "rank": 10,
-      "name": "kantje",
+      "name": "Only_A_Squid",
       "money": 146,
       "team": "Purple Aces"
     },
@@ -334,6 +334,20 @@
         "playtime": 1588
       },
       {
+        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
+        "name": "JudeLow",
+        "money": 177,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/jude_low",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 3,
+        "playtime": 1845
+      },
+      {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 173,
@@ -346,20 +360,6 @@
         "kills": 1,
         "deaths": 0,
         "playtime": 1213
-      },
-      {
-        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
-        "name": "JudeLow",
-        "money": 172,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/jude_low",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 1845
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
@@ -376,6 +376,20 @@
         "playtime": 2105
       },
       {
+        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
+        "name": "kantje",
+        "money": 151,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/kantje",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 1575
+      },
+      {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 146,
@@ -388,20 +402,6 @@
         "kills": 1,
         "deaths": 1,
         "playtime": 2460
-      },
-      {
-        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
-        "name": "kantje",
-        "money": 146,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/kantje",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 1575
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
