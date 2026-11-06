@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T17:49:39Z",
-  "checkedAtIST": "2026-11-06 23:19:39",
-  "check": 3996,
+  "checkedAt": "2026-11-06T17:51:39Z",
+  "checkedAtIST": "2026-11-06 23:21:39",
+  "check": 4000,
   "lastChangeAt": "2026-11-06T17:49:09Z",
   "lastChangeAtIST": "2026-11-06 23:19:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -513,7 +513,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 655
+        "playtime": 680
       },
       {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
@@ -659,7 +659,7 @@
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 95,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
