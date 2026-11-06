@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T19:09:09Z",
-  "checkedAtIST": "2026-11-07 00:39:09",
-  "check": 4154,
-  "lastChangeAt": "2026-11-06T19:09:09Z",
-  "lastChangeAtIST": "2026-11-07 00:39:09",
+  "checkedAt": "2026-11-06T19:10:39Z",
+  "checkedAtIST": "2026-11-07 00:40:39",
+  "check": 4157,
+  "lastChangeAt": "2026-11-06T19:10:09Z",
+  "lastChangeAtIST": "2026-11-07 00:40:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1160,
+      "money": 1140,
       "players": 6
     },
     {
@@ -21,7 +21,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 810,
+      "money": 830,
       "players": 6
     },
     {
@@ -94,27 +94,27 @@
     },
     {
       "rank": 9,
+      "name": "sweatgod",
+      "money": 162,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 10,
       "name": "kantje",
       "money": 151,
       "team": "Purple Aces"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Only_A_Squid",
       "money": 146,
       "team": "Purple Aces"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "ghostiefruit",
       "money": 143,
       "team": "Pink Hearts"
-    },
-    {
-      "rank": 12,
-      "name": "sweatgod",
-      "money": 142,
-      "team": "Green Clubs"
     },
     {
       "rank": 13,
@@ -172,51 +172,51 @@
     },
     {
       "rank": 22,
-      "name": "notbogur",
-      "money": 115,
-      "team": "Pink Hearts"
-    },
-    {
-      "rank": 23,
       "name": "unixn",
       "money": 110,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "McSolsy",
       "money": 108,
       "team": "Yellow Spades"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "WyLL_",
       "money": 108,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "RoyalPear_",
       "money": 105,
       "team": "Yellow Spades"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aramori",
       "money": 101,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "leekleek",
       "money": 100,
       "team": "Yellow Spades"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "ClownPierce",
       "money": 95,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 29,
+      "name": "notbogur",
+      "money": 95,
+      "team": "Pink Hearts"
     },
     {
       "rank": 30,
@@ -376,6 +376,20 @@
         "playtime": 2105
       },
       {
+        "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
+        "name": "sweatgod",
+        "money": 162,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sweatgod",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 2,
+        "deaths": 2,
+        "playtime": 1468
+      },
+      {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
         "name": "kantje",
         "money": 151,
@@ -416,20 +430,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1230
-      },
-      {
-        "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
-        "name": "sweatgod",
-        "money": 142,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sweatgod",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 1,
-        "deaths": 2,
-        "playtime": 1468
       },
       {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
@@ -558,20 +558,6 @@
         "playtime": 1550
       },
       {
-        "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
-        "name": "notbogur",
-        "money": 115,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bogur",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 3,
-        "playtime": 1241
-      },
-      {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 110,
@@ -668,6 +654,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1484
+      },
+      {
+        "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
+        "name": "notbogur",
+        "money": 95,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bogur",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 4,
+        "playtime": 1241
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
