@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T19:04:39Z",
-  "checkedAtIST": "2026-11-07 00:34:39",
-  "check": 4145,
-  "lastChangeAt": "2026-11-06T19:04:09Z",
-  "lastChangeAtIST": "2026-11-07 00:34:09",
+  "checkedAt": "2026-11-06T19:06:09Z",
+  "checkedAtIST": "2026-11-07 00:36:09",
+  "check": 4148,
+  "lastChangeAt": "2026-11-06T19:06:09Z",
+  "lastChangeAtIST": "2026-11-07 00:36:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1150,
+      "money": 1160,
       "players": 6
     },
     {
@@ -27,7 +27,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 670,
+      "money": 675,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 605,
+      "money": 610,
       "players": 6
     }
   ],
@@ -59,7 +59,7 @@
     {
       "rank": 3,
       "name": "Infume",
-      "money": 212,
+      "money": 217,
       "team": "Pink Hearts"
     },
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 6,
-      "name": "JudeLow",
-      "money": 172,
-      "team": "Green Clubs"
+      "name": "InfamousJJ",
+      "money": 173,
+      "team": "Pink Hearts"
     },
     {
       "rank": 7,
-      "name": "InfamousJJ",
-      "money": 168,
-      "team": "Pink Hearts"
+      "name": "JudeLow",
+      "money": 172,
+      "team": "Green Clubs"
     },
     {
       "rank": 8,
@@ -118,27 +118,27 @@
     },
     {
       "rank": 13,
+      "name": "AiroKun",
+      "money": 140,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 14,
       "name": "5uppps",
       "money": 138,
       "team": "Green Clubs"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Fymada",
       "money": 138,
       "team": "Green Clubs"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "LuigiToan",
       "money": 137,
       "team": "Green Clubs"
-    },
-    {
-      "rank": 16,
-      "name": "AiroKun",
-      "money": 135,
-      "team": "Red Jokers"
     },
     {
       "rank": 17,
@@ -190,15 +190,15 @@
     },
     {
       "rank": 25,
-      "name": "RoyalPear_",
-      "money": 105,
-      "team": "Yellow Spades"
+      "name": "WyLL_",
+      "money": 108,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 26,
-      "name": "WyLL_",
-      "money": 103,
-      "team": "Blue Diamonds"
+      "name": "RoyalPear_",
+      "money": 105,
+      "team": "Yellow Spades"
     },
     {
       "rank": 27,
@@ -294,7 +294,7 @@
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
-        "money": 212,
+        "money": 217,
         "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
@@ -334,6 +334,20 @@
         "playtime": 1588
       },
       {
+        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
+        "name": "InfamousJJ",
+        "money": 173,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/infamousjjlive",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 1,
+        "deaths": 0,
+        "playtime": 1213
+      },
+      {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
         "money": 172,
@@ -346,20 +360,6 @@
         "kills": 2,
         "deaths": 3,
         "playtime": 1845
-      },
-      {
-        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
-        "name": "InfamousJJ",
-        "money": 168,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/infamousjjlive",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 1,
-        "deaths": 0,
-        "playtime": 1213
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
@@ -432,6 +432,20 @@
         "playtime": 1468
       },
       {
+        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
+        "name": "AiroKun",
+        "money": 140,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/airokun",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 3,
+        "deaths": 3,
+        "playtime": 1544
+      },
+      {
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 138,
@@ -472,20 +486,6 @@
         "kills": 2,
         "deaths": 2,
         "playtime": 1597
-      },
-      {
-        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
-        "name": "AiroKun",
-        "money": 135,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/airokun",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 3,
-        "deaths": 3,
-        "playtime": 1544
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
@@ -600,6 +600,20 @@
         "playtime": 2462
       },
       {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 108,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1901
+      },
+      {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
         "name": "RoyalPear_",
         "money": 105,
@@ -612,20 +626,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 1774
-      },
-      {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 103,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1901
       },
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",

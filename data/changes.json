@@ -171,5 +171,9 @@
 {"at": "2026-11-06T18:48:39Z", "atIST": "2026-11-07 00:18:39", "type": "left", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "money": 79},
 {"at": "2026-11-06T19:03:39Z", "atIST": "2026-11-07 00:33:39", "player": "saparata", "id": "296d434f-e781-4d44-9b66-469eab9d9bfe", "team": "Blue Diamonds", "type": "money", "from": 120, "to": 125, "delta": 5, "rankFrom": 21, "rankTo": 20},
 {"at": "2026-11-06T19:03:39Z", "atIST": "2026-11-07 00:33:39", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 93, "to": 98, "delta": 5, "rankFrom": 29, "rankTo": 28},
-{"at": "2026-11-06T19:04:09Z", "atIST": "2026-11-07 00:34:09", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 98, "to": 103, "delta": 5, "rankFrom": 28, "rankTo": 26}
+{"at": "2026-11-06T19:04:09Z", "atIST": "2026-11-07 00:34:09", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 98, "to": 103, "delta": 5, "rankFrom": 28, "rankTo": 26},
+{"at": "2026-11-06T19:05:09Z", "atIST": "2026-11-07 00:35:09", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 103, "to": 108, "delta": 5, "rankFrom": 26, "rankTo": 25},
+{"at": "2026-11-06T19:05:39Z", "atIST": "2026-11-07 00:35:39", "player": "Infume", "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791", "team": "Pink Hearts", "type": "money", "from": 212, "to": 217, "delta": 5, "rankFrom": 3, "rankTo": 3},
+{"at": "2026-11-06T19:05:39Z", "atIST": "2026-11-07 00:35:39", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "money", "from": 168, "to": 173, "delta": 5, "rankFrom": 7, "rankTo": 6},
+{"at": "2026-11-06T19:06:09Z", "atIST": "2026-11-07 00:36:09", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 135, "to": 140, "delta": 5, "rankFrom": 16, "rankTo": 13}
 ]
