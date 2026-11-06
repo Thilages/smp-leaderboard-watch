@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T17:46:09Z",
-  "checkedAtIST": "2026-11-06 23:16:09",
-  "check": 3989,
-  "lastChangeAt": "2026-11-06T17:38:09Z",
-  "lastChangeAtIST": "2026-11-06 23:08:09",
+  "checkedAt": "2026-11-06T17:48:39Z",
+  "checkedAtIST": "2026-11-06 23:18:39",
+  "check": 3994,
+  "lastChangeAt": "2026-11-06T17:48:39Z",
+  "lastChangeAtIST": "2026-11-06 23:18:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1080,
+      "money": 1120,
       "players": 6
     },
     {
@@ -21,7 +21,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 875,
+      "money": 835,
       "players": 6
     },
     {
@@ -58,21 +58,21 @@
     },
     {
       "rank": 3,
+      "name": "Infume",
+      "money": 212,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 4,
       "name": "TryH4rdd",
       "money": 210,
       "team": "Purple Aces"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "scotteh",
       "money": 183,
       "team": "Pink Hearts"
-    },
-    {
-      "rank": 5,
-      "name": "LuigiToan",
-      "money": 177,
-      "team": "Green Clubs"
     },
     {
       "rank": 6,
@@ -82,56 +82,56 @@
     },
     {
       "rank": 7,
-      "name": "Infume",
-      "money": 172,
-      "team": "Pink Hearts"
-    },
-    {
-      "rank": 8,
       "name": "InfamousJJ",
       "money": 168,
       "team": "Pink Hearts"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "ElDeathly",
       "money": 164,
       "team": "Yellow Spades"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Only_A_Squid",
       "money": 146,
       "team": "Purple Aces"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "kantje",
       "money": 146,
       "team": "Purple Aces"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ghostiefruit",
       "money": 143,
       "team": "Pink Hearts"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "sweatgod",
       "money": 142,
       "team": "Green Clubs"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "5uppps",
       "money": 138,
       "team": "Green Clubs"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Fymada",
       "money": 138,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 15,
+      "name": "LuigiToan",
+      "money": 137,
       "team": "Green Clubs"
     },
     {
@@ -292,6 +292,20 @@
         "playtime": 1367
       },
       {
+        "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
+        "name": "Infume",
+        "money": 212,
+        "online": true,
+        "streamLink": "https://twitch.tv/infume",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 0,
+        "playtime": 1142
+      },
+      {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 210,
@@ -320,20 +334,6 @@
         "playtime": 1500
       },
       {
-        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
-        "name": "LuigiToan",
-        "money": 177,
-        "online": true,
-        "streamLink": "https://twitch.tv/toan",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1597
-      },
-      {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
         "money": 172,
@@ -346,20 +346,6 @@
         "kills": 2,
         "deaths": 3,
         "playtime": 1845
-      },
-      {
-        "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
-        "name": "Infume",
-        "money": 172,
-        "online": true,
-        "streamLink": "https://twitch.tv/infume",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 1,
-        "deaths": 0,
-        "playtime": 1142
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -474,6 +460,20 @@
         "playtime": 1528
       },
       {
+        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
+        "name": "LuigiToan",
+        "money": 137,
+        "online": true,
+        "streamLink": "https://twitch.tv/toan",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 1,
+        "playtime": 1597
+      },
+      {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 135,
@@ -547,7 +547,7 @@
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 115,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bogur",
         "vip": false,
         "team": "PINK_TEAM",
@@ -555,7 +555,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1222
+        "playtime": 1241
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
@@ -659,7 +659,7 @@
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 95,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
@@ -667,7 +667,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1419
+        "playtime": 1438
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
