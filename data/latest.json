@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T19:13:09Z",
-  "checkedAtIST": "2026-11-07 00:43:09",
-  "check": 4162,
-  "lastChangeAt": "2026-11-06T19:10:09Z",
-  "lastChangeAtIST": "2026-11-07 00:40:09",
+  "checkedAt": "2026-11-06T19:13:39Z",
+  "checkedAtIST": "2026-11-07 00:43:39",
+  "check": 4163,
+  "lastChangeAt": "2026-11-06T19:13:39Z",
+  "lastChangeAtIST": "2026-11-07 00:43:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -31,15 +31,15 @@
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 620,
+      "team": "BLUE_TEAM",
+      "name": "Blue Diamonds",
+      "money": 635,
       "players": 6
     },
     {
-      "team": "BLUE_TEAM",
-      "name": "Blue Diamonds",
-      "money": 610,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 620,
       "players": 6
     }
   ],
@@ -142,51 +142,51 @@
     },
     {
       "rank": 17,
+      "name": "saparata",
+      "money": 129,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 18,
       "name": "Greninja",
       "money": 125,
       "team": "Red Jokers"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "SB737",
       "money": 125,
       "team": "Red Jokers"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "ChuckkNasty",
       "money": 125,
       "team": "Red Jokers"
     },
     {
-      "rank": 20,
-      "name": "saparata",
-      "money": 125,
-      "team": "Blue Diamonds"
-    },
-    {
       "rank": 21,
       "name": "Evbo_",
-      "money": 120,
+      "money": 124,
       "team": "Blue Diamonds"
     },
     {
       "rank": 22,
       "name": "unixn",
-      "money": 110,
+      "money": 114,
       "team": "Blue Diamonds"
     },
     {
       "rank": 23,
-      "name": "McSolsy",
-      "money": 108,
-      "team": "Yellow Spades"
+      "name": "WyLL_",
+      "money": 113,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 24,
-      "name": "WyLL_",
+      "name": "McSolsy",
       "money": 108,
-      "team": "Blue Diamonds"
+      "team": "Yellow Spades"
     },
     {
       "rank": 25,
@@ -197,7 +197,7 @@
     {
       "rank": 26,
       "name": "Aramori",
-      "money": 101,
+      "money": 105,
       "team": "Blue Diamonds"
     },
     {
@@ -257,7 +257,7 @@
     {
       "rank": 36,
       "name": "BryTheGuyy",
-      "money": 46,
+      "money": 50,
       "team": "Blue Diamonds"
     }
   ],
@@ -488,6 +488,20 @@
         "playtime": 1597
       },
       {
+        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
+        "name": "saparata",
+        "money": 129,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/saps",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 1269
+      },
+      {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 125,
@@ -530,23 +544,9 @@
         "playtime": 705
       },
       {
-        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
-        "name": "saparata",
-        "money": 125,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/saps",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 1269
-      },
-      {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
-        "money": 120,
+        "money": 124,
         "online": true,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
@@ -560,7 +560,7 @@
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
-        "money": 110,
+        "money": 114,
         "online": true,
         "streamLink": "https://www.twitch.tv/unixn",
         "vip": false,
@@ -570,6 +570,20 @@
         "kills": 1,
         "deaths": 1,
         "playtime": 1583
+      },
+      {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 113,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1901
       },
       {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
@@ -584,20 +598,6 @@
         "kills": 0,
         "deaths": 0,
         "playtime": 2462
-      },
-      {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 108,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1901
       },
       {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
@@ -616,7 +616,7 @@
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
-        "money": 101,
+        "money": 105,
         "online": true,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
@@ -756,7 +756,7 @@
       {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
-        "money": 46,
+        "money": 50,
         "online": true,
         "streamLink": "https://www.twitch.tv/brytheguy",
         "vip": false,
