@@ -116,5 +116,7 @@
 {"at": "2026-11-06T00:50:26Z", "atIST": "2026-11-06 06:20:26", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 84, "to": 64, "delta": -20, "rankFrom": 34, "rankTo": 36, "also": {"deaths": {"from": 1, "to": 2}}},
 {"at": "2026-11-06T01:20:26Z", "atIST": "2026-11-06 06:50:26", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Gladiators", "to": null}}},
 {"at": "2026-11-06T01:31:26Z", "atIST": "2026-11-06 07:01:26", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "money", "from": 150, "to": 120, "delta": -30, "rankFrom": 8, "rankTo": 20, "flags": ["rank_jump"]},
-{"at": "2026-11-06T01:51:56Z", "atIST": "2026-11-06 07:21:56", "player": "scotteh", "id": "60fa1bd7-54ed-4a86-aead-7409023e805e", "team": "Pink Hearts", "type": "money", "from": 163, "to": 183, "delta": 20, "rankFrom": 6, "rankTo": 4}
+{"at": "2026-11-06T01:51:56Z", "atIST": "2026-11-06 07:21:56", "player": "scotteh", "id": "60fa1bd7-54ed-4a86-aead-7409023e805e", "team": "Pink Hearts", "type": "money", "from": 163, "to": 183, "delta": 20, "rankFrom": 6, "rankTo": 4},
+{"at": "2026-11-06T02:16:26Z", "atIST": "2026-11-06 07:46:26", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 104, "to": 167, "delta": 63, "rankFrom": 29, "rankTo": 6, "flags": ["big_move", "rank_jump"]},
+{"at": "2026-11-06T02:16:26Z", "atIST": "2026-11-06 07:46:26", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 64, "to": 1, "delta": -63, "rankFrom": 36, "rankTo": 36, "flags": ["big_move"]}
 ]
