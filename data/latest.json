@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-06T00:48:56Z",
-  "checkedAtIST": "2026-11-06 06:18:56",
-  "check": 1972,
-  "lastChangeAt": "2026-11-06T00:34:26Z",
-  "lastChangeAtIST": "2026-11-06 06:04:26",
+  "checkedAt": "2026-11-06T00:50:26Z",
+  "checkedAtIST": "2026-11-06 06:20:26",
+  "check": 1975,
+  "lastChangeAt": "2026-11-06T00:50:26Z",
+  "lastChangeAtIST": "2026-11-06 06:20:26",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1050,
+      "money": 1070,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
-      "money": 640,
+      "money": 620,
       "players": 6
     }
   ],
@@ -53,7 +53,7 @@
     {
       "rank": 2,
       "name": "Flowtives",
-      "money": 279,
+      "money": 299,
       "team": "Pink Hearts"
     },
     {
@@ -244,21 +244,21 @@
     },
     {
       "rank": 34,
-      "name": "Bormethius",
-      "money": 84,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 35,
       "name": "ItzRealMe",
       "money": 79,
       "team": "Yellow Spades"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "_Brinkz",
       "money": 65,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 36,
+      "name": "Bormethius",
+      "money": 64,
+      "team": "Yellow Spades"
     }
   ],
   "payload": {
@@ -280,14 +280,14 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 279,
+        "money": 299,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
         "captain": false,
         "tier": "S_TIER",
-        "kills": 4,
+        "kills": 5,
         "deaths": 0,
         "playtime": 1039
       },
@@ -393,7 +393,7 @@
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 138,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/5up",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -401,7 +401,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1102
+        "playtime": 1133
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
@@ -726,20 +726,6 @@
         "playtime": 1050
       },
       {
-        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
-        "name": "Bormethius",
-        "money": 84,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bormethius",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": true,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 1204
-      },
-      {
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
         "name": "ItzRealMe",
         "money": 79,
@@ -766,6 +752,20 @@
         "kills": 0,
         "deaths": 2,
         "playtime": 1026
+      },
+      {
+        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
+        "name": "Bormethius",
+        "money": 64,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bormethius",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": true,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 1204
       }
     ],
     "events": [
