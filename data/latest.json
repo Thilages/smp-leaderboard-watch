@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-06T16:46:09Z",
-  "checkedAtIST": "2026-11-06 22:16:09",
-  "check": 3870,
-  "lastChangeAt": "2026-11-06T16:43:39Z",
-  "lastChangeAtIST": "2026-11-06 22:13:39",
+  "checkedAt": "2026-11-06T16:46:39Z",
+  "checkedAtIST": "2026-11-06 22:16:39",
+  "check": 3871,
+  "lastChangeAt": "2026-11-06T16:46:39Z",
+  "lastChangeAtIST": "2026-11-06 22:16:39",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -316,7 +316,7 @@
         "captain": false,
         "tier": "B_TIER",
         "kills": 2,
-        "deaths": 1,
+        "deaths": 2,
         "playtime": 1786
       },
       {
