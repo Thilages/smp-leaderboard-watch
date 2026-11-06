@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T17:16:39Z",
-  "checkedAtIST": "2026-11-06 22:46:39",
-  "check": 3931,
+  "checkedAt": "2026-11-06T17:18:39Z",
+  "checkedAtIST": "2026-11-06 22:48:39",
+  "check": 3935,
   "lastChangeAt": "2026-11-06T16:49:09Z",
   "lastChangeAtIST": "2026-11-06 22:19:09",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -449,7 +449,7 @@
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 138,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/fymada",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -519,7 +519,7 @@
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
         "name": "ChuckkNasty",
         "money": 125,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.youtube.com/@ChuckNasty",
         "vip": false,
         "team": "RED_TEAM",
@@ -673,7 +673,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 93,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -681,7 +681,7 @@
         "tier": "B_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1850
+        "playtime": 1874
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
