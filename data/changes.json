@@ -242,5 +242,6 @@
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "money", "from": 125, "to": 129, "delta": 4, "rankFrom": 21, "rankTo": 20},
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "ChuckkNasty", "id": "8605661e-2890-4584-8f63-13ae37569d63", "team": "Red Jokers", "type": "money", "from": 125, "to": 129, "delta": 4, "rankFrom": 22, "rankTo": 21},
 {"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 95, "to": 99, "delta": 4, "rankFrom": 28, "rankTo": 27},
-{"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 35, "to": 39, "delta": 4, "rankFrom": 36, "rankTo": 36}
+{"at": "2026-11-06T20:25:39Z", "atIST": "2026-11-07 01:55:39", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 35, "to": 39, "delta": 4, "rankFrom": 36, "rankTo": 36},
+{"at": "2026-11-06T21:00:09Z", "atIST": "2026-11-07 02:30:09", "type": "event", "fields": {"isLive": {"from": false, "to": true}, "currentEvent": {"from": null, "to": "Capture The Flag"}}}
 ]
