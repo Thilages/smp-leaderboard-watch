@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06T03:05:26Z",
-  "checkedAtIST": "2026-11-06 08:35:26",
-  "check": 2243,
+  "checkedAt": "2026-11-06T03:07:26Z",
+  "checkedAtIST": "2026-11-06 08:37:26",
+  "check": 2247,
   "lastChangeAt": "2026-11-06T02:17:56Z",
   "lastChangeAtIST": "2026-11-06 07:47:56",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -393,7 +393,7 @@
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 138,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/5up",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -463,7 +463,7 @@
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 135,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bogur",
         "vip": false,
         "team": "PINK_TEAM",
@@ -471,7 +471,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 0,
-        "playtime": 936
+        "playtime": 1076
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
