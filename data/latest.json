@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T20:36:54Z",
-  "checkedAtIST": "2026-11-08 02:06:54",
-  "check": 7181,
-  "lastChangeAt": "2026-11-07T20:27:54Z",
-  "lastChangeAtIST": "2026-11-08 01:57:54",
+  "checkedAt": "2026-11-07T20:38:24Z",
+  "checkedAtIST": "2026-11-08 02:08:24",
+  "check": 7184,
+  "lastChangeAt": "2026-11-07T20:38:24Z",
+  "lastChangeAtIST": "2026-11-08 02:08:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -19,15 +19,15 @@
       "players": 6
     },
     {
-      "team": "PURPLE_TEAM",
-      "name": "Purple Aces",
-      "money": 827,
+      "team": "BLUE_TEAM",
+      "name": "Blue Diamonds",
+      "money": 855,
       "players": 6
     },
     {
-      "team": "BLUE_TEAM",
-      "name": "Blue Diamonds",
-      "money": 815,
+      "team": "PURPLE_TEAM",
+      "name": "Purple Aces",
+      "money": 787,
       "players": 6
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "rank": 7,
-      "name": "InProper",
-      "money": 214,
-      "team": "Purple Aces"
+      "name": "unixn",
+      "money": 238,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 8,
@@ -112,27 +112,27 @@
     },
     {
       "rank": 12,
-      "name": "unixn",
-      "money": 198,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 13,
       "name": "leekleek",
       "money": 191,
       "team": "Yellow Spades"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "5uppps",
       "money": 191,
       "team": "Green Clubs"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "ElDeathly",
       "money": 174,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 15,
+      "name": "InProper",
+      "money": 174,
+      "team": "Purple Aces"
     },
     {
       "rank": 16,
@@ -348,18 +348,18 @@
         "playtime": 2681
       },
       {
-        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
-        "name": "InProper",
-        "money": 214,
+        "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
+        "name": "unixn",
+        "money": 238,
         "online": true,
-        "streamLink": "https://www.twitch.tv/proper",
+        "streamLink": "https://www.twitch.tv/unixn",
         "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": true,
+        "team": "BLUE_TEAM",
+        "captain": false,
         "tier": "S_TIER",
-        "kills": 8,
-        "deaths": 2,
-        "playtime": 2208
+        "kills": 3,
+        "deaths": 1,
+        "playtime": 2584
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -418,20 +418,6 @@
         "playtime": 2491
       },
       {
-        "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
-        "name": "unixn",
-        "money": 198,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/unixn",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 2,
-        "deaths": 1,
-        "playtime": 2584
-      },
-      {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
         "name": "leekleek",
         "money": 191,
@@ -472,6 +458,20 @@
         "kills": 4,
         "deaths": 1,
         "playtime": 3158
+      },
+      {
+        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
+        "name": "InProper",
+        "money": 174,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/proper",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 8,
+        "deaths": 3,
+        "playtime": 2208
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
