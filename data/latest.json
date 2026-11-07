@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T04:19:30Z",
-  "checkedAtIST": "2026-11-07 09:49:30",
-  "check": 5243,
+  "checkedAt": "2026-11-07T04:22:00Z",
+  "checkedAtIST": "2026-11-07 09:52:00",
+  "check": 5248,
   "lastChangeAt": "2026-11-07T04:17:00Z",
   "lastChangeAtIST": "2026-11-07 09:47:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -603,7 +603,7 @@
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
         "name": "RoyalPear_",
         "money": 117,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@RoyalPear",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -611,7 +611,7 @@
         "tier": "D_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 1957
+        "playtime": 2429
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
