@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T08:53:00Z",
-  "checkedAtIST": "2026-11-07 14:23:00",
-  "check": 5785,
+  "checkedAt": "2026-11-07T08:55:00Z",
+  "checkedAtIST": "2026-11-07 14:25:00",
+  "check": 5789,
   "lastChangeAt": "2026-11-07T08:04:30Z",
   "lastChangeAtIST": "2026-11-07 13:34:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -561,7 +561,7 @@
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
         "name": "ItzRealMe",
         "money": 132,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/itzrealmemc",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -569,7 +569,7 @@
         "tier": "S_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1820
+        "playtime": 2151
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
