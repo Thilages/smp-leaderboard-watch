@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T05:23:30Z",
-  "checkedAtIST": "2026-11-07 10:53:30",
-  "check": 5370,
-  "lastChangeAt": "2026-11-07T05:02:30Z",
-  "lastChangeAtIST": "2026-11-07 10:32:30",
+  "checkedAt": "2026-11-07T05:24:00Z",
+  "checkedAtIST": "2026-11-07 10:54:00",
+  "check": 5371,
+  "lastChangeAt": "2026-11-07T05:24:00Z",
+  "lastChangeAtIST": "2026-11-07 10:54:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1125,
+      "money": 1075,
       "players": 6
     },
     {
@@ -82,51 +82,51 @@
     },
     {
       "rank": 7,
-      "name": "JudeLow",
-      "money": 218,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 8,
       "name": "scotteh",
       "money": 200,
       "team": "Pink Hearts"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "AiroKun",
       "money": 194,
       "team": "Red Jokers"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Fymada",
       "money": 184,
       "team": "Green Clubs"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "leekleek",
       "money": 183,
       "team": "Yellow Spades"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "5uppps",
       "money": 183,
       "team": "Green Clubs"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "LuigiToan",
       "money": 182,
       "team": "Green Clubs"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Only_A_Squid",
       "money": 174,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 14,
+      "name": "JudeLow",
+      "money": 168,
+      "team": "Green Clubs"
     },
     {
       "rank": 15,
@@ -348,20 +348,6 @@
         "playtime": 2069
       },
       {
-        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
-        "name": "JudeLow",
-        "money": 218,
-        "online": false,
-        "streamLink": "https://www.twitch.tv/jude_low",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 2248
-      },
-      {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
         "name": "scotteh",
         "money": 200,
@@ -458,6 +444,20 @@
         "kills": 1,
         "deaths": 1,
         "playtime": 2972
+      },
+      {
+        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
+        "name": "JudeLow",
+        "money": 168,
+        "online": false,
+        "streamLink": "https://www.twitch.tv/jude_low",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 3,
+        "playtime": 2248
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
