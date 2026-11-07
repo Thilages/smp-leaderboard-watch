@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T04:15:30Z",
-  "checkedAtIST": "2026-11-07 09:45:30",
-  "check": 5235,
-  "lastChangeAt": "2026-11-07T04:15:30Z",
-  "lastChangeAtIST": "2026-11-07 09:45:30",
+  "checkedAt": "2026-11-07T04:17:00Z",
+  "checkedAtIST": "2026-11-07 09:47:00",
+  "check": 5238,
+  "lastChangeAt": "2026-11-07T04:17:00Z",
+  "lastChangeAtIST": "2026-11-07 09:47:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1238,
+      "money": 1258,
       "players": 6
     },
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 790,
+      "money": 770,
       "players": 6
     },
     {
@@ -52,15 +52,15 @@
     },
     {
       "rank": 2,
-      "name": "InProper",
-      "money": 274,
-      "team": "Purple Aces"
+      "name": "Flowtives",
+      "money": 294,
+      "team": "Pink Hearts"
     },
     {
       "rank": 3,
-      "name": "Flowtives",
+      "name": "InProper",
       "money": 274,
-      "team": "Pink Hearts"
+      "team": "Purple Aces"
     },
     {
       "rank": 4,
@@ -136,39 +136,39 @@
     },
     {
       "rank": 16,
-      "name": "saparata",
-      "money": 158,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 17,
       "name": "unixn",
       "money": 154,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Evbo_",
       "money": 149,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "ChuckkNasty",
       "money": 139,
       "team": "Red Jokers"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "WyLL_",
       "money": 139,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "ghostiefruit",
       "money": 139,
       "team": "Pink Hearts"
+    },
+    {
+      "rank": 21,
+      "name": "saparata",
+      "money": 138,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 22,
@@ -278,6 +278,20 @@
         "playtime": 1579
       },
       {
+        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
+        "name": "Flowtives",
+        "money": 294,
+        "online": true,
+        "streamLink": "https://twitch.tv/flowtives",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 10,
+        "deaths": 0,
+        "playtime": 1988
+      },
+      {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
         "money": 274,
@@ -290,20 +304,6 @@
         "kills": 7,
         "deaths": 1,
         "playtime": 1996
-      },
-      {
-        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
-        "name": "Flowtives",
-        "money": 274,
-        "online": true,
-        "streamLink": "https://twitch.tv/flowtives",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 9,
-        "deaths": 0,
-        "playtime": 1988
       },
       {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
@@ -474,20 +474,6 @@
         "playtime": 1959
       },
       {
-        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
-        "name": "saparata",
-        "money": 158,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/saps",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 1642
-      },
-      {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 154,
@@ -556,6 +542,20 @@
         "kills": 0,
         "deaths": 2,
         "playtime": 1442
+      },
+      {
+        "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
+        "name": "saparata",
+        "money": 138,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/saps",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 1642
       },
       {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
