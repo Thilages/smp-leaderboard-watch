@@ -484,5 +484,6 @@
 {"at": "2026-11-07T22:05:42Z", "atIST": "2026-11-08 03:35:42", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 143, "to": 168, "delta": 25, "rankFrom": 22, "rankTo": 20},
 {"at": "2026-11-07T22:08:12Z", "atIST": "2026-11-08 03:38:12", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Titans", "to": null}}},
 {"at": "2026-11-07T22:09:12Z", "atIST": "2026-11-08 03:39:12", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "joined", "money": 113, "rank": 28},
-{"at": "2026-11-07T22:09:12Z", "atIST": "2026-11-08 03:39:12", "type": "left", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "money": 113}
+{"at": "2026-11-07T22:09:12Z", "atIST": "2026-11-08 03:39:12", "type": "left", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "money": 113},
+{"at": "2026-11-07T23:11:12Z", "atIST": "2026-11-08 04:41:12", "player": "Aramori", "id": "04d109cf-1fea-4ce5-84ba-767f07c65087", "team": "Blue Diamonds", "type": "money", "from": 86, "to": 106, "delta": 20, "rankFrom": 31, "rankTo": 29}
 ]
