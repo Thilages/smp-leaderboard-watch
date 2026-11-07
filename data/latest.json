@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T19:20:24Z",
-  "checkedAtIST": "2026-11-08 00:50:24",
-  "check": 7029,
-  "lastChangeAt": "2026-11-07T19:20:24Z",
-  "lastChangeAtIST": "2026-11-08 00:50:24",
+  "checkedAt": "2026-11-07T19:21:54Z",
+  "checkedAtIST": "2026-11-08 00:51:54",
+  "check": 7032,
+  "lastChangeAt": "2026-11-07T19:20:54Z",
+  "lastChangeAtIST": "2026-11-08 00:50:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 745,
+      "money": 750,
       "players": 6
     },
     {
@@ -196,20 +196,20 @@
     },
     {
       "rank": 26,
+      "name": "BryTheGuyy",
+      "money": 110,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 27,
       "name": "Dtowncat",
       "money": 109,
       "team": "Red Jokers"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "WyLL_",
       "money": 109,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 28,
-      "name": "BryTheGuyy",
-      "money": 105,
       "team": "Blue Diamonds"
     },
     {
@@ -614,6 +614,20 @@
         "playtime": 2622
       },
       {
+        "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
+        "name": "BryTheGuyy",
+        "money": 110,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/brytheguy",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 1,
+        "deaths": 3,
+        "playtime": 2362
+      },
+      {
         "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc",
         "name": "Dtowncat",
         "money": 109,
@@ -640,20 +654,6 @@
         "kills": 0,
         "deaths": 2,
         "playtime": 2812
-      },
-      {
-        "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
-        "name": "BryTheGuyy",
-        "money": 105,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/brytheguy",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 1,
-        "deaths": 3,
-        "playtime": 2362
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
