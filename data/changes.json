@@ -482,5 +482,7 @@
 {"at": "2026-11-07T22:05:42Z", "atIST": "2026-11-08 03:35:42", "player": "Fymada", "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f", "team": "Green Clubs", "type": "money", "from": 199, "to": 224, "delta": 25, "rankFrom": 10, "rankTo": 11},
 {"at": "2026-11-07T22:05:42Z", "atIST": "2026-11-08 03:35:42", "player": "5uppps", "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521", "team": "Green Clubs", "type": "money", "from": 191, "to": 216, "delta": 25, "rankFrom": 13, "rankTo": 12},
 {"at": "2026-11-07T22:05:42Z", "atIST": "2026-11-08 03:35:42", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 143, "to": 168, "delta": 25, "rankFrom": 22, "rankTo": 20},
-{"at": "2026-11-07T22:08:12Z", "atIST": "2026-11-08 03:38:12", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Titans", "to": null}}}
+{"at": "2026-11-07T22:08:12Z", "atIST": "2026-11-08 03:38:12", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Titans", "to": null}}},
+{"at": "2026-11-07T22:09:12Z", "atIST": "2026-11-08 03:39:12", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "joined", "money": 113, "rank": 28},
+{"at": "2026-11-07T22:09:12Z", "atIST": "2026-11-08 03:39:12", "type": "left", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "money": 113}
 ]

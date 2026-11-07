@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T22:08:12Z",
-  "checkedAtIST": "2026-11-08 03:38:12",
-  "check": 7362,
-  "lastChangeAt": "2026-11-07T22:08:12Z",
-  "lastChangeAtIST": "2026-11-08 03:38:12",
+  "checkedAt": "2026-11-07T22:09:42Z",
+  "checkedAtIST": "2026-11-08 03:39:42",
+  "check": 7365,
+  "lastChangeAt": "2026-11-07T22:09:12Z",
+  "lastChangeAtIST": "2026-11-08 03:39:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -208,7 +208,7 @@
     },
     {
       "rank": 28,
-      "name": "Dtowncat",
+      "name": "SB737",
       "money": 113,
       "team": "Red Jokers"
     },
@@ -351,7 +351,7 @@
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 251,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/unixn",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -359,7 +359,7 @@
         "tier": "S_TIER",
         "kills": 3,
         "deaths": 1,
-        "playtime": 2697
+        "playtime": 2773
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -505,7 +505,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -513,7 +513,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 2006
+        "playtime": 2080
       },
       {
         "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
@@ -642,18 +642,18 @@
         "playtime": 2735
       },
       {
-        "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc",
-        "name": "Dtowncat",
+        "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
+        "name": "SB737",
         "money": 113,
-        "online": true,
-        "streamLink": null,
+        "online": false,
+        "streamLink": "https://twitch.tv/sb737",
         "vip": false,
         "team": "RED_TEAM",
         "captain": false,
         "tier": "D_TIER",
         "kills": 0,
-        "deaths": 1,
-        "playtime": 100
+        "deaths": 2,
+        "playtime": 1639
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
@@ -757,7 +757,7 @@
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
         "name": "_Brinkz",
         "money": 13,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/brinkzlive",
         "vip": false,
         "team": "RED_TEAM",
@@ -765,7 +765,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 4,
-        "playtime": 2507
+        "playtime": 2570
       }
     ],
     "events": [
