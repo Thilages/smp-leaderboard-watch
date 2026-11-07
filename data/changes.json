@@ -371,5 +371,7 @@
 {"at": "2026-11-07T19:01:54Z", "atIST": "2026-11-08 00:31:54", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "money", "from": 109, "to": 100, "delta": -9, "rankFrom": 26, "rankTo": 27, "flags": ["while_offline"]},
 {"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "type": "joined", "money": 109, "rank": 26},
 {"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "type": "left", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "money": 100},
-{"at": "2026-11-07T19:17:54Z", "atIST": "2026-11-08 00:47:54", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 34, "rankTo": 34}
+{"at": "2026-11-07T19:17:54Z", "atIST": "2026-11-08 00:47:54", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 34, "rankTo": 34},
+{"at": "2026-11-07T19:18:24Z", "atIST": "2026-11-08 00:48:24", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "stats", "fields": {"deaths": {"from": 3, "to": 4}}},
+{"at": "2026-11-07T19:18:54Z", "atIST": "2026-11-08 00:48:54", "player": "Fymada", "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f", "team": "Green Clubs", "type": "money", "from": 184, "to": 189, "delta": 5, "rankFrom": 10, "rankTo": 10}
 ]
