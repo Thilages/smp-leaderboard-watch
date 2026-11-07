@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T22:27:12Z",
-  "checkedAtIST": "2026-11-08 03:57:12",
-  "check": 7400,
+  "checkedAt": "2026-11-07T22:29:42Z",
+  "checkedAtIST": "2026-11-08 03:59:42",
+  "check": 7405,
   "lastChangeAt": "2026-11-07T22:09:12Z",
   "lastChangeAtIST": "2026-11-08 03:39:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -575,7 +575,7 @@
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
         "name": "RoyalPear_",
         "money": 148,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@RoyalPear",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -583,7 +583,7 @@
         "tier": "D_TIER",
         "kills": 1,
         "deaths": 3,
-        "playtime": 2973
+        "playtime": 3066
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -715,7 +715,7 @@
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 65,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -723,7 +723,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 4063
+        "playtime": 4068
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
