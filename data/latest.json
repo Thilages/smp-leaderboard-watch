@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T00:40:54Z",
-  "checkedAtIST": "2026-11-07 06:10:54",
-  "check": 4811,
+  "checkedAt": "2026-11-07T00:43:24Z",
+  "checkedAtIST": "2026-11-07 06:13:24",
+  "check": 4816,
   "lastChangeAt": "2026-11-07T00:29:54Z",
   "lastChangeAtIST": "2026-11-07 05:59:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -309,7 +309,7 @@
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
         "money": 248,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/jude_low",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -317,7 +317,7 @@
         "tier": "B_TIER",
         "kills": 2,
         "deaths": 3,
-        "playtime": 2205
+        "playtime": 2247
       },
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
