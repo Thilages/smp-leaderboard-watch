@@ -346,5 +346,7 @@
 {"at": "2026-11-07T00:58:24Z", "atIST": "2026-11-07 06:28:24", "player": "TryH4rdd", "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170", "team": "Purple Aces", "type": "money", "from": 220, "to": 240, "delta": 20, "rankFrom": 6, "rankTo": 5},
 {"at": "2026-11-07T00:58:24Z", "atIST": "2026-11-07 06:28:24", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "money", "from": 65, "to": 45, "delta": -20, "rankFrom": 32, "rankTo": 32},
 {"at": "2026-11-07T01:04:54Z", "atIST": "2026-11-07 06:34:54", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 284, "to": 304, "delta": 20, "rankFrom": 1, "rankTo": 1},
-{"at": "2026-11-07T01:04:54Z", "atIST": "2026-11-07 06:34:54", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "money", "from": 45, "to": 25, "delta": -20, "rankFrom": 32, "rankTo": 33}
+{"at": "2026-11-07T01:04:54Z", "atIST": "2026-11-07 06:34:54", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "money", "from": 45, "to": 25, "delta": -20, "rankFrom": 32, "rankTo": 33},
+{"at": "2026-11-07T01:23:24Z", "atIST": "2026-11-07 06:53:24", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 304, "to": 274, "delta": -30, "rankFrom": 1, "rankTo": 1},
+{"at": "2026-11-07T01:23:24Z", "atIST": "2026-11-07 06:53:24", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 248, "to": 218, "delta": -30, "rankFrom": 4, "rankTo": 7}
 ]
