@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T05:31:00Z",
-  "checkedAtIST": "2026-11-07 11:01:00",
-  "check": 5385,
+  "checkedAt": "2026-11-07T05:33:00Z",
+  "checkedAtIST": "2026-11-07 11:03:00",
+  "check": 5389,
   "lastChangeAt": "2026-11-07T05:24:00Z",
   "lastChangeAtIST": "2026-11-07 10:54:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -617,7 +617,7 @@
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 110,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/greninja",
         "vip": false,
         "team": "RED_TEAM",
@@ -625,7 +625,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 2,
-        "playtime": 2187
+        "playtime": 2329
       },
       {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
