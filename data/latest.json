@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T22:46:12Z",
-  "checkedAtIST": "2026-11-08 04:16:12",
-  "check": 7438,
+  "checkedAt": "2026-11-07T22:48:42Z",
+  "checkedAtIST": "2026-11-08 04:18:42",
+  "check": 7443,
   "lastChangeAt": "2026-11-07T22:09:12Z",
   "lastChangeAtIST": "2026-11-08 03:39:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -281,7 +281,7 @@
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 347,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
@@ -715,7 +715,7 @@
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 65,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -723,7 +723,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 4068
+        "playtime": 4072
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
