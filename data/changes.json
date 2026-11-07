@@ -424,5 +424,6 @@
 {"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 139, "to": 143, "delta": 4, "rankFrom": 20, "rankTo": 19},
 {"at": "2026-11-07T19:56:24Z", "atIST": "2026-11-08 01:26:24", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "money", "from": 235, "to": 240, "delta": 5, "rankFrom": 5, "rankTo": 4},
 {"at": "2026-11-07T20:01:24Z", "atIST": "2026-11-08 01:31:24", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 69, "to": 74, "delta": 5, "rankFrom": 31, "rankTo": 29},
-{"at": "2026-11-07T20:01:54Z", "atIST": "2026-11-08 01:31:54", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 74, "to": 84, "delta": 10, "rankFrom": 29, "rankTo": 29}
+{"at": "2026-11-07T20:01:54Z", "atIST": "2026-11-08 01:31:54", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 74, "to": 84, "delta": 10, "rankFrom": 29, "rankTo": 29},
+{"at": "2026-11-07T20:06:54Z", "atIST": "2026-11-08 01:36:54", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 226, "to": 231, "delta": 5, "rankFrom": 6, "rankTo": 6}
 ]
