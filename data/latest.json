@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T20:01:24Z",
-  "checkedAtIST": "2026-11-08 01:31:24",
-  "check": 7111,
-  "lastChangeAt": "2026-11-07T20:01:24Z",
-  "lastChangeAtIST": "2026-11-08 01:31:24",
+  "checkedAt": "2026-11-07T20:02:24Z",
+  "checkedAtIST": "2026-11-08 01:32:24",
+  "check": 7113,
+  "lastChangeAt": "2026-11-07T20:01:54Z",
+  "lastChangeAtIST": "2026-11-08 01:31:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -31,15 +31,15 @@
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 640,
+      "team": "RED_TEAM",
+      "name": "Red Jokers",
+      "money": 645,
       "players": 6
     },
     {
-      "team": "RED_TEAM",
-      "name": "Red Jokers",
-      "money": 635,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 640,
       "players": 6
     }
   ],
@@ -215,7 +215,7 @@
     {
       "rank": 29,
       "name": "ClownPierce",
-      "money": 74,
+      "money": 84,
       "team": "Red Jokers"
     },
     {
@@ -658,7 +658,7 @@
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
-        "money": 74,
+        "money": 84,
         "online": true,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
