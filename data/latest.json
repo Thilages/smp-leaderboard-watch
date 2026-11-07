@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T20:09:24Z",
-  "checkedAtIST": "2026-11-08 01:39:24",
-  "check": 7127,
+  "checkedAt": "2026-11-07T20:11:54Z",
+  "checkedAtIST": "2026-11-08 01:41:54",
+  "check": 7131,
   "lastChangeAt": "2026-11-07T20:08:54Z",
   "lastChangeAtIST": "2026-11-08 01:38:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -589,7 +589,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 129,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -597,7 +597,7 @@
         "tier": "B_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 2812
+        "playtime": 2885
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
