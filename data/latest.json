@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T19:34:24Z",
-  "checkedAtIST": "2026-11-08 01:04:24",
-  "check": 7057,
-  "lastChangeAt": "2026-11-07T19:34:24Z",
-  "lastChangeAtIST": "2026-11-08 01:04:24",
+  "checkedAt": "2026-11-07T19:35:54Z",
+  "checkedAtIST": "2026-11-08 01:05:54",
+  "check": 7060,
+  "lastChangeAt": "2026-11-07T19:35:24Z",
+  "lastChangeAtIST": "2026-11-08 01:05:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 780,
+      "money": 750,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 600,
+      "money": 630,
       "players": 6
     }
   ],
@@ -154,45 +154,45 @@
     },
     {
       "rank": 19,
-      "name": "BryTheGuyy",
-      "money": 140,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 20,
       "name": "ChuckkNasty",
       "money": 139,
       "team": "Red Jokers"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "tingzmc",
       "money": 139,
       "team": "Green Clubs"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ghostiefruit",
       "money": 139,
       "team": "Pink Hearts"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "saparata",
       "money": 138,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ItzRealMe",
       "money": 136,
       "team": "Yellow Spades"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Greninja",
       "money": 110,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 25,
+      "name": "BryTheGuyy",
+      "money": 110,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 26,
@@ -227,7 +227,7 @@
     {
       "rank": 31,
       "name": "ClownPierce",
-      "money": 39,
+      "money": 69,
       "team": "Red Jokers"
     },
     {
@@ -516,20 +516,6 @@
         "playtime": 2374
       },
       {
-        "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
-        "name": "BryTheGuyy",
-        "money": 140,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/brytheguy",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 2362
-      },
-      {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
         "name": "ChuckkNasty",
         "money": 139,
@@ -614,6 +600,20 @@
         "playtime": 2622
       },
       {
+        "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
+        "name": "BryTheGuyy",
+        "money": 110,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/brytheguy",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 3,
+        "playtime": 2362
+      },
+      {
         "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc",
         "name": "Dtowncat",
         "money": 109,
@@ -686,7 +686,7 @@
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
-        "money": 39,
+        "money": 69,
         "online": true,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,

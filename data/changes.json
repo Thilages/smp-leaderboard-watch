@@ -405,5 +405,7 @@
 {"at": "2026-11-07T19:34:24Z", "atIST": "2026-11-08 01:04:24", "player": "Infume", "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791", "team": "Pink Hearts", "type": "money", "from": 354, "to": 314, "delta": -40, "rankFrom": 2, "rankTo": 2},
 {"at": "2026-11-07T19:34:24Z", "atIST": "2026-11-08 01:04:24", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 154, "to": 194, "delta": 40, "rankFrom": 16, "rankTo": 9, "flags": ["rank_jump"]},
 {"at": "2026-11-07T19:34:24Z", "atIST": "2026-11-08 01:04:24", "player": "ChuckkNasty", "id": "8605661e-2890-4584-8f63-13ae37569d63", "team": "Red Jokers", "type": "money", "from": 119, "to": 139, "delta": 20, "rankFrom": 24, "rankTo": 20},
-{"at": "2026-11-07T19:34:24Z", "atIST": "2026-11-08 01:04:24", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "type": "money", "from": 89, "to": 109, "delta": 20, "rankFrom": 30, "rankTo": 26}
+{"at": "2026-11-07T19:34:24Z", "atIST": "2026-11-08 01:04:24", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "type": "money", "from": 89, "to": 109, "delta": 20, "rankFrom": 30, "rankTo": 26},
+{"at": "2026-11-07T19:35:24Z", "atIST": "2026-11-08 01:05:24", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "money", "from": 140, "to": 110, "delta": -30, "rankFrom": 19, "rankTo": 25, "flags": ["rank_jump"]},
+{"at": "2026-11-07T19:35:24Z", "atIST": "2026-11-08 01:05:24", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 39, "to": 69, "delta": 30, "rankFrom": 31, "rankTo": 31}
 ]
