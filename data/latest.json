@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-11-07T19:38:24Z",
-  "checkedAtIST": "2026-11-08 01:08:24",
-  "check": 7065,
-  "lastChangeAt": "2026-11-07T19:38:24Z",
-  "lastChangeAtIST": "2026-11-08 01:08:24",
+  "checkedAt": "2026-11-07T19:40:24Z",
+  "checkedAtIST": "2026-11-08 01:10:24",
+  "check": 7069,
+  "lastChangeAt": "2026-11-07T19:40:24Z",
+  "lastChangeAtIST": "2026-11-08 01:10:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1368,
+      "money": 1328,
       "players": 6
     },
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1190,
+      "money": 1230,
       "players": 6
     },
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "Flowtives",
-      "money": 394,
+      "money": 354,
       "team": "Pink Hearts"
     },
     {
@@ -76,38 +76,38 @@
     },
     {
       "rank": 6,
+      "name": "LuigiToan",
+      "money": 231,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 7,
       "name": "JudeLow",
       "money": 222,
       "team": "Green Clubs"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "InProper",
       "money": 214,
       "team": "Purple Aces"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "scotteh",
       "money": 200,
       "team": "Pink Hearts"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "AiroKun",
       "money": 194,
       "team": "Red Jokers"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Fymada",
       "money": 194,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 11,
-      "name": "LuigiToan",
-      "money": 191,
       "team": "Green Clubs"
     },
     {
@@ -266,7 +266,7 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 394,
+        "money": 354,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
@@ -274,7 +274,7 @@
         "captain": false,
         "tier": "S_TIER",
         "kills": 13,
-        "deaths": 0,
+        "deaths": 1,
         "playtime": 2124
       },
       {
@@ -332,6 +332,20 @@
         "kills": 3,
         "deaths": 1,
         "playtime": 2681
+      },
+      {
+        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
+        "name": "LuigiToan",
+        "money": 231,
+        "online": true,
+        "streamLink": "https://twitch.tv/toan",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 3,
+        "deaths": 5,
+        "playtime": 2208
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -402,20 +416,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 2195
-      },
-      {
-        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
-        "name": "LuigiToan",
-        "money": 191,
-        "online": true,
-        "streamLink": "https://twitch.tv/toan",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 5,
-        "playtime": 2208
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
