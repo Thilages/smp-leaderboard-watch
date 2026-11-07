@@ -349,5 +349,6 @@
 {"at": "2026-11-07T01:04:54Z", "atIST": "2026-11-07 06:34:54", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "money", "from": 45, "to": 25, "delta": -20, "rankFrom": 32, "rankTo": 33},
 {"at": "2026-11-07T01:23:24Z", "atIST": "2026-11-07 06:53:24", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 304, "to": 274, "delta": -30, "rankFrom": 1, "rankTo": 1},
 {"at": "2026-11-07T01:23:24Z", "atIST": "2026-11-07 06:53:24", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 248, "to": 218, "delta": -30, "rankFrom": 4, "rankTo": 7},
-{"at": "2026-11-07T03:19:54Z", "atIST": "2026-11-07 08:49:54", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}}
+{"at": "2026-11-07T03:19:54Z", "atIST": "2026-11-07 08:49:54", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}},
+{"at": "2026-11-07T03:22:54Z", "atIST": "2026-11-07 08:52:54", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 3, "to": 4}}}
 ]
