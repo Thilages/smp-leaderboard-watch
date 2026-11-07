@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T06:03:00Z",
-  "checkedAtIST": "2026-11-07 11:33:00",
-  "check": 5448,
-  "lastChangeAt": "2026-11-07T05:46:30Z",
-  "lastChangeAtIST": "2026-11-07 11:16:30",
+  "checkedAt": "2026-11-07T06:03:30Z",
+  "checkedAtIST": "2026-11-07 11:33:30",
+  "check": 5449,
+  "lastChangeAt": "2026-11-07T06:03:30Z",
+  "lastChangeAtIST": "2026-11-07 11:33:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1368,
+      "money": 1388,
       "players": 6
     },
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "Flowtives",
-      "money": 374,
+      "money": 394,
       "team": "Pink Hearts"
     },
     {
@@ -266,7 +266,7 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 374,
+        "money": 394,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
