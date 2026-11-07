@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T00:07:55Z",
-  "checkedAtIST": "2026-11-07 05:37:55",
-  "check": 4745,
-  "lastChangeAt": "2026-11-07T00:07:55Z",
-  "lastChangeAtIST": "2026-11-07 05:37:55",
+  "checkedAt": "2026-11-07T00:09:24Z",
+  "checkedAtIST": "2026-11-07 05:39:24",
+  "check": 4748,
+  "lastChangeAt": "2026-11-07T00:09:24Z",
+  "lastChangeAtIST": "2026-11-07 05:39:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -33,7 +33,7 @@
     {
       "team": "YELLOW_TEAM",
       "name": "Yellow Spades",
-      "money": 745,
+      "money": 665,
       "players": 6
     },
     {
@@ -226,33 +226,33 @@
     },
     {
       "rank": 31,
-      "name": "McSolsy",
-      "money": 90,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 32,
       "name": "Bormethius",
       "money": 87,
       "team": "Yellow Spades"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "ClownPierce",
       "money": 69,
       "team": "Red Jokers"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "ConixD",
       "money": 65,
       "team": "Purple Aces"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "sidefall",
       "money": 40,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 35,
+      "name": "McSolsy",
+      "money": 10,
+      "team": "Yellow Spades"
     },
     {
       "rank": 36,
@@ -684,20 +684,6 @@
         "playtime": 1601
       },
       {
-        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
-        "name": "McSolsy",
-        "money": 90,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sols",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 2735
-      },
-      {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
         "name": "Bormethius",
         "money": 87,
@@ -752,6 +738,20 @@
         "kills": 0,
         "deaths": 8,
         "playtime": 1917
+      },
+      {
+        "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
+        "name": "McSolsy",
+        "money": 10,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sols",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 2735
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
