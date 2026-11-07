@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T00:15:24Z",
-  "checkedAtIST": "2026-11-07 05:45:24",
-  "check": 4760,
-  "lastChangeAt": "2026-11-07T00:15:24Z",
-  "lastChangeAtIST": "2026-11-07 05:45:24",
+  "checkedAt": "2026-11-07T00:17:25Z",
+  "checkedAtIST": "2026-11-07 05:47:25",
+  "check": 4764,
+  "lastChangeAt": "2026-11-07T00:17:25Z",
+  "lastChangeAtIST": "2026-11-07 05:47:25",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1283,
+      "money": 1198,
       "players": 6
     },
     {
@@ -46,15 +46,15 @@
   "board": [
     {
       "rank": 1,
-      "name": "Flowtives",
-      "money": 359,
-      "team": "Pink Hearts"
-    },
-    {
-      "rank": 2,
       "name": "InProper",
       "money": 284,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 2,
+      "name": "Flowtives",
+      "money": 274,
+      "team": "Pink Hearts"
     },
     {
       "rank": 3,
@@ -264,9 +264,23 @@
   "payload": {
     "players": [
       {
+        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
+        "name": "InProper",
+        "money": 284,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/proper",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 7,
+        "deaths": 1,
+        "playtime": 1845
+      },
+      {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 359,
+        "money": 274,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
@@ -276,20 +290,6 @@
         "kills": 9,
         "deaths": 0,
         "playtime": 1684
-      },
-      {
-        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
-        "name": "InProper",
-        "money": 284,
-        "online": false,
-        "streamLink": "https://www.twitch.tv/proper",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 7,
-        "deaths": 1,
-        "playtime": 1845
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -435,7 +435,7 @@
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
         "name": "LuigiToan",
         "money": 182,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/toan",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -443,7 +443,7 @@
         "tier": "A_TIER",
         "kills": 2,
         "deaths": 2,
-        "playtime": 1953
+        "playtime": 1955
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
