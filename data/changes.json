@@ -335,5 +335,6 @@
 {"at": "2026-11-06T23:24:24Z", "atIST": "2026-11-07 04:54:24", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 120, "to": 90, "delta": -30, "rankFrom": 24, "rankTo": 31, "flags": ["rank_jump"], "also": {"deaths": {"from": 0, "to": 1}}},
 {"at": "2026-11-06T23:29:24Z", "atIST": "2026-11-07 04:59:24", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 7, "to": 8}}},
 {"at": "2026-11-06T23:31:24Z", "atIST": "2026-11-07 05:01:24", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "joined", "money": 132, "rank": 23},
-{"at": "2026-11-06T23:31:24Z", "atIST": "2026-11-07 05:01:24", "type": "left", "player": "Pinityy", "id": "b23fa084-3209-478f-934c-f7a617bb0d18", "team": "Yellow Spades", "money": 132}
+{"at": "2026-11-06T23:31:24Z", "atIST": "2026-11-07 05:01:24", "type": "left", "player": "Pinityy", "id": "b23fa084-3209-478f-934c-f7a617bb0d18", "team": "Yellow Spades", "money": 132},
+{"at": "2026-11-07T00:07:55Z", "atIST": "2026-11-07 05:37:55", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 407, "to": 337, "delta": -70, "rankFrom": 2, "rankTo": 2, "flags": ["big_move"]}
 ]
