@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T18:02:24Z",
-  "checkedAtIST": "2026-11-07 23:32:24",
-  "check": 6875,
+  "checkedAt": "2026-11-07T18:04:24Z",
+  "checkedAtIST": "2026-11-07 23:34:24",
+  "check": 6879,
   "lastChangeAt": "2026-11-07T15:46:54Z",
   "lastChangeAtIST": "2026-11-07 21:16:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -491,7 +491,7 @@
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 154,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/unixn",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -499,7 +499,7 @@
         "tier": "S_TIER",
         "kills": 1,
         "deaths": 1,
-        "playtime": 2575
+        "playtime": 2576
       },
       {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
@@ -631,7 +631,7 @@
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
         "name": "WyLL_",
         "money": 109,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.youtube.com/@wyll_/videos",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -653,7 +653,7 @@
         "tier": "A_TIER",
         "kills": 1,
         "deaths": 3,
-        "playtime": 2316
+        "playtime": 2317
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
@@ -673,7 +673,7 @@
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 90,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
         "team": "BLUE_TEAM",
