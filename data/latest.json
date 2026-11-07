@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T00:29:24Z",
-  "checkedAtIST": "2026-11-07 05:59:24",
-  "check": 4788,
-  "lastChangeAt": "2026-11-07T00:17:25Z",
-  "lastChangeAtIST": "2026-11-07 05:47:25",
+  "checkedAt": "2026-11-07T00:29:54Z",
+  "checkedAtIST": "2026-11-07 05:59:54",
+  "check": 4789,
+  "lastChangeAt": "2026-11-07T00:29:54Z",
+  "lastChangeAtIST": "2026-11-07 05:59:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -770,14 +770,6 @@
     ],
     "events": [
       {
-        "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
-        "name": "Capture The Flag",
-        "start": "2026-11-06T21:00:00.000Z",
-        "shouldLock": false,
-        "firstEvent": false,
-        "endedAt": null
-      },
-      {
         "id": "5ccf31c9-bc89-4cf8-a755-610ecebd4ef4",
         "name": "Titans",
         "start": "2026-11-07T21:00:00.000Z",
@@ -808,18 +800,19 @@
         "shouldLock": false,
         "firstEvent": false,
         "endedAt": "2026-11-06T01:20:15.831Z"
+      },
+      {
+        "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
+        "name": "Capture The Flag",
+        "start": "2026-11-06T21:00:00.000Z",
+        "shouldLock": false,
+        "firstEvent": false,
+        "endedAt": "2026-11-07T00:29:42.644Z"
       }
     ],
     "eventAvailable": true,
     "eventFinished": false,
-    "currentEvent": {
-      "id": "4d544a19-aa4a-4915-a913-5f33132d2bc2",
-      "name": "Capture The Flag",
-      "start": "2026-11-06T21:00:00.000Z",
-      "shouldLock": false,
-      "firstEvent": false,
-      "endedAt": null
-    },
+    "currentEvent": null,
     "nextEvent": {
       "id": "5ccf31c9-bc89-4cf8-a755-610ecebd4ef4",
       "name": "Titans",
@@ -828,7 +821,7 @@
       "firstEvent": false,
       "endedAt": null
     },
-    "isLive": true,
+    "isLive": false,
     "pollingInterval": 30000,
     "eventName": "Season 7"
   }
