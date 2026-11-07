@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T00:58:24Z",
-  "checkedAtIST": "2026-11-07 06:28:24",
-  "check": 4846,
+  "checkedAt": "2026-11-07T01:00:54Z",
+  "checkedAtIST": "2026-11-07 06:30:54",
+  "check": 4851,
   "lastChangeAt": "2026-11-07T00:58:24Z",
   "lastChangeAtIST": "2026-11-07 06:28:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -281,7 +281,7 @@
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
         "money": 274,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
@@ -289,7 +289,7 @@
         "tier": "S_TIER",
         "kills": 9,
         "deaths": 0,
-        "playtime": 1684
+        "playtime": 1820
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
@@ -477,7 +477,7 @@
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
         "name": "saparata",
         "money": 158,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/saps",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -715,7 +715,7 @@
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
         "money": 40,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -723,7 +723,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 8,
-        "playtime": 1917
+        "playtime": 1920
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
