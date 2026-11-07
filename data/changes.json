@@ -428,5 +428,6 @@
 {"at": "2026-11-07T20:06:54Z", "atIST": "2026-11-08 01:36:54", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 226, "to": 231, "delta": 5, "rankFrom": 6, "rankTo": 6},
 {"at": "2026-11-07T20:07:24Z", "atIST": "2026-11-08 01:37:24", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 231, "to": 246, "delta": 15, "rankFrom": 6, "rankTo": 4},
 {"at": "2026-11-07T20:08:24Z", "atIST": "2026-11-08 01:38:24", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 246, "to": 251, "delta": 5, "rankFrom": 4, "rankTo": 4},
-{"at": "2026-11-07T20:08:54Z", "atIST": "2026-11-08 01:38:54", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 35, "rankTo": 35}
+{"at": "2026-11-07T20:08:54Z", "atIST": "2026-11-08 01:38:54", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 35, "rankTo": 35},
+{"at": "2026-11-07T20:13:54Z", "atIST": "2026-11-08 01:43:54", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 9, "to": 10}}}
 ]
