@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T05:35:30Z",
-  "checkedAtIST": "2026-11-07 11:05:30",
-  "check": 5394,
+  "checkedAt": "2026-11-07T05:37:30Z",
+  "checkedAtIST": "2026-11-07 11:07:30",
+  "check": 5398,
   "lastChangeAt": "2026-11-07T05:24:00Z",
   "lastChangeAtIST": "2026-11-07 10:54:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -379,7 +379,7 @@
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 184,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/fymada",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -387,7 +387,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1887
+        "playtime": 2069
       },
       {
         "id": "8bb6cdb2-b9b4-4b02-8d53-14179bfb43c8",
@@ -743,7 +743,7 @@
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
         "money": 10,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -751,7 +751,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 9,
-        "playtime": 1920
+        "playtime": 2179
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
