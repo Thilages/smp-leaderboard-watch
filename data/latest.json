@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T20:07:54Z",
-  "checkedAtIST": "2026-11-08 01:37:54",
-  "check": 7124,
-  "lastChangeAt": "2026-11-07T20:07:24Z",
-  "lastChangeAtIST": "2026-11-08 01:37:24",
+  "checkedAt": "2026-11-07T20:09:24Z",
+  "checkedAtIST": "2026-11-08 01:39:24",
+  "check": 7127,
+  "lastChangeAt": "2026-11-07T20:08:54Z",
+  "lastChangeAtIST": "2026-11-08 01:38:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,13 +15,13 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1280,
+      "money": 1285,
       "players": 6
     },
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 822,
+      "money": 827,
       "players": 6
     },
     {
@@ -65,7 +65,7 @@
     {
       "rank": 4,
       "name": "JudeLow",
-      "money": 246,
+      "money": 251,
       "team": "Green Clubs"
     },
     {
@@ -251,7 +251,7 @@
     {
       "rank": 35,
       "name": "sidefall",
-      "money": 10,
+      "money": 15,
       "team": "Purple Aces"
     },
     {
@@ -308,7 +308,7 @@
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
-        "money": 246,
+        "money": 251,
         "online": true,
         "streamLink": "https://www.twitch.tv/jude_low",
         "vip": false,
@@ -742,7 +742,7 @@
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
-        "money": 10,
+        "money": 15,
         "online": true,
         "streamLink": "https://www.twitch.tv/sidefalll",
         "vip": false,
