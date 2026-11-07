@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T04:15:00Z",
-  "checkedAtIST": "2026-11-07 09:45:00",
-  "check": 5234,
-  "lastChangeAt": "2026-11-07T04:08:30Z",
-  "lastChangeAtIST": "2026-11-07 09:38:30",
+  "checkedAt": "2026-11-07T04:15:30Z",
+  "checkedAtIST": "2026-11-07 09:45:30",
+  "check": 5235,
+  "lastChangeAt": "2026-11-07T04:15:30Z",
+  "lastChangeAtIST": "2026-11-07 09:45:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1218,
+      "money": 1238,
       "players": 6
     },
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 810,
+      "money": 790,
       "players": 6
     },
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "Infume",
-      "money": 294,
+      "money": 314,
       "team": "Pink Hearts"
     },
     {
@@ -202,27 +202,27 @@
     },
     {
       "rank": 27,
-      "name": "Aramori",
-      "money": 110,
-      "team": "Blue Diamonds"
-    },
-    {
-      "rank": 28,
       "name": "SB737",
       "money": 109,
       "team": "Red Jokers"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "BryTheGuyy",
       "money": 100,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "notbogur",
       "money": 91,
       "team": "Pink Hearts"
+    },
+    {
+      "rank": 30,
+      "name": "Aramori",
+      "money": 90,
+      "team": "Blue Diamonds"
     },
     {
       "rank": 31,
@@ -266,14 +266,14 @@
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
-        "money": 294,
+        "money": 314,
         "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
         "captain": false,
         "tier": "B_TIER",
-        "kills": 3,
+        "kills": 4,
         "deaths": 0,
         "playtime": 1579
       },
@@ -628,20 +628,6 @@
         "playtime": 2187
       },
       {
-        "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
-        "name": "Aramori",
-        "money": 110,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/aramori",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 1853
-      },
-      {
         "id": "98c0bece-0232-485e-8e86-fa604d78e62f",
         "name": "SB737",
         "money": 109,
@@ -682,6 +668,20 @@
         "kills": 0,
         "deaths": 5,
         "playtime": 1601
+      },
+      {
+        "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
+        "name": "Aramori",
+        "money": 90,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/aramori",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 3,
+        "playtime": 1853
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
