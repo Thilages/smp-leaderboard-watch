@@ -373,5 +373,9 @@
 {"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "type": "left", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "money": 100},
 {"at": "2026-11-07T19:17:54Z", "atIST": "2026-11-08 00:47:54", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 34, "rankTo": 34},
 {"at": "2026-11-07T19:18:24Z", "atIST": "2026-11-08 00:48:24", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "stats", "fields": {"deaths": {"from": 3, "to": 4}}},
-{"at": "2026-11-07T19:18:54Z", "atIST": "2026-11-08 00:48:54", "player": "Fymada", "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f", "team": "Green Clubs", "type": "money", "from": 184, "to": 189, "delta": 5, "rankFrom": 10, "rankTo": 10}
+{"at": "2026-11-07T19:18:54Z", "atIST": "2026-11-08 00:48:54", "player": "Fymada", "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f", "team": "Green Clubs", "type": "money", "from": 184, "to": 189, "delta": 5, "rankFrom": 10, "rankTo": 10},
+{"at": "2026-11-07T19:19:24Z", "atIST": "2026-11-08 00:49:24", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "money", "from": 182, "to": 187, "delta": 5, "rankFrom": 13, "rankTo": 11},
+{"at": "2026-11-07T19:19:24Z", "atIST": "2026-11-08 00:49:24", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 125, "to": 130, "delta": 5, "rankFrom": 23, "rankTo": 23},
+{"at": "2026-11-07T19:19:54Z", "atIST": "2026-11-08 00:49:54", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 130, "to": 135, "delta": 5, "rankFrom": 23, "rankTo": 22},
+{"at": "2026-11-07T19:20:24Z", "atIST": "2026-11-08 00:50:24", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "money", "from": 100, "to": 105, "delta": 5, "rankFrom": 28, "rankTo": 28}
 ]
