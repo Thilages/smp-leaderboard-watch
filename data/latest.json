@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T19:17:24Z",
-  "checkedAtIST": "2026-11-08 00:47:24",
-  "check": 7023,
-  "lastChangeAt": "2026-11-07T19:02:24Z",
-  "lastChangeAtIST": "2026-11-08 00:32:24",
+  "checkedAt": "2026-11-07T19:17:54Z",
+  "checkedAtIST": "2026-11-08 00:47:54",
+  "check": 7024,
+  "lastChangeAt": "2026-11-07T19:17:54Z",
+  "lastChangeAtIST": "2026-11-08 00:47:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -31,14 +31,14 @@
       "players": 6
     },
     {
-      "team": "RED_TEAM",
-      "name": "Red Jokers",
-      "money": 630,
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 635,
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
+      "team": "RED_TEAM",
+      "name": "Red Jokers",
       "money": 630,
       "players": 6
     }
@@ -245,7 +245,7 @@
     {
       "rank": 34,
       "name": "McSolsy",
-      "money": 10,
+      "money": 15,
       "team": "Yellow Spades"
     },
     {
@@ -728,7 +728,7 @@
       {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
-        "money": 10,
+        "money": 15,
         "online": true,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,

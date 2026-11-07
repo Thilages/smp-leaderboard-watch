@@ -370,5 +370,6 @@
 {"at": "2026-11-07T15:46:54Z", "atIST": "2026-11-07 21:16:54", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 198, "to": 218, "delta": 20, "rankFrom": 7, "rankTo": 6},
 {"at": "2026-11-07T19:01:54Z", "atIST": "2026-11-08 00:31:54", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "money", "from": 109, "to": 100, "delta": -9, "rankFrom": 26, "rankTo": 27, "flags": ["while_offline"]},
 {"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "player": "Dtowncat", "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc", "team": "Red Jokers", "type": "joined", "money": 109, "rank": 26},
-{"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "type": "left", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "money": 100}
+{"at": "2026-11-07T19:02:24Z", "atIST": "2026-11-08 00:32:24", "type": "left", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "money": 100},
+{"at": "2026-11-07T19:17:54Z", "atIST": "2026-11-08 00:47:54", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 10, "to": 15, "delta": 5, "rankFrom": 34, "rankTo": 34}
 ]
