@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-11-07T23:20:42Z",
-  "checkedAtIST": "2026-11-08 04:50:42",
-  "check": 7506,
-  "lastChangeAt": "2026-11-07T23:11:12Z",
-  "lastChangeAtIST": "2026-11-08 04:41:12",
+  "checkedAt": "2026-11-07T23:22:42Z",
+  "checkedAtIST": "2026-11-08 04:52:42",
+  "check": 7510,
+  "lastChangeAt": "2026-11-07T23:22:42Z",
+  "lastChangeAtIST": "2026-11-08 04:52:42",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1488,
+      "money": 1508,
       "players": 6
     },
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1435,
+      "money": 1415,
       "players": 6
     },
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "Flowtives",
-      "money": 387,
+      "money": 407,
       "team": "Pink Hearts"
     },
     {
@@ -112,21 +112,21 @@
     },
     {
       "rank": 12,
-      "name": "5uppps",
-      "money": 216,
-      "team": "Green Clubs"
-    },
-    {
-      "rank": 13,
       "name": "ElDeathly",
       "money": 215,
       "team": "Yellow Spades"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "AiroKun",
       "money": 198,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 14,
+      "name": "5uppps",
+      "money": 196,
+      "team": "Green Clubs"
     },
     {
       "rank": 15,
@@ -266,14 +266,14 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 387,
+        "money": 407,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
         "captain": false,
         "tier": "S_TIER",
-        "kills": 13,
+        "kills": 14,
         "deaths": 1,
         "playtime": 2239
       },
@@ -418,20 +418,6 @@
         "playtime": 2297
       },
       {
-        "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
-        "name": "5uppps",
-        "money": 216,
-        "online": true,
-        "streamLink": "https://twitch.tv/5up",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 2082
-      },
-      {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
         "money": 215,
@@ -458,6 +444,20 @@
         "kills": 6,
         "deaths": 5,
         "playtime": 2605
+      },
+      {
+        "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
+        "name": "5uppps",
+        "money": 196,
+        "online": true,
+        "streamLink": "https://twitch.tv/5up",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 2082
       },
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
