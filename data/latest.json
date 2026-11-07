@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T19:33:24Z",
-  "checkedAtIST": "2026-11-08 01:03:24",
-  "check": 7055,
-  "lastChangeAt": "2026-11-07T19:28:24Z",
-  "lastChangeAtIST": "2026-11-08 00:58:24",
+  "checkedAt": "2026-11-07T19:34:24Z",
+  "checkedAtIST": "2026-11-08 01:04:24",
+  "check": 7057,
+  "lastChangeAt": "2026-11-07T19:34:24Z",
+  "lastChangeAtIST": "2026-11-08 01:04:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1468,
+      "money": 1388,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 520,
+      "money": 600,
       "players": 6
     }
   ],
@@ -47,13 +47,13 @@
     {
       "rank": 1,
       "name": "Flowtives",
-      "money": 434,
+      "money": 394,
       "team": "Pink Hearts"
     },
     {
       "rank": 2,
       "name": "Infume",
-      "money": 354,
+      "money": 314,
       "team": "Pink Hearts"
     },
     {
@@ -94,51 +94,51 @@
     },
     {
       "rank": 9,
+      "name": "AiroKun",
+      "money": 194,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 10,
       "name": "Fymada",
       "money": 194,
       "team": "Green Clubs"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "LuigiToan",
       "money": 191,
       "team": "Green Clubs"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "leekleek",
       "money": 187,
       "team": "Yellow Spades"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "5uppps",
       "money": 187,
       "team": "Green Clubs"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Only_A_Squid",
       "money": 174,
       "team": "Purple Aces"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "ElDeathly",
       "money": 170,
       "team": "Yellow Spades"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "kantje",
       "money": 159,
       "team": "Purple Aces"
-    },
-    {
-      "rank": 16,
-      "name": "AiroKun",
-      "money": 154,
-      "team": "Red Jokers"
     },
     {
       "rank": 17,
@@ -160,33 +160,33 @@
     },
     {
       "rank": 20,
+      "name": "ChuckkNasty",
+      "money": 139,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 21,
       "name": "tingzmc",
       "money": 139,
       "team": "Green Clubs"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "ghostiefruit",
       "money": 139,
       "team": "Pink Hearts"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "saparata",
       "money": 138,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "ItzRealMe",
       "money": 136,
       "team": "Yellow Spades"
-    },
-    {
-      "rank": 24,
-      "name": "ChuckkNasty",
-      "money": 119,
-      "team": "Red Jokers"
     },
     {
       "rank": 25,
@@ -196,33 +196,33 @@
     },
     {
       "rank": 26,
+      "name": "Dtowncat",
+      "money": 109,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 27,
       "name": "WyLL_",
       "money": 109,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "RoyalPear_",
       "money": 102,
       "team": "Yellow Spades"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "notbogur",
       "money": 91,
       "team": "Pink Hearts"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Aramori",
       "money": 90,
       "team": "Blue Diamonds"
-    },
-    {
-      "rank": 30,
-      "name": "Dtowncat",
-      "money": 89,
-      "team": "Red Jokers"
     },
     {
       "rank": 31,
@@ -266,7 +266,7 @@
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
-        "money": 434,
+        "money": 394,
         "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
@@ -280,7 +280,7 @@
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
-        "money": 354,
+        "money": 314,
         "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
@@ -374,6 +374,20 @@
         "kills": 1,
         "deaths": 0,
         "playtime": 2261
+      },
+      {
+        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
+        "name": "AiroKun",
+        "money": 194,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/airokun",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 6,
+        "deaths": 5,
+        "playtime": 2491
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
@@ -474,20 +488,6 @@
         "playtime": 1959
       },
       {
-        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
-        "name": "AiroKun",
-        "money": 154,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/airokun",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 6,
-        "deaths": 5,
-        "playtime": 2491
-      },
-      {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 154,
@@ -528,6 +528,20 @@
         "kills": 2,
         "deaths": 3,
         "playtime": 2362
+      },
+      {
+        "id": "8605661e-2890-4584-8f63-13ae37569d63",
+        "name": "ChuckkNasty",
+        "money": 139,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@ChuckNasty",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 1,
+        "deaths": 2,
+        "playtime": 1017
       },
       {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
@@ -586,20 +600,6 @@
         "playtime": 2151
       },
       {
-        "id": "8605661e-2890-4584-8f63-13ae37569d63",
-        "name": "ChuckkNasty",
-        "money": 119,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@ChuckNasty",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 1,
-        "deaths": 2,
-        "playtime": 1017
-      },
-      {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 110,
@@ -612,6 +612,20 @@
         "kills": 2,
         "deaths": 2,
         "playtime": 2622
+      },
+      {
+        "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc",
+        "name": "Dtowncat",
+        "money": 109,
+        "online": true,
+        "streamLink": null,
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 1,
+        "playtime": 0
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -668,20 +682,6 @@
         "kills": 0,
         "deaths": 3,
         "playtime": 2364
-      },
-      {
-        "id": "8c7cbb6f-4a89-463c-a171-f143b071a7cc",
-        "name": "Dtowncat",
-        "money": 89,
-        "online": true,
-        "streamLink": null,
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 0
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
