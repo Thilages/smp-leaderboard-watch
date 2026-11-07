@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T18:08:54Z",
-  "checkedAtIST": "2026-11-07 23:38:54",
-  "check": 6888,
+  "checkedAt": "2026-11-07T18:10:54Z",
+  "checkedAtIST": "2026-11-07 23:40:54",
+  "check": 6891,
   "lastChangeAt": "2026-11-07T15:46:54Z",
   "lastChangeAtIST": "2026-11-07 21:16:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -317,7 +317,7 @@
         "tier": "A_TIER",
         "kills": 3,
         "deaths": 1,
-        "playtime": 2572
+        "playtime": 2681
       },
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
@@ -491,7 +491,7 @@
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 154,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/unixn",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -737,7 +737,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 3104
+        "playtime": 3874
       },
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
