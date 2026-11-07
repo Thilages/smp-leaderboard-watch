@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T06:05:30Z",
-  "checkedAtIST": "2026-11-07 11:35:30",
-  "check": 5453,
+  "checkedAt": "2026-11-07T06:08:00Z",
+  "checkedAtIST": "2026-11-07 11:38:00",
+  "check": 5458,
   "lastChangeAt": "2026-11-07T06:03:30Z",
   "lastChangeAtIST": "2026-11-07 11:33:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -267,7 +267,7 @@
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
         "money": 394,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
@@ -275,13 +275,13 @@
         "tier": "S_TIER",
         "kills": 11,
         "deaths": 0,
-        "playtime": 1988
+        "playtime": 2124
       },
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 314,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
@@ -289,13 +289,13 @@
         "tier": "B_TIER",
         "kills": 4,
         "deaths": 0,
-        "playtime": 1579
+        "playtime": 1858
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 250,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/infamousjjlive",
         "vip": false,
         "team": "PINK_TEAM",
@@ -303,7 +303,7 @@
         "tier": "A_TIER",
         "kills": 3,
         "deaths": 0,
-        "playtime": 1849
+        "playtime": 1907
       },
       {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
@@ -407,7 +407,7 @@
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 183,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/5up",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -415,7 +415,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 1754
+        "playtime": 1979
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
@@ -533,7 +533,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 139,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -541,7 +541,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 1442
+        "playtime": 1891
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
@@ -617,7 +617,7 @@
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 110,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/greninja",
         "vip": false,
         "team": "RED_TEAM",
@@ -659,7 +659,7 @@
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
         "money": 91,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/bogur",
         "vip": false,
         "team": "PINK_TEAM",
@@ -667,7 +667,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 5,
-        "playtime": 1925
+        "playtime": 1945
       },
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
