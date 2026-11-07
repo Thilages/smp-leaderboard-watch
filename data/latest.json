@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T19:55:54Z",
-  "checkedAtIST": "2026-11-08 01:25:54",
-  "check": 7100,
-  "lastChangeAt": "2026-11-07T19:55:54Z",
-  "lastChangeAtIST": "2026-11-08 01:25:54",
+  "checkedAt": "2026-11-07T19:56:54Z",
+  "checkedAtIST": "2026-11-08 01:26:54",
+  "check": 7102,
+  "lastChangeAt": "2026-11-07T19:56:24Z",
+  "lastChangeAtIST": "2026-11-08 01:26:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1255,
+      "money": 1260,
       "players": 6
     },
     {
@@ -64,15 +64,15 @@
     },
     {
       "rank": 4,
-      "name": "TryH4rdd",
+      "name": "LuigiToan",
       "money": 240,
-      "team": "Purple Aces"
+      "team": "Green Clubs"
     },
     {
       "rank": 5,
-      "name": "LuigiToan",
-      "money": 235,
-      "team": "Green Clubs"
+      "name": "TryH4rdd",
+      "money": 240,
+      "team": "Purple Aces"
     },
     {
       "rank": 6,
@@ -306,6 +306,20 @@
         "playtime": 2069
       },
       {
+        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
+        "name": "LuigiToan",
+        "money": 240,
+        "online": true,
+        "streamLink": "https://twitch.tv/toan",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 3,
+        "deaths": 5,
+        "playtime": 2208
+      },
+      {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 240,
@@ -318,20 +332,6 @@
         "kills": 3,
         "deaths": 1,
         "playtime": 2681
-      },
-      {
-        "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
-        "name": "LuigiToan",
-        "money": 235,
-        "online": true,
-        "streamLink": "https://twitch.tv/toan",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 3,
-        "deaths": 5,
-        "playtime": 2208
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",

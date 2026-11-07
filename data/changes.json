@@ -421,5 +421,6 @@
 {"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "money", "from": 231, "to": 235, "delta": 4, "rankFrom": 5, "rankTo": 5},
 {"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 222, "to": 226, "delta": 4, "rankFrom": 6, "rankTo": 6},
 {"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "5uppps", "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521", "team": "Green Clubs", "type": "money", "from": 187, "to": 191, "delta": 4, "rankFrom": 14, "rankTo": 13},
-{"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 139, "to": 143, "delta": 4, "rankFrom": 20, "rankTo": 19}
+{"at": "2026-11-07T19:55:54Z", "atIST": "2026-11-08 01:25:54", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "money", "from": 139, "to": 143, "delta": 4, "rankFrom": 20, "rankTo": 19},
+{"at": "2026-11-07T19:56:24Z", "atIST": "2026-11-08 01:26:24", "player": "LuigiToan", "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae", "team": "Green Clubs", "type": "money", "from": 235, "to": 240, "delta": 5, "rankFrom": 5, "rankTo": 4}
 ]
