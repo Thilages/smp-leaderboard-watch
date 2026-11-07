@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T22:06:12Z",
-  "checkedAtIST": "2026-11-08 03:36:12",
-  "check": 7358,
-  "lastChangeAt": "2026-11-07T22:05:42Z",
-  "lastChangeAtIST": "2026-11-08 03:35:42",
+  "checkedAt": "2026-11-07T22:08:12Z",
+  "checkedAtIST": "2026-11-08 03:38:12",
+  "check": 7362,
+  "lastChangeAt": "2026-11-07T22:08:12Z",
+  "lastChangeAtIST": "2026-11-08 03:38:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -770,14 +770,6 @@
     ],
     "events": [
       {
-        "id": "5ccf31c9-bc89-4cf8-a755-610ecebd4ef4",
-        "name": "Titans",
-        "start": "2026-11-07T21:00:00.000Z",
-        "shouldLock": false,
-        "firstEvent": false,
-        "endedAt": null
-      },
-      {
         "id": "e35c1ba4-0782-40b8-9b8d-e0947d8d6bc9",
         "name": "Finale",
         "start": "2026-11-08T21:00:00.000Z",
@@ -808,18 +800,19 @@
         "shouldLock": false,
         "firstEvent": false,
         "endedAt": "2026-11-07T00:29:42.644Z"
+      },
+      {
+        "id": "5ccf31c9-bc89-4cf8-a755-610ecebd4ef4",
+        "name": "Titans",
+        "start": "2026-11-07T21:00:00.000Z",
+        "shouldLock": false,
+        "firstEvent": false,
+        "endedAt": "2026-11-07T22:07:41.629Z"
       }
     ],
     "eventAvailable": true,
     "eventFinished": false,
-    "currentEvent": {
-      "id": "5ccf31c9-bc89-4cf8-a755-610ecebd4ef4",
-      "name": "Titans",
-      "start": "2026-11-07T21:00:00.000Z",
-      "shouldLock": false,
-      "firstEvent": false,
-      "endedAt": null
-    },
+    "currentEvent": null,
     "nextEvent": {
       "id": "e35c1ba4-0782-40b8-9b8d-e0947d8d6bc9",
       "name": "Finale",
@@ -828,7 +821,7 @@
       "firstEvent": false,
       "endedAt": null
     },
-    "isLive": true,
+    "isLive": false,
     "pollingInterval": 30000,
     "eventName": "Season 7"
   }
