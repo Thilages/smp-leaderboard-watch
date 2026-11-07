@@ -338,5 +338,6 @@
 {"at": "2026-11-06T23:31:24Z", "atIST": "2026-11-07 05:01:24", "type": "left", "player": "Pinityy", "id": "b23fa084-3209-478f-934c-f7a617bb0d18", "team": "Yellow Spades", "money": 132},
 {"at": "2026-11-07T00:07:55Z", "atIST": "2026-11-07 05:37:55", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 407, "to": 337, "delta": -70, "rankFrom": 2, "rankTo": 2, "flags": ["big_move"]},
 {"at": "2026-11-07T00:09:24Z", "atIST": "2026-11-07 05:39:24", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 90, "to": 10, "delta": -80, "rankFrom": 31, "rankTo": 35, "flags": ["big_move"]},
-{"at": "2026-11-07T00:11:24Z", "atIST": "2026-11-07 05:41:24", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 87, "to": 22, "delta": -65, "rankFrom": 31, "rankTo": 34, "flags": ["big_move"]}
+{"at": "2026-11-07T00:11:24Z", "atIST": "2026-11-07 05:41:24", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 87, "to": 22, "delta": -65, "rankFrom": 31, "rankTo": 34, "flags": ["big_move"]},
+{"at": "2026-11-07T00:13:24Z", "atIST": "2026-11-07 05:43:24", "player": "Flowtives", "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9", "team": "Pink Hearts", "type": "money", "from": 431, "to": 359, "delta": -72, "rankFrom": 1, "rankTo": 1, "flags": ["big_move"]}
 ]
