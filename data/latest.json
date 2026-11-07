@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07T01:12:24Z",
-  "checkedAtIST": "2026-11-07 06:42:24",
-  "check": 4873,
+  "checkedAt": "2026-11-07T01:14:54Z",
+  "checkedAtIST": "2026-11-07 06:44:54",
+  "check": 4878,
   "lastChangeAt": "2026-11-07T01:04:54Z",
   "lastChangeAtIST": "2026-11-07 06:34:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -275,7 +275,7 @@
         "tier": "S_TIER",
         "kills": 7,
         "deaths": 1,
-        "playtime": 1845
+        "playtime": 1904
       },
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
@@ -337,7 +337,7 @@
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
         "name": "sweatgod",
         "money": 233,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/sweatgod",
         "vip": false,
         "team": "GREEN_TEAM",
