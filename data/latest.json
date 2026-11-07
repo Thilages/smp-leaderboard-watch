@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T07:23:30Z",
-  "checkedAtIST": "2026-11-07 12:53:30",
-  "check": 5608,
-  "lastChangeAt": "2026-11-07T06:56:00Z",
-  "lastChangeAtIST": "2026-11-07 12:26:00",
+  "checkedAt": "2026-11-07T07:25:00Z",
+  "checkedAtIST": "2026-11-07 12:55:00",
+  "check": 5611,
+  "lastChangeAt": "2026-11-07T07:25:00Z",
+  "lastChangeAtIST": "2026-11-07 12:55:00",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1095,
+      "money": 1105,
       "players": 6
     },
     {
@@ -82,21 +82,21 @@
     },
     {
       "rank": 7,
+      "name": "JudeLow",
+      "money": 198,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 8,
       "name": "AiroKun",
       "money": 194,
       "team": "Red Jokers"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "InProper",
       "money": 194,
       "team": "Purple Aces"
-    },
-    {
-      "rank": 9,
-      "name": "JudeLow",
-      "money": 188,
-      "team": "Green Clubs"
     },
     {
       "rank": 10,
@@ -348,6 +348,20 @@
         "playtime": 2261
       },
       {
+        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
+        "name": "JudeLow",
+        "money": 198,
+        "online": false,
+        "streamLink": "https://www.twitch.tv/jude_low",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 3,
+        "playtime": 2248
+      },
+      {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 194,
@@ -374,20 +388,6 @@
         "kills": 7,
         "deaths": 2,
         "playtime": 2208
-      },
-      {
-        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
-        "name": "JudeLow",
-        "money": 188,
-        "online": false,
-        "streamLink": "https://www.twitch.tv/jude_low",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 2248
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
