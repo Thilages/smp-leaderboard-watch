@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-11-07T19:37:54Z",
-  "checkedAtIST": "2026-11-08 01:07:54",
-  "check": 7064,
-  "lastChangeAt": "2026-11-07T19:35:24Z",
-  "lastChangeAtIST": "2026-11-08 01:05:24",
+  "checkedAt": "2026-11-07T19:38:24Z",
+  "checkedAtIST": "2026-11-08 01:08:24",
+  "check": 7065,
+  "lastChangeAt": "2026-11-07T19:38:24Z",
+  "lastChangeAtIST": "2026-11-08 01:08:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1388,
+      "money": 1368,
       "players": 6
     },
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1170,
+      "money": 1190,
       "players": 6
     },
     {
@@ -58,21 +58,21 @@
     },
     {
       "rank": 3,
+      "name": "sweatgod",
+      "money": 257,
+      "team": "Green Clubs"
+    },
+    {
+      "rank": 4,
       "name": "InfamousJJ",
       "money": 250,
       "team": "Pink Hearts"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "TryH4rdd",
       "money": 240,
       "team": "Purple Aces"
-    },
-    {
-      "rank": 5,
-      "name": "sweatgod",
-      "money": 237,
-      "team": "Green Clubs"
     },
     {
       "rank": 6,
@@ -184,27 +184,27 @@
     },
     {
       "rank": 24,
+      "name": "WyLL_",
+      "money": 129,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 25,
       "name": "Greninja",
       "money": 110,
       "team": "Red Jokers"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "BryTheGuyy",
       "money": 110,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Dtowncat",
       "money": 109,
       "team": "Red Jokers"
-    },
-    {
-      "rank": 27,
-      "name": "WyLL_",
-      "money": 109,
-      "team": "Blue Diamonds"
     },
     {
       "rank": 28,
@@ -215,13 +215,13 @@
     {
       "rank": 29,
       "name": "notbogur",
-      "money": 91,
+      "money": 71,
       "team": "Pink Hearts"
     },
     {
       "rank": 30,
       "name": "Aramori",
-      "money": 90,
+      "money": 70,
       "team": "Blue Diamonds"
     },
     {
@@ -292,6 +292,20 @@
         "playtime": 1878
       },
       {
+        "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
+        "name": "sweatgod",
+        "money": 257,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sweatgod",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 4,
+        "deaths": 2,
+        "playtime": 2069
+      },
+      {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 250,
@@ -318,20 +332,6 @@
         "kills": 3,
         "deaths": 1,
         "playtime": 2681
-      },
-      {
-        "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
-        "name": "sweatgod",
-        "money": 237,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sweatgod",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 3,
-        "deaths": 2,
-        "playtime": 2069
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -586,6 +586,20 @@
         "playtime": 2151
       },
       {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 129,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 1,
+        "deaths": 2,
+        "playtime": 2812
+      },
+      {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 110,
@@ -628,20 +642,6 @@
         "playtime": 0
       },
       {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 109,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 0,
-        "deaths": 2,
-        "playtime": 2812
-      },
-      {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
         "name": "RoyalPear_",
         "money": 102,
@@ -658,7 +658,7 @@
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
         "name": "notbogur",
-        "money": 91,
+        "money": 71,
         "online": true,
         "streamLink": "https://www.twitch.tv/bogur",
         "vip": false,
@@ -666,13 +666,13 @@
         "captain": false,
         "tier": "F_TIER",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 6,
         "playtime": 1945
       },
       {
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
-        "money": 90,
+        "money": 70,
         "online": true,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
@@ -680,7 +680,7 @@
         "captain": false,
         "tier": "F_TIER",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "playtime": 2364
       },
       {
