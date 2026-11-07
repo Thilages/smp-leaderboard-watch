@@ -450,5 +450,6 @@
 {"at": "2026-11-07T20:27:54Z", "atIST": "2026-11-08 01:57:54", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "money", "from": 26, "to": 30, "delta": 4, "rankFrom": 32, "rankTo": 32},
 {"at": "2026-11-07T20:38:24Z", "atIST": "2026-11-08 02:08:24", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "money", "from": 198, "to": 238, "delta": 40, "rankFrom": 12, "rankTo": 7, "flags": ["rank_jump"], "also": {"kills": {"from": 2, "to": 3}}},
 {"at": "2026-11-07T20:38:24Z", "atIST": "2026-11-08 02:08:24", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 214, "to": 174, "delta": -40, "rankFrom": 7, "rankTo": 15, "flags": ["rank_jump"], "also": {"deaths": {"from": 2, "to": 3}}},
-{"at": "2026-11-07T20:45:24Z", "atIST": "2026-11-08 02:15:24", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}}
+{"at": "2026-11-07T20:45:24Z", "atIST": "2026-11-08 02:15:24", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}},
+{"at": "2026-11-07T21:00:12Z", "atIST": "2026-11-08 02:30:12", "type": "event", "fields": {"isLive": {"from": false, "to": true}, "currentEvent": {"from": null, "to": "Titans"}}}
 ]
