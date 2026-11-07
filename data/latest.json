@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T01:03:24Z",
-  "checkedAtIST": "2026-11-07 06:33:24",
-  "check": 4856,
-  "lastChangeAt": "2026-11-07T00:58:24Z",
-  "lastChangeAtIST": "2026-11-07 06:28:24",
+  "checkedAt": "2026-11-07T01:04:54Z",
+  "checkedAtIST": "2026-11-07 06:34:54",
+  "check": 4859,
+  "lastChangeAt": "2026-11-07T01:04:54Z",
+  "lastChangeAtIST": "2026-11-07 06:34:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -47,7 +47,7 @@
     {
       "rank": 1,
       "name": "InProper",
-      "money": 284,
+      "money": 304,
       "team": "Purple Aces"
     },
     {
@@ -232,14 +232,14 @@
     },
     {
       "rank": 32,
-      "name": "ConixD",
-      "money": 45,
+      "name": "sidefall",
+      "money": 40,
       "team": "Purple Aces"
     },
     {
       "rank": 33,
-      "name": "sidefall",
-      "money": 40,
+      "name": "ConixD",
+      "money": 25,
       "team": "Purple Aces"
     },
     {
@@ -266,7 +266,7 @@
       {
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
-        "money": 284,
+        "money": 304,
         "online": true,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
@@ -698,20 +698,6 @@
         "playtime": 1768
       },
       {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 45,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 5,
-        "playtime": 1564
-      },
-      {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
         "name": "sidefall",
         "money": 40,
@@ -724,6 +710,20 @@
         "kills": 0,
         "deaths": 8,
         "playtime": 1920
+      },
+      {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 25,
+        "online": false,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 5,
+        "playtime": 1961
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
