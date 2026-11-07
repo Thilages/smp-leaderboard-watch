@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T05:01:00Z",
-  "checkedAtIST": "2026-11-07 10:31:00",
-  "check": 5325,
-  "lastChangeAt": "2026-11-07T04:17:00Z",
-  "lastChangeAtIST": "2026-11-07 09:47:00",
+  "checkedAt": "2026-11-07T05:02:30Z",
+  "checkedAtIST": "2026-11-07 10:32:30",
+  "check": 5328,
+  "lastChangeAt": "2026-11-07T05:02:30Z",
+  "lastChangeAtIST": "2026-11-07 10:32:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1258,
+      "money": 1288,
       "players": 6
     },
     {
@@ -21,7 +21,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 912,
+      "money": 882,
       "players": 6
     },
     {
@@ -64,21 +64,21 @@
     },
     {
       "rank": 4,
+      "name": "InfamousJJ",
+      "money": 250,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 5,
       "name": "TryH4rdd",
       "money": 240,
       "team": "Purple Aces"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "sweatgod",
       "money": 233,
       "team": "Green Clubs"
-    },
-    {
-      "rank": 6,
-      "name": "InfamousJJ",
-      "money": 220,
-      "team": "Pink Hearts"
     },
     {
       "rank": 7,
@@ -232,27 +232,27 @@
     },
     {
       "rank": 32,
-      "name": "sidefall",
-      "money": 40,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 33,
       "name": "ConixD",
       "money": 25,
       "team": "Purple Aces"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Bormethius",
       "money": 22,
       "team": "Yellow Spades"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "McSolsy",
       "money": 10,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 35,
+      "name": "sidefall",
+      "money": 10,
+      "team": "Purple Aces"
     },
     {
       "rank": 36,
@@ -306,6 +306,20 @@
         "playtime": 1996
       },
       {
+        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
+        "name": "InfamousJJ",
+        "money": 250,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/infamousjjlive",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 3,
+        "deaths": 0,
+        "playtime": 1499
+      },
+      {
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 240,
@@ -332,20 +346,6 @@
         "kills": 3,
         "deaths": 2,
         "playtime": 1827
-      },
-      {
-        "id": "9d014960-3621-4861-8e44-1fa141e9b192",
-        "name": "InfamousJJ",
-        "money": 220,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/infamousjjlive",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 0,
-        "playtime": 1499
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -597,7 +597,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 2206
+        "playtime": 2208
       },
       {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
@@ -698,20 +698,6 @@
         "playtime": 1889
       },
       {
-        "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
-        "name": "sidefall",
-        "money": 40,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/sidefalll",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 8,
-        "playtime": 1920
-      },
-      {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
         "name": "ConixD",
         "money": 25,
@@ -752,6 +738,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 3104
+      },
+      {
+        "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
+        "name": "sidefall",
+        "money": 10,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/sidefalll",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 9,
+        "playtime": 1920
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
