@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-07T05:44:00Z",
-  "checkedAtIST": "2026-11-07 11:14:00",
-  "check": 5411,
-  "lastChangeAt": "2026-11-07T05:24:00Z",
-  "lastChangeAtIST": "2026-11-07 10:54:00",
+  "checkedAt": "2026-11-07T05:46:30Z",
+  "checkedAtIST": "2026-11-07 11:16:30",
+  "check": 5416,
+  "lastChangeAt": "2026-11-07T05:46:30Z",
+  "lastChangeAtIST": "2026-11-07 11:16:30",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1288,
+      "money": 1368,
       "players": 6
     },
     {
@@ -21,7 +21,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 882,
+      "money": 802,
       "players": 6
     },
     {
@@ -46,51 +46,51 @@
   "board": [
     {
       "rank": 1,
+      "name": "Flowtives",
+      "money": 374,
+      "team": "Pink Hearts"
+    },
+    {
+      "rank": 2,
       "name": "Infume",
       "money": 314,
       "team": "Pink Hearts"
     },
     {
-      "rank": 2,
-      "name": "Flowtives",
-      "money": 294,
-      "team": "Pink Hearts"
-    },
-    {
       "rank": 3,
-      "name": "InProper",
-      "money": 274,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 4,
       "name": "InfamousJJ",
       "money": 250,
       "team": "Pink Hearts"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "TryH4rdd",
       "money": 240,
       "team": "Purple Aces"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "sweatgod",
       "money": 233,
       "team": "Green Clubs"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "scotteh",
       "money": 200,
       "team": "Pink Hearts"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "AiroKun",
       "money": 194,
       "team": "Red Jokers"
+    },
+    {
+      "rank": 8,
+      "name": "InProper",
+      "money": 194,
+      "team": "Purple Aces"
     },
     {
       "rank": 9,
@@ -264,6 +264,20 @@
   "payload": {
     "players": [
       {
+        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
+        "name": "Flowtives",
+        "money": 374,
+        "online": true,
+        "streamLink": "https://twitch.tv/flowtives",
+        "vip": false,
+        "team": "PINK_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 11,
+        "deaths": 0,
+        "playtime": 1988
+      },
+      {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 314,
@@ -276,34 +290,6 @@
         "kills": 4,
         "deaths": 0,
         "playtime": 1579
-      },
-      {
-        "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
-        "name": "Flowtives",
-        "money": 294,
-        "online": true,
-        "streamLink": "https://twitch.tv/flowtives",
-        "vip": false,
-        "team": "PINK_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 10,
-        "deaths": 0,
-        "playtime": 1988
-      },
-      {
-        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
-        "name": "InProper",
-        "money": 274,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/proper",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 7,
-        "deaths": 1,
-        "playtime": 1996
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -374,6 +360,20 @@
         "kills": 6,
         "deaths": 4,
         "playtime": 1978
+      },
+      {
+        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
+        "name": "InProper",
+        "money": 194,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/proper",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 7,
+        "deaths": 2,
+        "playtime": 1996
       },
       {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
