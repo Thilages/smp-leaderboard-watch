@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07T00:09:24Z",
-  "checkedAtIST": "2026-11-07 05:39:24",
-  "check": 4748,
-  "lastChangeAt": "2026-11-07T00:09:24Z",
-  "lastChangeAtIST": "2026-11-07 05:39:24",
+  "checkedAt": "2026-11-07T00:11:24Z",
+  "checkedAtIST": "2026-11-07 05:41:24",
+  "check": 4752,
+  "lastChangeAt": "2026-11-07T00:11:24Z",
+  "lastChangeAtIST": "2026-11-07 05:41:24",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -31,15 +31,15 @@
       "players": 6
     },
     {
-      "team": "YELLOW_TEAM",
-      "name": "Yellow Spades",
-      "money": 665,
-      "players": 6
-    },
-    {
       "team": "RED_TEAM",
       "name": "Red Jokers",
       "money": 630,
+      "players": 6
+    },
+    {
+      "team": "YELLOW_TEAM",
+      "name": "Yellow Spades",
+      "money": 600,
       "players": 6
     }
   ],
@@ -226,27 +226,27 @@
     },
     {
       "rank": 31,
-      "name": "Bormethius",
-      "money": 87,
-      "team": "Yellow Spades"
-    },
-    {
-      "rank": 32,
       "name": "ClownPierce",
       "money": 69,
       "team": "Red Jokers"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "ConixD",
       "money": 65,
       "team": "Purple Aces"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "sidefall",
       "money": 40,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 34,
+      "name": "Bormethius",
+      "money": 22,
+      "team": "Yellow Spades"
     },
     {
       "rank": 35,
@@ -684,20 +684,6 @@
         "playtime": 1601
       },
       {
-        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
-        "name": "Bormethius",
-        "money": 87,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/bormethius",
-        "vip": false,
-        "team": "YELLOW_TEAM",
-        "captain": true,
-        "tier": "F_TIER",
-        "kills": 1,
-        "deaths": 3,
-        "playtime": 1661
-      },
-      {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 69,
@@ -740,6 +726,20 @@
         "playtime": 1917
       },
       {
+        "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
+        "name": "Bormethius",
+        "money": 22,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/bormethius",
+        "vip": false,
+        "team": "YELLOW_TEAM",
+        "captain": true,
+        "tier": "F_TIER",
+        "kills": 1,
+        "deaths": 3,
+        "playtime": 1661
+      },
+      {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 10,
@@ -757,7 +757,7 @@
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
         "name": "_Brinkz",
         "money": 9,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/brinkzlive",
         "vip": false,
         "team": "RED_TEAM",
