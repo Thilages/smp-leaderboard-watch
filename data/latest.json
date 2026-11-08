@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T15:41:43Z",
-  "checkedAtIST": "2026-11-08 21:11:43",
-  "check": 9452,
+  "checkedAt": "2026-11-08T15:44:14Z",
+  "checkedAtIST": "2026-11-08 21:14:14",
+  "check": 9457,
   "lastChangeAt": "2026-11-08T14:16:13Z",
   "lastChangeAtIST": "2026-11-08 19:46:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -281,7 +281,7 @@
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
         "money": 387,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
@@ -289,7 +289,7 @@
         "tier": "B_TIER",
         "kills": 7,
         "deaths": 0,
-        "playtime": 2423
+        "playtime": 2500
       },
       {
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
@@ -715,7 +715,7 @@
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 15,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/greninja",
         "vip": false,
         "team": "RED_TEAM",
