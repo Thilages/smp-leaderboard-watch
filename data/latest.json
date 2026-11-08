@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-11-08T00:18:42Z",
-  "checkedAtIST": "2026-11-08 05:48:42",
-  "check": 7621,
-  "lastChangeAt": "2026-11-08T00:18:42Z",
-  "lastChangeAtIST": "2026-11-08 05:48:42",
+  "checkedAt": "2026-11-08T00:20:12Z",
+  "checkedAtIST": "2026-11-08 05:50:12",
+  "check": 7624,
+  "lastChangeAt": "2026-11-08T00:19:42Z",
+  "lastChangeAtIST": "2026-11-08 05:49:42",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
       "team": "PINK_TEAM",
       "name": "Pink Hearts",
-      "money": 1518,
+      "money": 1538,
       "players": 6
     },
     {
@@ -33,7 +33,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 812,
+      "money": 792,
       "players": 6
     },
     {
@@ -53,7 +53,7 @@
     {
       "rank": 2,
       "name": "Infume",
-      "money": 367,
+      "money": 387,
       "team": "Pink Hearts"
     },
     {
@@ -154,27 +154,27 @@
     },
     {
       "rank": 19,
-      "name": "kantje",
-      "money": 171,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 20,
       "name": "tingzmc",
       "money": 168,
       "team": "Green Clubs"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Evbo_",
       "money": 166,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "saparata",
       "money": 155,
       "team": "Blue Diamonds"
+    },
+    {
+      "rank": 22,
+      "name": "kantje",
+      "money": 151,
+      "team": "Purple Aces"
     },
     {
       "rank": 23,
@@ -280,14 +280,14 @@
       {
         "id": "a54e3bc4-c635-4b07-a236-b81efbcfe791",
         "name": "Infume",
-        "money": 367,
+        "money": 387,
         "online": true,
         "streamLink": "https://twitch.tv/infume",
         "vip": false,
         "team": "PINK_TEAM",
         "captain": false,
         "tier": "B_TIER",
-        "kills": 6,
+        "kills": 7,
         "deaths": 0,
         "playtime": 2102
       },
@@ -516,20 +516,6 @@
         "playtime": 2080
       },
       {
-        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
-        "name": "kantje",
-        "money": 171,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/kantje",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "D_TIER",
-        "kills": 0,
-        "deaths": 1,
-        "playtime": 2203
-      },
-      {
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
         "name": "tingzmc",
         "money": 168,
@@ -570,6 +556,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 2191
+      },
+      {
+        "id": "1524e33a-a8e0-41df-92ef-e2847652602e",
+        "name": "kantje",
+        "money": 151,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/kantje",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "D_TIER",
+        "kills": 0,
+        "deaths": 2,
+        "playtime": 2203
       },
       {
         "id": "c719a49c-5e67-404b-87d5-a4f2f8b6f105",
