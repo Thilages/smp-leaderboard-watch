@@ -558,5 +558,6 @@
 {"at": "2026-11-08T14:12:13Z", "atIST": "2026-11-08 19:42:13", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 10, "to": 1, "delta": -9, "rankFrom": 34, "rankTo": 35},
 {"at": "2026-11-08T14:16:13Z", "atIST": "2026-11-08 19:46:13", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "money", "from": 10, "to": 11, "delta": 1, "rankFrom": 34, "rankTo": 34},
 {"at": "2026-11-08T14:16:13Z", "atIST": "2026-11-08 19:46:13", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 1, "to": 0, "delta": -1, "rankFrom": 35, "rankTo": 35},
-{"at": "2026-11-08T15:44:43Z", "atIST": "2026-11-08 21:14:43", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}}
+{"at": "2026-11-08T15:44:43Z", "atIST": "2026-11-08 21:14:43", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}},
+{"at": "2026-11-08T15:46:43Z", "atIST": "2026-11-08 21:16:43", "player": "SB737", "id": "98c0bece-0232-485e-8e86-fa604d78e62f", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 3, "to": 4}}}
 ]
