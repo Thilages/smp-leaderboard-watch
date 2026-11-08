@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T03:36:36Z",
-  "checkedAtIST": "2026-11-08 09:06:36",
-  "check": 8013,
-  "lastChangeAt": "2026-11-08T03:34:06Z",
-  "lastChangeAtIST": "2026-11-08 09:04:06",
+  "checkedAt": "2026-11-08T03:38:37Z",
+  "checkedAtIST": "2026-11-08 09:08:37",
+  "check": 8017,
+  "lastChangeAt": "2026-11-08T03:38:37Z",
+  "lastChangeAtIST": "2026-11-08 09:08:37",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -15,7 +15,7 @@
     {
       "team": "GREEN_TEAM",
       "name": "Green Clubs",
-      "money": 1485,
+      "money": 1505,
       "players": 6
     },
     {
@@ -33,7 +33,7 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 672,
+      "money": 652,
       "players": 6
     },
     {
@@ -58,15 +58,15 @@
     },
     {
       "rank": 3,
-      "name": "ElDeathly",
-      "money": 335,
-      "team": "Yellow Spades"
+      "name": "JudeLow",
+      "money": 336,
+      "team": "Green Clubs"
     },
     {
       "rank": 4,
-      "name": "JudeLow",
-      "money": 316,
-      "team": "Green Clubs"
+      "name": "ElDeathly",
+      "money": 335,
+      "team": "Yellow Spades"
     },
     {
       "rank": 5,
@@ -214,21 +214,21 @@
     },
     {
       "rank": 29,
-      "name": "InProper",
-      "money": 72,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 30,
       "name": "McSolsy",
       "money": 55,
       "team": "Yellow Spades"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Bormethius",
       "money": 52,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 31,
+      "name": "InProper",
+      "money": 52,
+      "team": "Purple Aces"
     },
     {
       "rank": 32,
@@ -292,6 +292,20 @@
         "playtime": 2231
       },
       {
+        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
+        "name": "JudeLow",
+        "money": 336,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/jude_low",
+        "vip": false,
+        "team": "GREEN_TEAM",
+        "captain": false,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 3,
+        "playtime": 2704
+      },
+      {
         "id": "e488c969-ec04-41b7-87cb-3540c9e27fbf",
         "name": "ElDeathly",
         "money": 335,
@@ -304,20 +318,6 @@
         "kills": 8,
         "deaths": 1,
         "playtime": 3332
-      },
-      {
-        "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
-        "name": "JudeLow",
-        "money": 316,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/jude_low",
-        "vip": false,
-        "team": "GREEN_TEAM",
-        "captain": false,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 2704
       },
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
@@ -379,7 +379,7 @@
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 253,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ronin",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -387,7 +387,7 @@
         "tier": "A_TIER",
         "kills": 3,
         "deaths": 1,
-        "playtime": 3078
+        "playtime": 3197
       },
       {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
@@ -505,7 +505,7 @@
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 186,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/only_a_squid",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -513,7 +513,7 @@
         "tier": "B_TIER",
         "kills": 1,
         "deaths": 1,
-        "playtime": 3753
+        "playtime": 4048
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
@@ -656,20 +656,6 @@
         "playtime": 2299
       },
       {
-        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
-        "name": "InProper",
-        "money": 72,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/proper",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 8,
-        "deaths": 3,
-        "playtime": 2569
-      },
-      {
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 55,
@@ -696,6 +682,20 @@
         "kills": 1,
         "deaths": 5,
         "playtime": 2715
+      },
+      {
+        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
+        "name": "InProper",
+        "money": 52,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/proper",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 8,
+        "deaths": 3,
+        "playtime": 2569
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
