@@ -523,5 +523,7 @@
 {"at": "2026-11-08T01:23:42Z", "atIST": "2026-11-08 06:53:42", "player": "ItzRealMe", "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab", "team": "Yellow Spades", "type": "money", "from": 182, "to": 202, "delta": 20, "rankFrom": 16, "rankTo": 14, "also": {"kills": {"from": 0, "to": 1}}},
 {"at": "2026-11-08T01:23:42Z", "atIST": "2026-11-08 06:53:42", "player": "kantje", "id": "1524e33a-a8e0-41df-92ef-e2847652602e", "team": "Purple Aces", "type": "money", "from": 151, "to": 131, "delta": -20, "rankFrom": 23, "rankTo": 23, "also": {"deaths": {"from": 2, "to": 3}}},
 {"at": "2026-11-08T01:23:42Z", "atIST": "2026-11-08 06:53:42", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 12, "to": 13}}},
-{"at": "2026-11-08T01:23:42Z", "atIST": "2026-11-08 06:53:42", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 8, "to": 9}}}
+{"at": "2026-11-08T01:23:42Z", "atIST": "2026-11-08 06:53:42", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 8, "to": 9}}},
+{"at": "2026-11-08T01:25:12Z", "atIST": "2026-11-08 06:55:12", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 175, "to": 215, "delta": 40, "rankFrom": 17, "rankTo": 13, "also": {"kills": {"from": 2, "to": 3}}},
+{"at": "2026-11-08T01:25:12Z", "atIST": "2026-11-08 06:55:12", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "money", "from": 74, "to": 34, "delta": -40, "rankFrom": 31, "rankTo": 32, "also": {"deaths": {"from": 3, "to": 4}}}
 ]

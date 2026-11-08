@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T01:23:42Z",
-  "checkedAtIST": "2026-11-08 06:53:42",
-  "check": 7750,
-  "lastChangeAt": "2026-11-08T01:23:42Z",
-  "lastChangeAtIST": "2026-11-08 06:53:42",
+  "checkedAt": "2026-11-08T01:25:12Z",
+  "checkedAtIST": "2026-11-08 06:55:12",
+  "check": 7753,
+  "lastChangeAt": "2026-11-08T01:25:12Z",
+  "lastChangeAtIST": "2026-11-08 06:55:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 980,
+      "money": 1020,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 580,
+      "money": 540,
       "players": 6
     }
   ],
@@ -118,33 +118,33 @@
     },
     {
       "rank": 13,
+      "name": "WyLL_",
+      "money": 215,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 14,
       "name": "InfamousJJ",
       "money": 203,
       "team": "Pink Hearts"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "ItzRealMe",
       "money": 202,
       "team": "Yellow Spades"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "5uppps",
       "money": 196,
       "team": "Green Clubs"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Only_A_Squid",
       "money": 186,
       "team": "Purple Aces"
-    },
-    {
-      "rank": 17,
-      "name": "WyLL_",
-      "money": 175,
-      "team": "Blue Diamonds"
     },
     {
       "rank": 18,
@@ -226,15 +226,15 @@
     },
     {
       "rank": 31,
-      "name": "Greninja",
-      "money": 74,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 32,
       "name": "Bormethius",
       "money": 52,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 32,
+      "name": "Greninja",
+      "money": 34,
+      "team": "Red Jokers"
     },
     {
       "rank": 33,
@@ -432,6 +432,20 @@
         "playtime": 2558
       },
       {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 215,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 3,
+        "deaths": 2,
+        "playtime": 3196
+      },
+      {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 203,
@@ -486,20 +500,6 @@
         "kills": 1,
         "deaths": 1,
         "playtime": 3753
-      },
-      {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 175,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 2,
-        "deaths": 2,
-        "playtime": 2925
       },
       {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
@@ -684,20 +684,6 @@
         "playtime": 4072
       },
       {
-        "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
-        "name": "Greninja",
-        "money": 74,
-        "online": true,
-        "streamLink": "https://twitch.tv/greninja",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "A_TIER",
-        "kills": 2,
-        "deaths": 3,
-        "playtime": 2827
-      },
-      {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
         "name": "Bormethius",
         "money": 52,
@@ -710,6 +696,20 @@
         "kills": 1,
         "deaths": 5,
         "playtime": 2715
+      },
+      {
+        "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
+        "name": "Greninja",
+        "money": 34,
+        "online": true,
+        "streamLink": "https://twitch.tv/greninja",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "A_TIER",
+        "kills": 2,
+        "deaths": 4,
+        "playtime": 2827
       },
       {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
