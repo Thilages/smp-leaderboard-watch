@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T03:34:06Z",
-  "checkedAtIST": "2026-11-08 09:04:06",
-  "check": 8008,
+  "checkedAt": "2026-11-08T03:36:36Z",
+  "checkedAtIST": "2026-11-08 09:06:36",
+  "check": 8013,
   "lastChangeAt": "2026-11-08T03:34:06Z",
   "lastChangeAtIST": "2026-11-08 09:04:06",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -701,7 +701,7 @@
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
         "name": "ConixD",
         "money": 30,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/conix",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -709,7 +709,7 @@
         "tier": "F_TIER",
         "kills": 1,
         "deaths": 11,
-        "playtime": 2075
+        "playtime": 2468
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
