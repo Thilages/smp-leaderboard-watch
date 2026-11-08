@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T02:10:12Z",
-  "checkedAtIST": "2026-11-08 07:40:12",
-  "check": 7842,
+  "checkedAt": "2026-11-08T02:12:42Z",
+  "checkedAtIST": "2026-11-08 07:42:42",
+  "check": 7847,
   "lastChangeAt": "2026-11-08T01:51:12Z",
   "lastChangeAtIST": "2026-11-08 07:21:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -505,7 +505,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -673,7 +673,7 @@
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 55,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
@@ -681,7 +681,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 4237
+        "playtime": 4257
       },
       {
         "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22",
