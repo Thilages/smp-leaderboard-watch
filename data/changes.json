@@ -528,5 +528,6 @@
 {"at": "2026-11-08T01:25:12Z", "atIST": "2026-11-08 06:55:12", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "money", "from": 74, "to": 34, "delta": -40, "rankFrom": 31, "rankTo": 32, "also": {"deaths": {"from": 3, "to": 4}}},
 {"at": "2026-11-08T01:43:42Z", "atIST": "2026-11-08 07:13:42", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 4, "to": 5}}},
 {"at": "2026-11-08T01:51:12Z", "atIST": "2026-11-08 07:21:12", "player": "WyLL_", "id": "81cbe02c-58df-4316-953d-33a995e0d09e", "team": "Blue Diamonds", "type": "money", "from": 215, "to": 245, "delta": 30, "rankFrom": 13, "rankTo": 11, "also": {"kills": {"from": 3, "to": 4}}},
-{"at": "2026-11-08T01:51:12Z", "atIST": "2026-11-08 07:21:12", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 85, "to": 55, "delta": -30, "rankFrom": 30, "rankTo": 30, "also": {"deaths": {"from": 1, "to": 2}}}
+{"at": "2026-11-08T01:51:12Z", "atIST": "2026-11-08 07:21:12", "player": "McSolsy", "id": "0a497046-c0bd-48bf-902a-d7cf23e75937", "team": "Yellow Spades", "type": "money", "from": 85, "to": 55, "delta": -30, "rankFrom": 30, "rankTo": 30, "also": {"deaths": {"from": 1, "to": 2}}},
+{"at": "2026-11-08T02:17:42Z", "atIST": "2026-11-08 07:47:42", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}}
 ]
