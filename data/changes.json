@@ -540,5 +540,6 @@
 {"at": "2026-11-08T02:37:06Z", "atIST": "2026-11-08 08:07:06", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "money", "from": 15, "to": 0, "delta": -15, "rankFrom": 33, "rankTo": 34},
 {"at": "2026-11-08T02:37:36Z", "atIST": "2026-11-08 08:07:36", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "money", "from": 0, "to": 15, "delta": 15, "rankFrom": 34, "rankTo": 33},
 {"at": "2026-11-08T02:37:36Z", "atIST": "2026-11-08 08:07:36", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 15, "to": 0, "delta": -15, "rankFrom": 33, "rankTo": 35},
-{"at": "2026-11-08T03:29:36Z", "atIST": "2026-11-08 08:59:36", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 9, "to": 10}}}
+{"at": "2026-11-08T03:29:36Z", "atIST": "2026-11-08 08:59:36", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 9, "to": 10}}},
+{"at": "2026-11-08T03:32:36Z", "atIST": "2026-11-08 09:02:36", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 10, "to": 11}}}
 ]
