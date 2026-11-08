@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T03:28:06Z",
-  "checkedAtIST": "2026-11-08 08:58:06",
-  "check": 7997,
-  "lastChangeAt": "2026-11-08T02:37:36Z",
-  "lastChangeAtIST": "2026-11-08 08:07:36",
+  "checkedAt": "2026-11-08T03:29:36Z",
+  "checkedAtIST": "2026-11-08 08:59:36",
+  "check": 7999,
+  "lastChangeAt": "2026-11-08T03:29:36Z",
+  "lastChangeAtIST": "2026-11-08 08:59:36",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -505,7 +505,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -547,7 +547,7 @@
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
         "name": "saparata",
         "money": 155,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/saps",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -589,7 +589,7 @@
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
         "name": "BryTheGuyy",
         "money": 127,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/brytheguy",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -708,7 +708,7 @@
         "captain": false,
         "tier": "F_TIER",
         "kills": 1,
-        "deaths": 9,
+        "deaths": 10,
         "playtime": 2075
       },
       {
