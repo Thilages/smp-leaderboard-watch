@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T00:06:42Z",
-  "checkedAtIST": "2026-11-08 05:36:42",
-  "check": 7597,
-  "lastChangeAt": "2026-11-07T23:40:12Z",
-  "lastChangeAtIST": "2026-11-08 05:10:12",
+  "checkedAt": "2026-11-08T00:07:42Z",
+  "checkedAtIST": "2026-11-08 05:37:42",
+  "check": 7599,
+  "lastChangeAt": "2026-11-08T00:07:42Z",
+  "lastChangeAtIST": "2026-11-08 05:37:42",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 570,
+      "money": 560,
       "players": 6
     }
   ],
@@ -113,7 +113,7 @@
     {
       "rank": 12,
       "name": "AiroKun",
-      "money": 218,
+      "money": 208,
       "team": "Red Jokers"
     },
     {
@@ -420,7 +420,7 @@
       {
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
-        "money": 218,
+        "money": 208,
         "online": true,
         "streamLink": "https://www.twitch.tv/airokun",
         "vip": false,
