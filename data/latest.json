@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T16:47:43Z",
-  "checkedAtIST": "2026-11-08 22:17:43",
-  "check": 9583,
+  "checkedAt": "2026-11-08T16:50:13Z",
+  "checkedAtIST": "2026-11-08 22:20:13",
+  "check": 9588,
   "lastChangeAt": "2026-11-08T16:31:13Z",
   "lastChangeAtIST": "2026-11-08 22:01:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -533,7 +533,7 @@
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 166,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -541,7 +541,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 3047
+        "playtime": 3054
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
@@ -631,7 +631,7 @@
         "id": "04d109cf-1fea-4ce5-84ba-767f07c65087",
         "name": "Aramori",
         "money": 106,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/aramori",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -639,7 +639,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 4,
-        "playtime": 3016
+        "playtime": 3034
       },
       {
         "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783",
