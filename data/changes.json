@@ -546,5 +546,6 @@
 {"at": "2026-11-08T03:34:06Z", "atIST": "2026-11-08 09:04:06", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 102, "to": 72, "delta": -30, "rankFrom": 29, "rankTo": 29},
 {"at": "2026-11-08T03:34:06Z", "atIST": "2026-11-08 09:04:06", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 13, "to": 14}}},
 {"at": "2026-11-08T03:38:37Z", "atIST": "2026-11-08 09:08:37", "player": "JudeLow", "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4", "team": "Green Clubs", "type": "money", "from": 316, "to": 336, "delta": 20, "rankFrom": 4, "rankTo": 3},
-{"at": "2026-11-08T03:38:37Z", "atIST": "2026-11-08 09:08:37", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 72, "to": 52, "delta": -20, "rankFrom": 29, "rankTo": 31}
+{"at": "2026-11-08T03:38:37Z", "atIST": "2026-11-08 09:08:37", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 72, "to": 52, "delta": -20, "rankFrom": 29, "rankTo": 31},
+{"at": "2026-11-08T06:51:06Z", "atIST": "2026-11-08 12:21:06", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "money", "from": 251, "to": 271, "delta": 20, "rankFrom": 10, "rankTo": 6}
 ]
