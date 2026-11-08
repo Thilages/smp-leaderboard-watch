@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T00:47:12Z",
-  "checkedAtIST": "2026-11-08 06:17:12",
-  "check": 7678,
+  "checkedAt": "2026-11-08T00:49:12Z",
+  "checkedAtIST": "2026-11-08 06:19:12",
+  "check": 7682,
   "lastChangeAt": "2026-11-08T00:47:12Z",
   "lastChangeAtIST": "2026-11-08 06:17:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -449,7 +449,7 @@
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 196,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/5up",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -457,7 +457,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 2082
+        "playtime": 2315
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
