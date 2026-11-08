@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T04:37:06Z",
-  "checkedAtIST": "2026-11-08 10:07:06",
-  "check": 8133,
+  "checkedAt": "2026-11-08T04:39:36Z",
+  "checkedAtIST": "2026-11-08 10:09:36",
+  "check": 8138,
   "lastChangeAt": "2026-11-08T03:38:37Z",
   "lastChangeAtIST": "2026-11-08 09:08:37",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -337,7 +337,7 @@
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
         "name": "LuigiToan",
         "money": 265,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/toan",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -449,7 +449,7 @@
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
         "name": "InfamousJJ",
         "money": 203,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/infamousjjlive",
         "vip": false,
         "team": "PINK_TEAM",
@@ -457,7 +457,7 @@
         "tier": "A_TIER",
         "kills": 3,
         "deaths": 2,
-        "playtime": 2329
+        "playtime": 2343
       },
       {
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
@@ -519,7 +519,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -527,7 +527,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 2196
+        "playtime": 2266
       },
       {
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
@@ -701,7 +701,7 @@
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
         "name": "ConixD",
         "money": 30,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/conix",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -709,7 +709,7 @@
         "tier": "F_TIER",
         "kills": 1,
         "deaths": 11,
-        "playtime": 2468
+        "playtime": 2484
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
