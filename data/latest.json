@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T16:29:13Z",
-  "checkedAtIST": "2026-11-08 21:59:13",
-  "check": 9546,
-  "lastChangeAt": "2026-11-08T15:46:43Z",
-  "lastChangeAtIST": "2026-11-08 21:16:43",
+  "checkedAt": "2026-11-08T16:31:13Z",
+  "checkedAtIST": "2026-11-08 22:01:13",
+  "check": 9550,
+  "lastChangeAt": "2026-11-08T16:31:13Z",
+  "lastChangeAtIST": "2026-11-08 22:01:13",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 530,
+      "money": 550,
       "players": 6
     }
   ],
@@ -238,20 +238,20 @@
     },
     {
       "rank": 33,
+      "name": "_Brinkz",
+      "money": 20,
+      "team": "Red Jokers"
+    },
+    {
+      "rank": 34,
       "name": "Greninja",
       "money": 15,
       "team": "Red Jokers"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "ClownPierce",
       "money": 11,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 35,
-      "name": "_Brinkz",
-      "money": 0,
       "team": "Red Jokers"
     },
     {
@@ -519,7 +519,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -712,6 +712,20 @@
         "playtime": 2484
       },
       {
+        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
+        "name": "_Brinkz",
+        "money": 20,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/brinkzlive",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 6,
+        "playtime": 2980
+      },
+      {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
         "name": "Greninja",
         "money": 15,
@@ -738,20 +752,6 @@
         "kills": 0,
         "deaths": 5,
         "playtime": 2573
-      },
-      {
-        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
-        "name": "_Brinkz",
-        "money": 0,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/brinkzlive",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 6,
-        "playtime": 2980
       },
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
