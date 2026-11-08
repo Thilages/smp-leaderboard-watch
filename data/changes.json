@@ -596,5 +596,6 @@
 {"at": "2026-11-08T18:00:13Z", "atIST": "2026-11-08 23:30:13", "type": "left", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "money": 20},
 {"at": "2026-11-08T18:00:13Z", "atIST": "2026-11-08 23:30:13", "type": "left", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "money": 15},
 {"at": "2026-11-08T18:00:13Z", "atIST": "2026-11-08 23:30:13", "type": "left", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "money": 11},
-{"at": "2026-11-08T18:00:13Z", "atIST": "2026-11-08 23:30:13", "type": "left", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "money": 0}
+{"at": "2026-11-08T18:00:13Z", "atIST": "2026-11-08 23:30:13", "type": "left", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "money": 0},
+{"at": "2026-11-08T21:00:31Z", "atIST": "2026-11-09 02:30:31", "type": "event", "fields": {"isLive": {"from": false, "to": true}, "currentEvent": {"from": null, "to": "Finale"}}}
 ]
