@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T12:51:54Z",
-  "checkedAtIST": "2026-11-08 18:21:54",
-  "check": 9115,
-  "lastChangeAt": "2026-11-08T12:13:24Z",
-  "lastChangeAtIST": "2026-11-08 17:43:24",
+  "checkedAt": "2026-11-08T12:52:54Z",
+  "checkedAtIST": "2026-11-08 18:22:54",
+  "check": 9117,
+  "lastChangeAt": "2026-11-08T12:52:54Z",
+  "lastChangeAtIST": "2026-11-08 18:22:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 6,
-      "name": "AiroKun",
-      "money": 278,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 7,
       "name": "unixn",
       "money": 271,
       "team": "Blue Diamonds"
+    },
+    {
+      "rank": 7,
+      "name": "AiroKun",
+      "money": 267,
+      "team": "Red Jokers"
     },
     {
       "rank": 8,
@@ -244,13 +244,13 @@
     },
     {
       "rank": 34,
-      "name": "ClownPierce",
-      "money": 0,
+      "name": "_Brinkz",
+      "money": 11,
       "team": "Red Jokers"
     },
     {
       "rank": 35,
-      "name": "_Brinkz",
+      "name": "ClownPierce",
       "money": 0,
       "team": "Red Jokers"
     },
@@ -334,20 +334,6 @@
         "playtime": 2598
       },
       {
-        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
-        "name": "AiroKun",
-        "money": 278,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/airokun",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 9,
-        "deaths": 5,
-        "playtime": 2974
-      },
-      {
         "id": "484650e1-08a7-40fc-ab22-3d11958aca56",
         "name": "unixn",
         "money": 271,
@@ -360,6 +346,20 @@
         "kills": 3,
         "deaths": 1,
         "playtime": 3239
+      },
+      {
+        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
+        "name": "AiroKun",
+        "money": 267,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/airokun",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 9,
+        "deaths": 5,
+        "playtime": 2974
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
@@ -726,6 +726,20 @@
         "playtime": 3065
       },
       {
+        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
+        "name": "_Brinkz",
+        "money": 11,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/brinkzlive",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "C_TIER",
+        "kills": 0,
+        "deaths": 6,
+        "playtime": 2858
+      },
+      {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 0,
@@ -738,20 +752,6 @@
         "kills": 0,
         "deaths": 5,
         "playtime": 2573
-      },
-      {
-        "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
-        "name": "_Brinkz",
-        "money": 0,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/brinkzlive",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "C_TIER",
-        "kills": 0,
-        "deaths": 6,
-        "playtime": 2858
       },
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",

@@ -549,5 +549,7 @@
 {"at": "2026-11-08T03:38:37Z", "atIST": "2026-11-08 09:08:37", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "money", "from": 72, "to": 52, "delta": -20, "rankFrom": 29, "rankTo": 31},
 {"at": "2026-11-08T06:51:06Z", "atIST": "2026-11-08 12:21:06", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "money", "from": 251, "to": 271, "delta": 20, "rankFrom": 10, "rankTo": 6},
 {"at": "2026-11-08T06:57:06Z", "atIST": "2026-11-08 12:27:06", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "stats", "fields": {"kills": {"from": 8, "to": 9}}},
-{"at": "2026-11-08T12:13:24Z", "atIST": "2026-11-08 17:43:24", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 258, "to": 278, "delta": 20, "rankFrom": 9, "rankTo": 6}
+{"at": "2026-11-08T12:13:24Z", "atIST": "2026-11-08 17:43:24", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 258, "to": 278, "delta": 20, "rankFrom": 9, "rankTo": 6},
+{"at": "2026-11-08T12:52:54Z", "atIST": "2026-11-08 18:22:54", "player": "AiroKun", "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb", "team": "Red Jokers", "type": "money", "from": 278, "to": 267, "delta": -11, "rankFrom": 6, "rankTo": 7},
+{"at": "2026-11-08T12:52:54Z", "atIST": "2026-11-08 18:22:54", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "money", "from": 0, "to": 11, "delta": 11, "rankFrom": 35, "rankTo": 34}
 ]
