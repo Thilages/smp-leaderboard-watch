@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T03:10:06Z",
-  "checkedAtIST": "2026-11-08 08:40:06",
-  "check": 7961,
+  "checkedAt": "2026-11-08T03:12:06Z",
+  "checkedAtIST": "2026-11-08 08:42:06",
+  "check": 7965,
   "lastChangeAt": "2026-11-08T02:37:36Z",
   "lastChangeAtIST": "2026-11-08 08:07:36",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -267,7 +267,7 @@
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
         "name": "Flowtives",
         "money": 437,
-        "online": false,
+        "online": true,
         "streamLink": "https://twitch.tv/flowtives",
         "vip": false,
         "team": "PINK_TEAM",
@@ -519,7 +519,7 @@
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
         "name": "tingzmc",
         "money": 168,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/tingz",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -743,7 +743,7 @@
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
         "name": "_Brinkz",
         "money": 0,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/brinkzlive",
         "vip": false,
         "team": "RED_TEAM",
@@ -751,7 +751,7 @@
         "tier": "C_TIER",
         "kills": 0,
         "deaths": 6,
-        "playtime": 2570
+        "playtime": 2858
       },
       {
         "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34",
