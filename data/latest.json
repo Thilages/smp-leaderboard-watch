@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T04:06:06Z",
-  "checkedAtIST": "2026-11-08 09:36:06",
-  "check": 8072,
+  "checkedAt": "2026-11-08T04:08:36Z",
+  "checkedAtIST": "2026-11-08 09:38:36",
+  "check": 8077,
   "lastChangeAt": "2026-11-08T03:38:37Z",
   "lastChangeAtIST": "2026-11-08 09:08:37",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -379,7 +379,7 @@
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 253,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/ronin",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -415,7 +415,7 @@
         "tier": "B_TIER",
         "kills": 4,
         "deaths": 2,
-        "playtime": 3249
+        "playtime": 3292
       },
       {
         "id": "60fa1bd7-54ed-4a86-aead-7409023e805e",
@@ -659,7 +659,7 @@
         "id": "0a497046-c0bd-48bf-902a-d7cf23e75937",
         "name": "McSolsy",
         "money": 55,
-        "online": false,
+        "online": true,
         "streamLink": "https://www.twitch.tv/sols",
         "vip": false,
         "team": "YELLOW_TEAM",
