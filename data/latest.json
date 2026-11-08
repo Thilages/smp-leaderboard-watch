@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T12:54:54Z",
-  "checkedAtIST": "2026-11-08 18:24:54",
-  "check": 9121,
+  "checkedAt": "2026-11-08T12:57:24Z",
+  "checkedAtIST": "2026-11-08 18:27:24",
+  "check": 9126,
   "lastChangeAt": "2026-11-08T12:52:54Z",
   "lastChangeAtIST": "2026-11-08 18:22:54",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -351,7 +351,7 @@
         "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
         "name": "AiroKun",
         "money": 267,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/airokun",
         "vip": false,
         "team": "RED_TEAM",
@@ -359,7 +359,7 @@
         "tier": "S_TIER",
         "kills": 9,
         "deaths": 5,
-        "playtime": 2974
+        "playtime": 3133
       },
       {
         "id": "b526f2af-fc5c-4ea0-b15e-4cba8da05eae",
