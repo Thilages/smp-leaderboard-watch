@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T02:07:42Z",
-  "checkedAtIST": "2026-11-08 07:37:42",
-  "check": 7837,
+  "checkedAt": "2026-11-08T02:10:12Z",
+  "checkedAtIST": "2026-11-08 07:40:12",
+  "check": 7842,
   "lastChangeAt": "2026-11-08T01:51:12Z",
   "lastChangeAtIST": "2026-11-08 07:21:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -435,7 +435,7 @@
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 224,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/fymada",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -443,7 +443,7 @@
         "tier": "F_TIER",
         "kills": 0,
         "deaths": 1,
-        "playtime": 2558
+        "playtime": 2576
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -477,7 +477,7 @@
         "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521",
         "name": "5uppps",
         "money": 196,
-        "online": true,
+        "online": false,
         "streamLink": "https://twitch.tv/5up",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -485,7 +485,7 @@
         "tier": "D_TIER",
         "kills": 0,
         "deaths": 2,
-        "playtime": 2315
+        "playtime": 2332
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
