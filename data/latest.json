@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T00:45:42Z",
-  "checkedAtIST": "2026-11-08 06:15:42",
-  "check": 7675,
-  "lastChangeAt": "2026-11-08T00:19:42Z",
-  "lastChangeAtIST": "2026-11-08 05:49:42",
+  "checkedAt": "2026-11-08T00:47:12Z",
+  "checkedAtIST": "2026-11-08 06:17:12",
+  "check": 7678,
+  "lastChangeAt": "2026-11-08T00:47:12Z",
+  "lastChangeAtIST": "2026-11-08 06:17:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -27,7 +27,7 @@
     {
       "team": "BLUE_TEAM",
       "name": "Blue Diamonds",
-      "money": 950,
+      "money": 980,
       "players": 6
     },
     {
@@ -39,7 +39,7 @@
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 560,
+      "money": 530,
       "players": 6
     }
   ],
@@ -148,45 +148,45 @@
     },
     {
       "rank": 18,
+      "name": "WyLL_",
+      "money": 175,
+      "team": "Blue Diamonds"
+    },
+    {
+      "rank": 19,
       "name": "ghostiefruit",
       "money": 173,
       "team": "Pink Hearts"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "tingzmc",
       "money": 168,
       "team": "Green Clubs"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Evbo_",
       "money": 166,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "saparata",
       "money": 155,
       "team": "Blue Diamonds"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "kantje",
       "money": 151,
       "team": "Purple Aces"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "RoyalPear_",
       "money": 148,
       "team": "Yellow Spades"
-    },
-    {
-      "rank": 24,
-      "name": "WyLL_",
-      "money": 145,
-      "team": "Blue Diamonds"
     },
     {
       "rank": 25,
@@ -238,15 +238,15 @@
     },
     {
       "rank": 33,
-      "name": "ClownPierce",
-      "money": 41,
-      "team": "Red Jokers"
-    },
-    {
-      "rank": 34,
       "name": "ConixD",
       "money": 18,
       "team": "Purple Aces"
+    },
+    {
+      "rank": 34,
+      "name": "ClownPierce",
+      "money": 11,
+      "team": "Red Jokers"
     },
     {
       "rank": 35,
@@ -295,7 +295,7 @@
         "id": "1afc1d6e-8682-4e69-aabd-de6d907424a4",
         "name": "JudeLow",
         "money": 316,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/jude_low",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -303,7 +303,7 @@
         "tier": "B_TIER",
         "kills": 2,
         "deaths": 3,
-        "playtime": 2472
+        "playtime": 2704
       },
       {
         "id": "e009ceb9-1984-4978-aa8e-246125ce4abd",
@@ -502,6 +502,20 @@
         "playtime": 2428
       },
       {
+        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
+        "name": "WyLL_",
+        "money": 175,
+        "online": true,
+        "streamLink": "https://www.youtube.com/@wyll_/videos",
+        "vip": false,
+        "team": "BLUE_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 2,
+        "deaths": 2,
+        "playtime": 2925
+      },
+      {
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 173,
@@ -584,20 +598,6 @@
         "kills": 1,
         "deaths": 3,
         "playtime": 3066
-      },
-      {
-        "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
-        "name": "WyLL_",
-        "money": 145,
-        "online": true,
-        "streamLink": "https://www.youtube.com/@wyll_/videos",
-        "vip": false,
-        "team": "BLUE_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 1,
-        "deaths": 2,
-        "playtime": 2925
       },
       {
         "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90",
@@ -712,20 +712,6 @@
         "playtime": 2715
       },
       {
-        "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
-        "name": "ClownPierce",
-        "money": 41,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/clownpierce",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": true,
-        "tier": "B_TIER",
-        "kills": 0,
-        "deaths": 4,
-        "playtime": 2455
-      },
-      {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
         "name": "ConixD",
         "money": 18,
@@ -738,6 +724,20 @@
         "kills": 0,
         "deaths": 7,
         "playtime": 2075
+      },
+      {
+        "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
+        "name": "ClownPierce",
+        "money": 11,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/clownpierce",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": true,
+        "tier": "B_TIER",
+        "kills": 0,
+        "deaths": 5,
+        "playtime": 2455
       },
       {
         "id": "61f2d8d7-82dd-4e4e-8428-eef129368762",
