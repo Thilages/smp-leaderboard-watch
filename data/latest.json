@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08T07:23:36Z",
-  "checkedAtIST": "2026-11-08 12:53:36",
-  "check": 8464,
+  "checkedAt": "2026-11-08T07:26:06Z",
+  "checkedAtIST": "2026-11-08 12:56:06",
+  "check": 8469,
   "lastChangeAt": "2026-11-08T06:57:06Z",
   "lastChangeAtIST": "2026-11-08 12:27:06",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -393,7 +393,7 @@
         "id": "3421e1a5-e89d-4994-b0cb-15bfbde70170",
         "name": "TryH4rdd",
         "money": 253,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ronin",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -401,7 +401,7 @@
         "tier": "A_TIER",
         "kills": 3,
         "deaths": 1,
-        "playtime": 3197
+        "playtime": 3395
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -533,7 +533,7 @@
         "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3",
         "name": "Evbo_",
         "money": 166,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/Evbo",
         "vip": false,
         "team": "BLUE_TEAM",
@@ -541,7 +541,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 2,
-        "playtime": 2810
+        "playtime": 3047
       },
       {
         "id": "296d434f-e781-4d44-9b66-469eab9d9bfe",
@@ -687,7 +687,7 @@
         "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
         "name": "InProper",
         "money": 52,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/proper",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -695,7 +695,7 @@
         "tier": "S_TIER",
         "kills": 9,
         "deaths": 3,
-        "playtime": 2822
+        "playtime": 2938
       },
       {
         "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
