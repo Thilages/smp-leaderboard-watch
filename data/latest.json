@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08T01:04:42Z",
-  "checkedAtIST": "2026-11-08 06:34:42",
-  "check": 7712,
-  "lastChangeAt": "2026-11-08T00:47:12Z",
-  "lastChangeAtIST": "2026-11-08 06:17:12",
+  "checkedAt": "2026-11-08T01:06:12Z",
+  "checkedAtIST": "2026-11-08 06:36:12",
+  "check": 7715,
+  "lastChangeAt": "2026-11-08T01:06:12Z",
+  "lastChangeAtIST": "2026-11-08 06:36:12",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
   "teams": [
     {
@@ -33,13 +33,13 @@
     {
       "team": "PURPLE_TEAM",
       "name": "Purple Aces",
-      "money": 792,
+      "money": 772,
       "players": 6
     },
     {
       "team": "RED_TEAM",
       "name": "Red Jokers",
-      "money": 530,
+      "money": 550,
       "players": 6
     }
   ],
@@ -106,15 +106,15 @@
     },
     {
       "rank": 11,
-      "name": "Fymada",
-      "money": 224,
-      "team": "Green Clubs"
+      "name": "AiroKun",
+      "money": 228,
+      "team": "Red Jokers"
     },
     {
       "rank": 12,
-      "name": "AiroKun",
-      "money": 208,
-      "team": "Red Jokers"
+      "name": "Fymada",
+      "money": 224,
+      "team": "Green Clubs"
     },
     {
       "rank": 13,
@@ -136,15 +136,15 @@
     },
     {
       "rank": 16,
-      "name": "InProper",
-      "money": 184,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 17,
       "name": "ItzRealMe",
       "money": 182,
       "team": "Yellow Spades"
+    },
+    {
+      "rank": 17,
+      "name": "InProper",
+      "money": 182,
+      "team": "Purple Aces"
     },
     {
       "rank": 18,
@@ -238,25 +238,25 @@
     },
     {
       "rank": 33,
-      "name": "ConixD",
-      "money": 18,
-      "team": "Purple Aces"
-    },
-    {
-      "rank": 34,
       "name": "ClownPierce",
       "money": 11,
       "team": "Red Jokers"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "_Brinkz",
       "money": 0,
       "team": "Red Jokers"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "sidefall",
+      "money": 0,
+      "team": "Purple Aces"
+    },
+    {
+      "rank": 36,
+      "name": "ConixD",
       "money": 0,
       "team": "Purple Aces"
     }
@@ -404,6 +404,20 @@
         "playtime": 2375
       },
       {
+        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
+        "name": "AiroKun",
+        "money": 228,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/airokun",
+        "vip": false,
+        "team": "RED_TEAM",
+        "captain": false,
+        "tier": "S_TIER",
+        "kills": 8,
+        "deaths": 5,
+        "playtime": 2605
+      },
+      {
         "id": "1a834d28-cb88-47fc-829b-2ca74854cb0f",
         "name": "Fymada",
         "money": 224,
@@ -416,20 +430,6 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 2297
-      },
-      {
-        "id": "71ca9d66-2171-4640-bbaa-d4edbedac1fb",
-        "name": "AiroKun",
-        "money": 208,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/airokun",
-        "vip": false,
-        "team": "RED_TEAM",
-        "captain": false,
-        "tier": "S_TIER",
-        "kills": 7,
-        "deaths": 5,
-        "playtime": 2605
       },
       {
         "id": "9d014960-3621-4861-8e44-1fa141e9b192",
@@ -474,20 +474,6 @@
         "playtime": 3753
       },
       {
-        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
-        "name": "InProper",
-        "money": 184,
-        "online": false,
-        "streamLink": "https://www.twitch.tv/proper",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": true,
-        "tier": "S_TIER",
-        "kills": 8,
-        "deaths": 3,
-        "playtime": 2569
-      },
-      {
         "id": "06ec3577-3299-45fa-bbdf-613b1f86c8ab",
         "name": "ItzRealMe",
         "money": 182,
@@ -500,6 +486,20 @@
         "kills": 0,
         "deaths": 1,
         "playtime": 2428
+      },
+      {
+        "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf",
+        "name": "InProper",
+        "money": 182,
+        "online": false,
+        "streamLink": "https://www.twitch.tv/proper",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": true,
+        "tier": "S_TIER",
+        "kills": 8,
+        "deaths": 3,
+        "playtime": 2569
       },
       {
         "id": "81cbe02c-58df-4316-953d-33a995e0d09e",
@@ -712,20 +712,6 @@
         "playtime": 2715
       },
       {
-        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
-        "name": "ConixD",
-        "money": 18,
-        "online": true,
-        "streamLink": "https://www.twitch.tv/conix",
-        "vip": false,
-        "team": "PURPLE_TEAM",
-        "captain": false,
-        "tier": "F_TIER",
-        "kills": 0,
-        "deaths": 7,
-        "playtime": 2075
-      },
-      {
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 11,
@@ -766,6 +752,20 @@
         "kills": 0,
         "deaths": 11,
         "playtime": 2424
+      },
+      {
+        "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679",
+        "name": "ConixD",
+        "money": 0,
+        "online": true,
+        "streamLink": "https://www.twitch.tv/conix",
+        "vip": false,
+        "team": "PURPLE_TEAM",
+        "captain": false,
+        "tier": "F_TIER",
+        "kills": 0,
+        "deaths": 8,
+        "playtime": 2075
       }
     ],
     "events": [
