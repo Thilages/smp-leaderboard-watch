@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-09T03:56:56Z",
-  "checkedAtIST": "2026-11-09 09:26:56",
-  "check": 10910,
+  "checkedAt": "2026-11-09T03:58:56Z",
+  "checkedAtIST": "2026-11-09 09:28:56",
+  "check": 10914,
   "lastChangeAt": "2026-11-09T03:20:56Z",
   "lastChangeAtIST": "2026-11-09 08:50:56",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -303,7 +303,7 @@
         "tier": "A_TIER",
         "kills": 11,
         "deaths": 3,
-        "playtime": 3843
+        "playtime": 3987
       },
       {
         "id": "05aee938-19b6-41a9-a3d2-8470d597cdf9",
