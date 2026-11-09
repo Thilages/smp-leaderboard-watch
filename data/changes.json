@@ -633,5 +633,6 @@
 {"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "kantje", "id": "1524e33a-a8e0-41df-92ef-e2847652602e", "team": "Purple Aces", "type": "joined", "money": 37, "rank": 33},
 {"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "type": "joined", "money": 12, "rank": 34},
 {"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "type": "joined", "money": 0, "rank": 35},
-{"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "joined", "money": 0, "rank": 36}
+{"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "joined", "money": 0, "rank": 36},
+{"at": "2026-11-09T01:16:26Z", "atIST": "2026-11-09 06:46:26", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Finale", "to": null}, "eventFinished": {"from": false, "to": true}}}
 ]
