@@ -708,5 +708,6 @@
 {"at": "2026-11-09T04:08:56Z", "atIST": "2026-11-09 09:38:56", "type": "left", "player": "Bormethius", "id": "b2d0f7aa-c84c-4df9-a34c-b33c90e3eb22", "team": "Yellow Spades", "money": 12},
 {"at": "2026-11-09T04:08:56Z", "atIST": "2026-11-09 09:38:56", "type": "left", "player": "tingzmc", "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722", "team": "Green Clubs", "money": 0},
 {"at": "2026-11-09T04:08:56Z", "atIST": "2026-11-09 09:38:56", "type": "left", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "money": 0},
-{"at": "2026-11-09T04:08:56Z", "atIST": "2026-11-09 09:38:56", "type": "event", "fields": {"eventName": {"from": "Season 7", "to": "Live Event"}}}
+{"at": "2026-11-09T04:08:56Z", "atIST": "2026-11-09 09:38:56", "type": "event", "fields": {"eventName": {"from": "Season 7", "to": "Live Event"}}},
+{"at": "2026-11-09T04:09:26Z", "atIST": "2026-11-09 09:39:26", "type": "event", "fields": {"eventName": {"from": "Live Event", "to": "Season 7"}}}
 ]
