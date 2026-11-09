@@ -648,5 +648,10 @@
 {"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "stats", "fields": {"kills": {"from": 5, "to": 6}}},
 {"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "Aramori", "id": "04d109cf-1fea-4ce5-84ba-767f07c65087", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 4, "to": 5}}},
 {"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 6, "to": 7}}},
-{"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 7, "to": 8}}}
+{"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 7, "to": 8}}},
+{"at": "2026-11-09T01:35:26Z", "atIST": "2026-11-09 07:05:26", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 2, "to": 3}}},
+{"at": "2026-11-09T01:35:56Z", "atIST": "2026-11-09 07:05:56", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"deaths": {"from": 3, "to": 4}}},
+{"at": "2026-11-09T01:35:56Z", "atIST": "2026-11-09 07:05:56", "player": "notbogur", "id": "bc674f6f-3f55-4d83-8179-4ad4e85b3783", "team": "Pink Hearts", "type": "stats", "fields": {"deaths": {"from": 7, "to": 8}}},
+{"at": "2026-11-09T01:35:56Z", "atIST": "2026-11-09 07:05:56", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 8, "to": 10}}},
+{"at": "2026-11-09T01:35:56Z", "atIST": "2026-11-09 07:05:56", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "stats", "fields": {"kills": {"from": 6, "to": 7}}}
 ]
