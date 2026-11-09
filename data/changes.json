@@ -667,5 +667,6 @@
 {"at": "2026-11-09T02:00:26Z", "atIST": "2026-11-09 07:30:26", "player": "saparata", "id": "296d434f-e781-4d44-9b66-469eab9d9bfe", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 4, "to": 5}}},
 {"at": "2026-11-09T02:04:56Z", "atIST": "2026-11-09 07:34:56", "player": "unixn", "id": "484650e1-08a7-40fc-ab22-3d11958aca56", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}},
 {"at": "2026-11-09T02:05:56Z", "atIST": "2026-11-09 07:35:56", "player": "saparata", "id": "296d434f-e781-4d44-9b66-469eab9d9bfe", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}},
-{"at": "2026-11-09T02:13:56Z", "atIST": "2026-11-09 07:43:56", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 6, "to": 7}}}
+{"at": "2026-11-09T02:13:56Z", "atIST": "2026-11-09 07:43:56", "player": "InProper", "id": "39f4a3dd-8d71-4944-9bef-54a3bcc9e9bf", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 6, "to": 7}}},
+{"at": "2026-11-09T02:23:26Z", "atIST": "2026-11-09 07:53:26", "player": "sidefall", "id": "54c89aa4-8b7d-4d51-865e-d97a0de22f34", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 15, "to": 16}}}
 ]
