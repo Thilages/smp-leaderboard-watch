@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-09T01:47:26Z",
-  "checkedAtIST": "2026-11-09 07:17:26",
-  "check": 10653,
+  "checkedAt": "2026-11-09T01:49:56Z",
+  "checkedAtIST": "2026-11-09 07:19:56",
+  "check": 10658,
   "lastChangeAt": "2026-11-09T01:39:56Z",
   "lastChangeAtIST": "2026-11-09 07:09:56",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -631,7 +631,7 @@
         "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f",
         "name": "ClownPierce",
         "money": 103,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/clownpierce",
         "vip": false,
         "team": "RED_TEAM",
@@ -639,7 +639,7 @@
         "tier": "B_TIER",
         "kills": 6,
         "deaths": 8,
-        "playtime": 2973
+        "playtime": 3261
       },
       {
         "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6",
@@ -757,7 +757,7 @@
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
         "name": "Only_A_Squid",
         "money": 0,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/only_a_squid",
         "vip": false,
         "team": "PURPLE_TEAM",
@@ -765,7 +765,7 @@
         "tier": "B_TIER",
         "kills": 2,
         "deaths": 6,
-        "playtime": 4971
+        "playtime": 4975
       }
     ],
     "events": [
