@@ -636,5 +636,17 @@
 {"at": "2026-11-09T01:15:56Z", "atIST": "2026-11-09 06:45:56", "player": "Only_A_Squid", "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0", "team": "Purple Aces", "type": "joined", "money": 0, "rank": 36},
 {"at": "2026-11-09T01:16:26Z", "atIST": "2026-11-09 06:46:26", "type": "event", "fields": {"isLive": {"from": true, "to": false}, "currentEvent": {"from": "Finale", "to": null}, "eventFinished": {"from": false, "to": true}}},
 {"at": "2026-11-09T01:32:56Z", "atIST": "2026-11-09 07:02:56", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 3, "to": 4}}},
-{"at": "2026-11-09T01:32:56Z", "atIST": "2026-11-09 07:02:56", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 9, "to": 10}}}
+{"at": "2026-11-09T01:32:56Z", "atIST": "2026-11-09 07:02:56", "player": "_Brinkz", "id": "61f2d8d7-82dd-4e4e-8428-eef129368762", "team": "Red Jokers", "type": "stats", "fields": {"deaths": {"from": 9, "to": 10}}},
+{"at": "2026-11-09T01:33:26Z", "atIST": "2026-11-09 07:03:26", "player": "scotteh", "id": "60fa1bd7-54ed-4a86-aead-7409023e805e", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 2, "to": 3}, "deaths": {"from": 0, "to": 1}}},
+{"at": "2026-11-09T01:33:26Z", "atIST": "2026-11-09 07:03:26", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 4, "to": 5}}},
+{"at": "2026-11-09T01:33:26Z", "atIST": "2026-11-09 07:03:26", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 6, "to": 7}}},
+{"at": "2026-11-09T01:33:26Z", "atIST": "2026-11-09 07:03:26", "player": "ConixD", "id": "8c6fd7d5-05dd-4103-b7e5-af761a362679", "team": "Purple Aces", "type": "stats", "fields": {"deaths": {"from": 12, "to": 13}}},
+{"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 5, "to": 6}}},
+{"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "5uppps", "id": "0f5e0db0-13a0-4125-a97a-e9f8e872d521", "team": "Green Clubs", "type": "stats", "fields": {"deaths": {"from": 5, "to": 6}}},
+{"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "Evbo_", "id": "c08ad74b-ad0b-44b5-8d1b-594d790edfb3", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 6, "to": 8}}},
+{"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "ClownPierce", "id": "9eec2157-c0cb-4846-98c2-fd1a7cd2b88f", "team": "Red Jokers", "type": "stats", "fields": {"kills": {"from": 2, "to": 3}}},
+{"at": "2026-11-09T01:33:56Z", "atIST": "2026-11-09 07:03:56", "player": "Greninja", "id": "ac38802e-9eb0-4fb2-ad79-739796e8c5d6", "team": "Red Jokers", "type": "stats", "fields": {"kills": {"from": 5, "to": 6}}},
+{"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "Aramori", "id": "04d109cf-1fea-4ce5-84ba-767f07c65087", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 4, "to": 5}}},
+{"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "InfamousJJ", "id": "9d014960-3621-4861-8e44-1fa141e9b192", "team": "Pink Hearts", "type": "stats", "fields": {"kills": {"from": 6, "to": 7}}},
+{"at": "2026-11-09T01:34:26Z", "atIST": "2026-11-09 07:04:26", "player": "BryTheGuyy", "id": "ab8a73ae-d717-416a-9702-aa1b46fe2f90", "team": "Blue Diamonds", "type": "stats", "fields": {"deaths": {"from": 7, "to": 8}}}
 ]
