@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-09T04:28:26Z",
-  "checkedAtIST": "2026-11-09 09:58:26",
-  "check": 10972,
+  "checkedAt": "2026-11-09T04:30:56Z",
+  "checkedAtIST": "2026-11-09 10:00:56",
+  "check": 10977,
   "lastChangeAt": "2026-11-09T04:28:26Z",
   "lastChangeAtIST": "2026-11-09 09:58:26",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
@@ -421,7 +421,7 @@
         "id": "8c3d406f-950e-4761-a7f1-0cf3202be59b",
         "name": "ghostiefruit",
         "money": 268,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/ghostiefruit",
         "vip": false,
         "team": "PINK_TEAM",
@@ -429,7 +429,7 @@
         "tier": "D_TIER",
         "kills": 2,
         "deaths": 3,
-        "playtime": 2944
+        "playtime": 3067
       },
       {
         "id": "8605661e-2890-4584-8f63-13ae37569d63",
@@ -743,7 +743,7 @@
         "id": "e9b9dae1-34fc-44ec-9e92-bb7fbcbde722",
         "name": "tingzmc",
         "money": 0,
-        "online": true,
+        "online": false,
         "streamLink": "https://www.twitch.tv/tingz",
         "vip": false,
         "team": "GREEN_TEAM",
@@ -751,7 +751,7 @@
         "tier": "C_TIER",
         "kills": 1,
         "deaths": 7,
-        "playtime": 3144
+        "playtime": 3600
       },
       {
         "id": "38bb57e9-f7cf-4269-a4c9-a4db4f2388b0",
