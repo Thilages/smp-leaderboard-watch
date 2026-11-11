@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-11T22:32:04Z",
-  "checkedAtIST": "2026-11-12 04:02:04",
-  "check": 17224,
+  "checkedAt": "2026-11-11T22:34:34Z",
+  "checkedAtIST": "2026-11-12 04:04:34",
+  "check": 17229,
   "lastChangeAt": "2026-11-09T05:38:26Z",
   "lastChangeAtIST": "2026-11-09 11:08:26",
   "source": "https://www.smp.money/api/public/leaderboards.getCurrentState?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
