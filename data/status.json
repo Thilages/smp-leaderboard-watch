@@ -4,7 +4,7 @@
   "runId": "44371439846",
   "pollSeconds": 30.0,
   "checksThisRun": 221,
-  "errorsThisRun": 12,
+  "errorsThisRun": 13,
   "state": "watching",
   "totalChecks": 36578,
   "totalChanges": 748,
@@ -16,5 +16,5 @@
   "runEndedAtIST": "2026-11-19 00:05:47",
   "lastChangeAt": "2026-11-09T05:38:26Z",
   "lastChangeAtIST": "2026-11-09 11:08:26",
-  "lastError": "2026-11-19 02:34:39 HTTP 500: [{\"error\":{\"json\":{\"message\":\"Failed query: select \\\"id\\\", \\\"event_blocked\\\", \\\"event_name\\\", \\\"feed_hidden\\\" from \\\"sit"
+  "lastError": "2026-11-19 02:38:45 HTTP 500: [{\"error\":{\"json\":{\"message\":\"Failed query: select \\\"id\\\", \\\"name\\\", \\\"start\\\", \\\"should_lock\\\", \\\"first_event\\\", \\\"ende"
 }
